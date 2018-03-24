@@ -1,4 +1,4 @@
-package loadEntity;
+package loadRecords;
 
 import com.csvreader.CsvReader;
 import dao.StudentsDao;
@@ -6,15 +6,20 @@ import enums.*;
 import model.Students;
 
 import java.io.IOException;
+import java.util.logging.Logger;
 
 public class LoadStudents implements LoadFromCsv {
+  private static Logger LOGGER = Logger.getLogger("InfoLogging");
+
   private CsvReader csvReader;
   private StudentsDao studentsDao;
 
+  public LoadStudents() {
+    studentsDao = new StudentsDao();
+  }
+
   @Override
   public void loadDatabase(String filePath) {
-    studentsDao = new StudentsDao();
-
     try {
       csvReader = new CsvReader(filePath);
       csvReader.readHeaders();
@@ -48,8 +53,10 @@ public class LoadStudents implements LoadFromCsv {
 
         if (studentsDao.ifNuidExists(neuId)) {
           studentsDao.updateStudentRecord(student);
+          LOGGER.info("Update student " + neuId);
         } else {
           studentsDao.addStudent(student);
+          LOGGER.info("Add student " + neuId);
         }
       }
     } catch (IOException e) {

@@ -24,52 +24,6 @@ public class WorkExperiencesDao {
     factory = new Configuration().configure().buildSessionFactory();
   }
 
-  public WorkExperiencesDao(boolean test) {
-    if (test) {
-      factory = new Configuration().configure("/hibernate_private_test.cfg.xml").buildSessionFactory();
-    }
-  }
-
-  /**
-   * Find a Work Experience by the Work Experience Id.
-   * This method searches the work experience from the private database.
-   *
-   * @param workExperienceId work experience Id in private database.
-   * @return Work Experience if found.
-   */
-  public WorkExperiences getWorkExperienceById(int workExperienceId) {
-    try {
-      session = factory.openSession();
-      org.hibernate.query.Query query = session.createQuery(
-              "FROM WorkExperiences WHERE workExperienceId = :workExperienceId");
-      query.setParameter("workExperienceId", workExperienceId);
-      List<WorkExperiences> listOfWorkExperience = query.list();
-      if (listOfWorkExperience.isEmpty())
-        return null;
-      return listOfWorkExperience.get(0);
-    } finally {
-      session.close();
-    }
-  }
-
-  /**
-   * Find work experience records of a student in private DB.
-   *
-   * @param neuId the neu Id of a student; not null.
-   * @return List of Work Experiences.
-   */
-  public List<WorkExperiences> getWorkExperiencesByNeuId(String neuId) {
-    try {
-      session = factory.openSession();
-      org.hibernate.query.Query query = session.createQuery(
-              "FROM WorkExperiences WHERE neuId = :neuId");
-      query.setParameter("neuId", neuId);
-      return (List<WorkExperiences>) query.list();
-    } finally {
-      session.close();
-    }
-  }
-
   /**
    * Create a work experience in the private database.
    * This function requires the StudentsPublic object and the Companies
@@ -96,43 +50,17 @@ public class WorkExperiencesDao {
   }
 
   /**
-   * Delete a work experience in the private database.
+   * Update a work experience in the private DB.
    *
-   * @param workExperienceId the work experience Id to be deleted.
-   * @return true if work experience is deleted, false otherwise.
+   * @param workExperience work experience object; not null.
+   * @return true if the work experience is updated, false otherwise.
    */
-  public boolean deleteWorkExperienceById(int workExperienceId) {
-    WorkExperiences workExperiences = getWorkExperienceById(workExperienceId);
-    if (workExperiences != null) {
-      session = factory.openSession();
-      Transaction tx = null;
-      try {
-        tx = session.beginTransaction();
-        session.delete(workExperiences);
-        tx.commit();
-      } catch (HibernateException e) {
-        if (tx != null) tx.rollback();
-        throw new HibernateException(e);
-      } finally {
-        session.close();
-      }
-    } else {
-      throw new HibernateException("work experience id does not exist");
-    }
-
-    return true;
-  }
-
-  public boolean deleteWorkExperienceByNeuId(String neuId) {
+  public boolean updateWorkExperience(WorkExperiences workExperience) {
+    session = factory.openSession();
     Transaction tx = null;
-
     try {
-      session = factory.openSession();
       tx = session.beginTransaction();
-      org.hibernate.query.Query query = session.createQuery("DELETE FROM WorkExperiences " +
-              "WHERE neuId = :neuId ");
-      query.setParameter("neuId", neuId);
-      query.executeUpdate();
+      session.saveOrUpdate(workExperience);
       tx.commit();
     } catch (HibernateException e) {
       if (tx != null) tx.rollback();
@@ -140,33 +68,30 @@ public class WorkExperiencesDao {
     } finally {
       session.close();
     }
-
     return true;
   }
 
   /**
-   * Update a work experience in the private DB.
+   * Check if a specific work experience in database based on id.
    *
-   * @param workExperience work experience object; not null.
-   * @return true if the work experience is updated, false otherwise.
+   * @param workExperienceId Work Experience Id
+   * @return true if existed, false if not.
    */
-  public boolean updateWorkExperience(WorkExperiences workExperience) {
-    if (getWorkExperienceById(workExperience.getWorkExperienceId()) != null) {
+  public boolean ifExperienceidExists(String workExperienceId) {
+    boolean find = false;
+
+    try {
       session = factory.openSession();
-      Transaction tx = null;
-      try {
-        tx = session.beginTransaction();
-        session.saveOrUpdate(workExperience);
-        tx.commit();
-      } catch (HibernateException e) {
-        if (tx != null) tx.rollback();
-        throw new HibernateException(e);
-      } finally {
-        session.close();
+      org.hibernate.query.Query query = session.createQuery("FROM WorkExperiences WHERE workExperienceId = :workExperienceId");
+      query.setParameter("workExperienceId", workExperienceId);
+      List list = query.list();
+      if (!list.isEmpty()) {
+        find = true;
       }
-    } else {
-      throw new HibernateException("Work Experience ID does not exist");
+    } finally {
+      session.close();
     }
-    return true;
+
+    return find;
   }
 }
