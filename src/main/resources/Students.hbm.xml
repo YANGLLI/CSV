@@ -1,0 +1,95 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="model.Students" table="Students">
+
+
+		<meta attribute="class-description">
+			This class contains the Student detail.
+		</meta>
+
+		<id name="neuId" type="string" column="NeuId">
+			<generator class="assigned" />
+		</id>
+
+		<properties name="uq_Students_Email" unique="true">
+			<property name="email" column="Email" type="string" />
+		</properties>
+
+		<property name="firstName" column="FirstName" type="string" />
+		<property name="middleName" column="MiddleName" type="string" />
+		<property name="lastName" column="LastName" type="string" />
+		<property name="gender" column="Gender">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.Gender</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+		<property name="race" column="Race" type="string" />
+		<property name="scholarship" column="Scholarship" type="boolean" />
+		<property name="visa" column="visa" type="string" />
+		<property name="phoneNum" column="Phone" type="string" />
+		<property name="address" column="Address" type="string" />
+		<property name="state" column="State" type="string" />
+		<property name="city" column="City" type="string" />
+		<property name="zip" column="Zip" type="string" />
+
+		<property name="entryTerm" column="EntryTerm">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.Term</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+
+		<property name="entryYear" column="EntryYear" type="int" />
+		<property name="expectedLastYear" column="ExpectedLastYear"
+			type="int" />
+
+		<property name="expectedLastTerm" column="ExpectedLastTerm">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.Term</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+
+		<property name="enrollmentStatus" column="EnrollmentStatus">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.EnrollmentStatus</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+
+		<property name="campus" column="Campus">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.Campus</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+
+		<property name="degree" column="DegreeCandidacy">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">enums.DegreeCandidacy</param>
+				<param name="type">12</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+		<property name="photo" column="Photo" type="blob" />
+
+		<property name="visible" column="Visible" type="boolean" />
+		<property name="linkedin" column="Linkedin" type="string" />
+		<property name="facebook" column="Facebook" type="string" />
+		<property name="github" column="Github" type="string" />
+		<property name="website" column="Website" type="string" />
+		<property name="skills" column="Skills" type="string" />
+		<property name="summary" column="Summary" type="string" />
+
+	</class>
+</hibernate-mapping>

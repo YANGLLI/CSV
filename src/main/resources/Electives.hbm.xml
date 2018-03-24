@@ -1,0 +1,40 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="model.Electives" table="Electives">
+
+        <meta attribute="class-description">
+            This class contains the Course details.
+        </meta>
+
+        <id name="electiveId" type="int" column="ElectiveId">
+            <generator class="native" />
+        </id>
+
+        <!--<many-to-one name="student" class="org.alignprivate.asd.model.StudentsPublic"-->
+        <!--column="NeuId" />-->
+
+        <!--<many-to-one name="course" class="org.alignprivate.asd.model.Courses"-->
+        <!--column="CourseId" />-->
+
+        <property name="neuId" column="NeuId" type="string" />
+
+        <property name="courseId" column="CourseId" type="string" />
+
+        <property name="courseName" column="CourseName" type="string" />
+
+        <property name = "courseTerm" column = "CourseTerm">
+            <type name= "org.hibernate.type.EnumType">
+                <param name="enumClass">enums.Term</param>
+                <param name="type">12</param>
+                <param name="useNamed">true</param>
+            </type>
+        </property>
+
+        <property name="courseYear" column="CourseYear" type="int" />
+
+    </class>
+</hibernate-mapping>

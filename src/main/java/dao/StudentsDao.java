@@ -1,0 +1,109 @@
+package dao;
+
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import enums.Campus;
+import enums.DegreeCandidacy;
+import enums.Gender;
+import model.Students;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class StudentsDao {
+  private SessionFactory factory;
+  private Session session;
+
+  public SessionFactory getFactory() {
+    return factory;
+  }
+
+  public Session getSession() {
+    return session;
+  }
+
+  /**
+   * Default Constructor.
+   */
+  public StudentsDao() {
+    // it will check the hibernate.cfg.xml file and load it
+    // next it goes to all table files in the hibernate file and loads them
+    factory = new Configuration().configure().buildSessionFactory();
+  }
+
+  /**
+   * This is the function to add a student into database.
+   *
+   * @param student student to be inserted
+   * @return inserted student if successful. Otherwise null.
+   */
+  public void addStudent(Students student) {
+    Transaction tx = null;
+
+    try {
+      session = factory.openSession();
+      tx = session.beginTransaction();
+      session.save(student);
+      tx.commit();
+    } catch (HibernateException e) {
+      if (tx != null) tx.rollback();
+      throw new HibernateException(e);
+    } finally {
+      session.close();
+    }
+  }
+
+  /**
+   * Update a student record with most recent details.
+   *
+   * @param student which contains the new student details.
+   * @return true if successful. Otherwise, false.
+   */
+  public boolean updateStudentRecord(Students student) {
+    Transaction tx = null;
+    String neuId = student.getNeuId();
+
+    try {
+      session = factory.openSession();
+      tx = session.beginTransaction();
+      session.saveOrUpdate(student);
+      tx.commit();
+    } catch (HibernateException e) {
+      if (tx != null) tx.rollback();
+      throw new HibernateException(e);
+    } finally {
+      session.close();
+    }
+
+    return true;
+  }
+
+  /**
+   * Check if a specific student existed in database based on neu id.
+   *
+   * @param neuId Student Neu Id
+   * @return true if existed, false if not.
+   */
+  public boolean ifNuidExists(String neuId) {
+    boolean find = false;
+
+    try {
+      session = factory.openSession();
+      org.hibernate.query.Query query = session.createQuery("FROM Students WHERE neuId = :studentNeuId");
+      query.setParameter("studentNeuId", neuId);
+      List list = query.list();
+      if (!list.isEmpty()) {
+        find = true;
+      }
+    } finally {
+      session.close();
+    }
+
+    return find;
+  }
+}
