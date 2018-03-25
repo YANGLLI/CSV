@@ -1,11 +1,11 @@
 package dao;
 
+import enums.Term;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-import enums.Campus;
 import model.Electives;
 
 import java.util.List;
@@ -13,6 +13,14 @@ import java.util.List;
 public class ElectivesDao {
   private SessionFactory factory;
   private Session session;
+
+  public SessionFactory getFactory() {
+    return factory;
+  }
+
+  public Session getSession() {
+    return session;
+  }
 
   /**
    * Default Constructor.
@@ -31,14 +39,10 @@ public class ElectivesDao {
    * @return true if insert successfully. Otherwise throws exception.
    */
   public Electives addElective(Electives elective) {
-    if (elective == null) {
-      return null;
-    }
-
     Transaction tx = null;
-    session = factory.openSession();
 
     try {
+      session = factory.openSession();
       tx = session.beginTransaction();
       session.save(elective);
       tx.commit();
@@ -53,9 +57,9 @@ public class ElectivesDao {
   }
 
   public boolean updateElectives(Electives elective) {
-    session = factory.openSession();
     Transaction tx = null;
     try {
+      session = factory.openSession();
       tx = session.beginTransaction();
       session.saveOrUpdate(elective);
       tx.commit();
@@ -90,5 +94,39 @@ public class ElectivesDao {
     }
 
     return find;
+  }
+
+  /**
+   * Get a unique elective from database
+   *
+   * @param neuId
+   * @param courseId
+   * @param term
+   * @param year
+   * @return
+   */
+  public Electives getElective(String neuId, String courseId, Term term, int year) {
+    boolean find = false;
+    Electives elective = null;
+
+    try {
+      session = factory.openSession();
+      org.hibernate.query.Query query = session.createQuery("FROM Electives WHERE neuId = :neuId " +
+              "AND courseId = :courseId " +
+              "AND courseTerm = :courseTerm " +
+              "AND courseYear = :courseYear");
+      query.setParameter("neuId", neuId);
+      query.setParameter("courseId", courseId);
+      query.setParameter("courseTerm", term);
+      query.setParameter("courseYear", year);
+      List list = query.list();
+      if (!list.isEmpty()) {
+        elective = (Electives) list.get(0);
+      }
+    } finally {
+      session.close();
+    }
+
+    return elective;
   }
 }

@@ -10,9 +10,16 @@ import model.Courses;
 import java.util.List;
 
 public class CoursesDao {
-
   private SessionFactory factory;
   private Session session;
+
+  public SessionFactory getFactory() {
+    return factory;
+  }
+
+  public Session getSession() {
+    return session;
+  }
 
   /**
    * Default constructor.

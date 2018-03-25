@@ -5,15 +5,22 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-import enums.Campus;
 import model.WorkExperiences;
 
-import javax.persistence.TypedQuery;
+import java.util.Date;
 import java.util.List;
 
 public class WorkExperiencesDao {
   private SessionFactory factory;
   private Session session;
+
+  public SessionFactory getFactory() {
+    return factory;
+  }
+
+  public Session getSession() {
+    return session;
+  }
 
   /**
    * Default constructor.
@@ -56,9 +63,9 @@ public class WorkExperiencesDao {
    * @return true if the work experience is updated, false otherwise.
    */
   public boolean updateWorkExperience(WorkExperiences workExperience) {
-    session = factory.openSession();
     Transaction tx = null;
     try {
+      session = factory.openSession();
       tx = session.beginTransaction();
       session.saveOrUpdate(workExperience);
       tx.commit();
@@ -72,26 +79,33 @@ public class WorkExperiencesDao {
   }
 
   /**
-   * Check if a specific work experience in database based on id.
+   * Check if work experience already exists in database.
    *
-   * @param workExperienceId Work Experience Id
-   * @return true if existed, false if not.
+   * @param neuId
+   * @param companyName
+   * @param startDate
+   * @return
    */
-  public boolean ifExperienceidExists(String workExperienceId) {
+  public WorkExperiences getWorkExperience(String neuId, String companyName, Date startDate) {
     boolean find = false;
+    WorkExperiences experience = null;
 
     try {
       session = factory.openSession();
-      org.hibernate.query.Query query = session.createQuery("FROM WorkExperiences WHERE workExperienceId = :workExperienceId");
-      query.setParameter("workExperienceId", workExperienceId);
+      org.hibernate.query.Query query = session.createQuery("FROM WorkExperiences WHERE neuId = :neuId " +
+              "AND companyName = :companyName " +
+              "AND startDate = :startDate");
+      query.setParameter("neuId", neuId);
+      query.setParameter("companyName", companyName);
+      query.setParameter("startDate", startDate);
       List list = query.list();
       if (!list.isEmpty()) {
-        find = true;
+        experience = (WorkExperiences) list.get(0);
       }
     } finally {
       session.close();
     }
 
-    return find;
+    return experience;
   }
 }

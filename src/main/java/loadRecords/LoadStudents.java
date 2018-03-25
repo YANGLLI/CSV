@@ -53,10 +53,10 @@ public class LoadStudents implements LoadFromCsv {
 
         if (studentsDao.ifNuidExists(neuId)) {
           studentsDao.updateStudentRecord(student);
-          LOGGER.info("Update student " + neuId);
+          LOGGER.info("Update student for " + neuId);
         } else {
           studentsDao.addStudent(student);
-          LOGGER.info("Add student " + neuId);
+          LOGGER.info("Add student for " + neuId);
         }
       }
     } catch (IOException e) {

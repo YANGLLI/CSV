@@ -21,15 +21,15 @@ public class MainScript {
     MainScript script = new MainScript();
 
     script.setLoadcsv(new LoadCourses());
-    script.getLoadcsv().loadDatabase("filePath");
+    script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/Courses.csv");
 
     script.setLoadcsv(new LoadStudents());
     script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/Students.csv");
 
     script.setLoadcsv(new LoadElectives());
-    script.getLoadcsv().loadDatabase("filePath");
+    script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/Electives.csv");
 
     script.setLoadcsv(new LoadWorkExperiences());
-    script.getLoadcsv().loadDatabase("filePath");
+    script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/WorkExperiences.csv");
   }
 }
