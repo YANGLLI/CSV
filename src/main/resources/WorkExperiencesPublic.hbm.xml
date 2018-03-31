@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "model.alignpublic.WorkExperiencesPublic" table="WorkExperiences">
+
+        <meta attribute = "class-description">
+            This class contains the Coop detail for Public Database.
+        </meta>
+        <id name = "workExperienceId" column="WorkExperienceId" type="int">
+            <generator class="native"/>
+        </id>
+
+        <properties name="uq_WorkExperiences_WorkExperience" unique="true">
+            <property name = "publicId" column="PublicId" type="int" />
+            <property name = "coop" column="Coop" type="string" />
+        </properties>
+
+    </class>
+</hibernate-mapping>

@@ -1,11 +1,13 @@
-package loadRecords.LoadPrivate;
+package loadRecords;
 
 import com.csvreader.CsvReader;
 import dao.alignprivate.PriorEducationsDao;
 import dao.alignprivate.StudentsDao;
+import dao.alignpublic.UndergraduatesPublicDao;
 import enums.DegreeCandidacy;
 import loadRecords.LoadFromCsv;
 import model.alignprivate.PriorEducations;
+import model.alignpublic.UndergraduatesPublic;
 
 import java.io.IOException;
 import java.text.ParseException;
@@ -17,11 +19,13 @@ public class LoadPriorEducations implements LoadFromCsv {
   private static Logger LOGGER = Logger.getLogger("InfoLogging");
   private CsvReader csvReader;
   private PriorEducationsDao priorEducationsDao;
+  private UndergraduatesPublicDao undergraduatesPublicDao;
   private StudentsDao studentsDao;
 
   public LoadPriorEducations() {
     priorEducationsDao = new PriorEducationsDao();
     studentsDao = new StudentsDao();
+    undergraduatesPublicDao = new UndergraduatesPublicDao();
   }
 
   @Override
@@ -50,6 +54,15 @@ public class LoadPriorEducations implements LoadFromCsv {
           LOGGER.info("Update prior education " + priorEducation);
         } else {
           priorEducationsDao.createPriorEducation(priorEducation);
+          if (degree.equals(DegreeCandidacy.BACHELORS)) {
+            int publicId = studentsDao.getStudentPublicId(neuId);
+            UndergraduatesPublic undergraduatesPublic = new UndergraduatesPublic();
+            undergraduatesPublic.setPublicId(publicId);
+            undergraduatesPublic.setUndergradDegree(degree.toString());
+            undergraduatesPublic.setUndergradSchool(institutionName);
+
+            undergraduatesPublicDao.createUndergraduate(undergraduatesPublic);
+          }
           LOGGER.info("Add prior education " + priorEducation);
         }
       }
@@ -60,6 +73,7 @@ public class LoadPriorEducations implements LoadFromCsv {
     } finally {
       csvReader.close();
       priorEducationsDao.getFactory().close();
+      undergraduatesPublicDao.getFactory().close();
       studentsDao.getFactory().close();
     }
   }

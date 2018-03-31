@@ -1,24 +1,14 @@
 import loadRecords.*;
-import loadRecords.LoadPrivate.*;
 
 public class MainScript {
-  public LoadFromCsv loaderCsv;
-  public LoadPublic loaderPublic;
+  public LoadFromCsv loader;
 
   public LoadFromCsv getLoadcsv() {
-    return loaderCsv;
+    return loader;
   }
 
-  public void setLoadcsv(LoadFromCsv loaderCsv) {
-    this.loaderCsv = loaderCsv;
-  }
-
-  public LoadPublic getLoaderPublic() {
-    return loaderPublic;
-  }
-
-  public void setLoaderPublic(LoadPublic loaderPublic) {
-    this.loaderPublic = loaderPublic;
+  public void setLoadcsv(LoadFromCsv loader) {
+    this.loader = loader;
   }
 
   /**

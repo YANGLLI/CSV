@@ -1,4 +1,4 @@
-package loadRecords.LoadPrivate;
+package loadRecords;
 
 import com.csvreader.CsvReader;
 import dao.alignprivate.CoursesDao;

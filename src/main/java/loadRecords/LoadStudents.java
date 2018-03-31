@@ -1,12 +1,14 @@
-package loadRecords.LoadPrivate;
+package loadRecords;
 
 import com.csvreader.CsvReader;
 import dao.alignprivate.PrivaciesDao;
 import dao.alignprivate.StudentsDao;
+import dao.alignpublic.StudentsPublicDao;
 import enums.*;
 import loadRecords.LoadFromCsv;
 import model.alignprivate.Privacies;
 import model.alignprivate.Students;
+import model.alignpublic.StudentsPublic;
 
 import java.io.IOException;
 import java.util.logging.Logger;
@@ -16,11 +18,13 @@ public class LoadStudents implements LoadFromCsv {
 
   private CsvReader csvReader;
   private StudentsDao studentsDao;
+  private StudentsPublicDao studentsPublicDao;
   private PrivaciesDao privaciesDao;
 
   public LoadStudents() {
     studentsDao = new StudentsDao();
     privaciesDao = new PrivaciesDao();
+    studentsPublicDao = new StudentsPublicDao();
   }
 
   @Override
@@ -57,18 +61,24 @@ public class LoadStudents implements LoadFromCsv {
                 status, campus, degree, null, false);
 
         if (studentsDao.ifNuidExists(neuId)) {
+          int publicId = studentsDao.getStudentPublicId(neuId);
+          student.setPublicId(publicId);
           studentsDao.updateStudentRecord(student);
           LOGGER.info("Update student " + student);
         } else {
           studentsDao.addStudent(student);
           int publicId = studentsDao.getStudentPublicId(neuId);
 
+          StudentsPublic studentsPublic = new StudentsPublic(publicId, graduateYear, true);
+          studentsPublicDao.createStudent(studentsPublic);
+
           Privacies privacy = new Privacies();
           privacy.setNeuId(neuId);
           privacy.setPublicId(publicId);
           privacy.setVisibleToPublic(true);
           privaciesDao.createPrivacy(privacy);
-          LOGGER.info("Add student " + student + " and privacy " + privacy);
+
+          LOGGER.info("Add student " + student + " and privacy " + privacy + " and public student" + publicId);
         }
       }
     } catch (IOException e) {
@@ -77,6 +87,7 @@ public class LoadStudents implements LoadFromCsv {
       csvReader.close();
       studentsDao.getFactory().close();
       privaciesDao.getFactory().close();
+      studentsPublicDao.getFactory().close();
     }
   }
 }

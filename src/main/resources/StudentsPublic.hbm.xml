@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="model.alignpublic.StudentsPublic" table="Students">
+
+        <meta attribute="class-description">
+            This class contains the Students detail for Public Database.
+        </meta>
+        <id name="publicId" column="PublicId" type="int">
+            <generator class="assigned"/>
+        </id>
+
+        <property name="graduationYear" column="GraduationYear" type="int"/>
+
+        <property name="visibleToPublic" column="VisibleToPubilc" type="boolean"/>
+
+    </class>
+</hibernate-mapping>
