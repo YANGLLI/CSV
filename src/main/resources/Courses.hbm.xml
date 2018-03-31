@@ -4,7 +4,7 @@
         "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-	<class name="model.Courses" table="Courses">
+	<class name="model.alignprivate.Courses" table="Courses">
 
 		<meta attribute="class-description">
 			This class contains the Course detail.

@@ -1,9 +1,12 @@
-package loadRecords;
+package loadRecords.LoadPrivate;
 
 import com.csvreader.CsvReader;
-import dao.StudentsDao;
+import dao.alignprivate.PrivaciesDao;
+import dao.alignprivate.StudentsDao;
 import enums.*;
-import model.Students;
+import loadRecords.LoadFromCsv;
+import model.alignprivate.Privacies;
+import model.alignprivate.Students;
 
 import java.io.IOException;
 import java.util.logging.Logger;
@@ -13,9 +16,11 @@ public class LoadStudents implements LoadFromCsv {
 
   private CsvReader csvReader;
   private StudentsDao studentsDao;
+  private PrivaciesDao privaciesDao;
 
   public LoadStudents() {
     studentsDao = new StudentsDao();
+    privaciesDao = new PrivaciesDao();
   }
 
   @Override
@@ -53,10 +58,17 @@ public class LoadStudents implements LoadFromCsv {
 
         if (studentsDao.ifNuidExists(neuId)) {
           studentsDao.updateStudentRecord(student);
-          LOGGER.info("Update student for " + neuId);
+          LOGGER.info("Update student " + student);
         } else {
           studentsDao.addStudent(student);
-          LOGGER.info("Add student for " + neuId);
+          int publicId = studentsDao.getStudentPublicId(neuId);
+
+          Privacies privacy = new Privacies();
+          privacy.setNeuId(neuId);
+          privacy.setPublicId(publicId);
+          privacy.setVisibleToPublic(true);
+          privaciesDao.createPrivacy(privacy);
+          LOGGER.info("Add student " + student + " and privacy " + privacy);
         }
       }
     } catch (IOException e) {
@@ -64,6 +76,7 @@ public class LoadStudents implements LoadFromCsv {
     } finally {
       csvReader.close();
       studentsDao.getFactory().close();
+      privaciesDao.getFactory().close();
     }
   }
 }

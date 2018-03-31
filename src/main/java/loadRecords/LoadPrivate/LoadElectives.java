@@ -1,12 +1,12 @@
-package loadRecords;
+package loadRecords.LoadPrivate;
 
 import com.csvreader.CsvReader;
-import dao.CoursesDao;
-import dao.ElectivesDao;
-import dao.StudentsDao;
+import dao.alignprivate.CoursesDao;
+import dao.alignprivate.ElectivesDao;
+import dao.alignprivate.StudentsDao;
 import enums.Term;
-import model.Courses;
-import model.Electives;
+import loadRecords.LoadFromCsv;
+import model.alignprivate.Electives;
 
 import java.io.IOException;
 import java.util.logging.Logger;
@@ -35,11 +35,11 @@ public class LoadElectives implements LoadFromCsv {
         String neuId = csvReader.get("NeuId").trim();
         String courseId = csvReader.get("CourseId").trim();
         String courseName = csvReader.get("Course_Name").trim();
-        String term = csvReader.get("Term").trim();
+        Term term = Term.valueOf(csvReader.get("Term").trim());
         int year = Integer.valueOf(csvReader.get("Year").trim());
 
-        Electives elective = new Electives(neuId, courseId, courseName, Term.valueOf(term), year);
-        Electives existElective = electivesDao.getElective(neuId, courseId, Term.valueOf(term), year);
+        Electives elective = new Electives(neuId, courseId, courseName, term, year);
+        Electives existElective = electivesDao.getElective(neuId, courseId, term, year);
 
         if (!studentsDao.ifNuidExists(neuId)) {
           LOGGER.info("No student exists for " + neuId);
@@ -48,10 +48,10 @@ public class LoadElectives implements LoadFromCsv {
         } else if (existElective != null) {
           elective.setElectiveId(existElective.getElectiveId());
           electivesDao.updateElectives(elective);
-          LOGGER.info("Update course for " + courseId);
+          LOGGER.info("Update elective " + elective);
         } else {
           electivesDao.addElective(elective);
-          LOGGER.info("Add course for " + courseId);
+          LOGGER.info("Add elective " + elective);
         }
       }
     } catch (IOException e) {

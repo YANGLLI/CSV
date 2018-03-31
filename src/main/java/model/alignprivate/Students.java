@@ -1,4 +1,4 @@
-package model;
+package model.alignprivate;
 
 import enums.*;
 
@@ -6,6 +6,7 @@ import java.sql.Blob;
 
 public class Students {
   private String neuId;
+  private int publicId;
   private String email;
   private String firstName;
   private String middleName;
@@ -34,34 +35,6 @@ public class Students {
   private String website;
   private String skills;
   private String summary;
-
-  public Students(String neuId, String email, String firstName, String middleName, String lastName, Gender gender,
-                  String visa, String phoneNum, String address, String state, String city, String zip,
-                  Term entryTerm, int entryYear, Term expectedLastTerm, int expectedLastYear,
-                  EnrollmentStatus status, Campus campus, DegreeCandidacy degree, Blob photo, boolean visible) {
-    this.neuId = neuId;
-    this.email = email;
-    this.firstName = firstName;
-    this.middleName = middleName;
-    this.lastName = lastName;
-    this.gender = gender;
-    this.scholarship = false;
-    this.visa = visa;
-    this.phoneNum = phoneNum;
-    this.address = address;
-    this.state = state;
-    this.city = city;
-    this.zip = zip;
-    this.entryTerm = entryTerm;
-    this.entryYear = entryYear;
-    this.expectedLastTerm = expectedLastTerm;
-    this.expectedLastYear = expectedLastYear;
-    this.enrollmentStatus = status;
-    this.campus = campus;
-    this.degree = degree;
-    this.photo = photo;
-    this.visible = visible;
-  }
 
   public Students(String neuId, String email, String firstName, String middleName, String lastName, Gender gender, String race,
                   String visa, String phoneNum, String address, String state, String city, String zip,
@@ -102,6 +75,14 @@ public class Students {
 
   public void setNeuId(String neuId) {
     this.neuId = neuId;
+  }
+
+  public int getPublicId() {
+    return publicId;
+  }
+
+  public void setPublicId(int publicId) {
+    this.publicId = publicId;
   }
 
   public String getEmail() {
@@ -332,22 +313,6 @@ public class Students {
   public String toString() {
     return "StudentsPublic{" +
             "neuId='" + neuId + '\'' +
-            ", email='" + email + '\'' +
-            ", firstName='" + firstName + '\'' +
-            ", middleName='" + middleName + '\'' +
-            ", lastName='" + lastName + '\'' +
-            ", gender=" + gender +
-            ", scholarship=" + scholarship +
-            ", visa=" + visa +
-            ", phoneNum='" + phoneNum + '\'' +
-            ", address='" + address + '\'' +
-            ", state='" + state + '\'' +
-            ", city='" + city + '\'' +
-            ", zip='" + zip + '\'' +
-            ", enrollmentStatus=" + enrollmentStatus +
-            ", campus=" + campus +
-            ", degree=" + degree +
-            ", photo=" + photo +
             '}';
   }
 }

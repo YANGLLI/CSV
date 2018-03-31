@@ -1,4 +1,4 @@
-package dao;
+package dao.alignprivate;
 
 import enums.Term;
 import org.hibernate.HibernateException;
@@ -6,7 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-import model.Electives;
+import model.alignprivate.Electives;
 
 import java.util.List;
 
@@ -70,30 +70,6 @@ public class ElectivesDao {
       session.close();
     }
     return true;
-  }
-
-  /**
-   * Check if a specific elective in database based on id.
-   *
-   * @param electiveId Elective Id
-   * @return true if existed, false if not.
-   */
-  public boolean ifElectiveidExists(String electiveId) {
-    boolean find = false;
-
-    try {
-      session = factory.openSession();
-      org.hibernate.query.Query query = session.createQuery("FROM Electives WHERE electiveId = :electiveId");
-      query.setParameter("electiveId", electiveId);
-      List list = query.list();
-      if (!list.isEmpty()) {
-        find = true;
-      }
-    } finally {
-      session.close();
-    }
-
-    return find;
   }
 
   /**

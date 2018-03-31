@@ -4,7 +4,7 @@
         "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-    <class name="model.Electives" table="Electives">
+    <class name="model.alignprivate.Electives" table="Electives">
 
         <meta attribute="class-description">
             This class contains the Course details.
@@ -17,7 +17,7 @@
         <!--<many-to-one name="student" class="org.alignprivate.asd.model.StudentsPublic"-->
         <!--column="NeuId" />-->
 
-        <!--<many-to-one name="course" class="org.alignprivate.asd.model.Courses"-->
+        <!--<many-to-one name="course" class="org.alignprivate.asd.model.alignprivate.Courses"-->
         <!--column="CourseId" />-->
 
         <property name="neuId" column="NeuId" type="string" />

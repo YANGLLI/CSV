@@ -1,9 +1,10 @@
-package loadRecords;
+package loadRecords.LoadPrivate;
 
 import com.csvreader.CsvReader;
-import dao.StudentsDao;
-import dao.WorkExperiencesDao;
-import model.WorkExperiences;
+import dao.alignprivate.StudentsDao;
+import dao.alignprivate.WorkExperiencesDao;
+import loadRecords.LoadFromCsv;
+import model.alignprivate.WorkExperiences;
 
 import java.io.IOException;
 import java.text.ParseException;
@@ -38,9 +39,10 @@ public class LoadWorkExperiences implements LoadFromCsv {
         Date endDate = dateFormat.parse(csvReader.get("End_Date").trim());
         String title = csvReader.get("Title").trim();
         String description = csvReader.get("Description").trim();
-        boolean currentJob = csvReader.get("CurrentJob").trim().equals("Yes")?true:false;
+        boolean currentJob = csvReader.get("CurrentJob").trim().equals("Yes") ? true : false;
+        boolean coop = csvReader.get("Coop").trim().equals("Yes") ? true : false;
 
-        WorkExperiences experience = new WorkExperiences(neuId, companyName, startDate, endDate, currentJob, title, description);
+        WorkExperiences experience = new WorkExperiences(neuId, companyName, startDate, endDate, currentJob, coop, title, description);
         WorkExperiences existExperience = workExperiencesDao.getWorkExperience(neuId, companyName, startDate);
 
         if(!studentsDao.ifNuidExists(neuId)) {
@@ -48,10 +50,10 @@ public class LoadWorkExperiences implements LoadFromCsv {
         } else if (existExperience!= null) {
           experience.setWorkExperienceId(existExperience.getWorkExperienceId());
           workExperiencesDao.updateWorkExperience(experience);
-          LOGGER.info("Update work experience for " + neuId + " " + companyName + " " + startDate);
+          LOGGER.info("Update work experience " + experience);
         } else {
           workExperiencesDao.createWorkExperience(experience);
-          LOGGER.info("Add work experience for " + neuId + " " + companyName + " " + startDate);
+          LOGGER.info("Add work experience " + experience);
         }
       }
     } catch (IOException e) {

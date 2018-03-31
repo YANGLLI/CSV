@@ -1,4 +1,4 @@
-package model;
+package model.alignprivate;
 
 public class Courses {
 	private String courseId;
@@ -42,7 +42,6 @@ public class Courses {
 		return "Courses{" +
 				"courseId='" + courseId + '\'' +
 				", courseName='" + courseName + '\'' +
-				", courseDescription='" + description + '\'' +
 				'}';
 	}
 }

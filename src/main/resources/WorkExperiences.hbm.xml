@@ -4,7 +4,7 @@
         "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-    <class name = "model.WorkExperiences" table="WorkExperiences">
+    <class name = "model.alignprivate.WorkExperiences" table="WorkExperiences">
 
         <meta attribute = "class-description">
             This class contains the Work Experience detail.
@@ -13,21 +13,20 @@
             <generator class="native"/>
         </id>
 
-        <property name = "neuId" column="NeuId" type="string" />
-
-        <property name = "companyName" column="CompanyName" type="string" />
-
-        <property name = "startDate" column="StartDate" type="date" />
+        <properties name="uq_WorkExperiences_WorkExperience" unique="true">
+            <property name = "neuId" column="NeuId" type="string" />
+            <property name = "companyName" column="CompanyName" type="string" />
+            <property name = "startDate" column="StartDate" type="date" />
+        </properties>
 
         <property name = "endDate" column="EndDate" type="date" />
 
         <property name = "currentJob" column="CurrentJob" type="boolean" />
 
+        <property name="coop" column="isCoop" type="boolean" />
+
         <property name = "title" column="Title" type="string" />
 
         <property name = "description" column="Description" type="string" />
-
-        <!--<many-to-one name="student" class="org.alignprivate.asd.model.StudentsPublic"-->
-                     <!--column="NeuId" />-->
     </class>
 </hibernate-mapping>

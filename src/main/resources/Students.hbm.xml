@@ -4,7 +4,7 @@
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-	<class name="model.Students" table="Students">
+	<class name="model.alignprivate.Students" table="Students">
 
 
 		<meta attribute="class-description">
@@ -19,6 +19,7 @@
 			<property name="email" column="Email" type="string" />
 		</properties>
 
+		<property name="publicId" column="PublicId" type="int" />
 		<property name="firstName" column="FirstName" type="string" />
 		<property name="middleName" column="MiddleName" type="string" />
 		<property name="lastName" column="LastName" type="string" />

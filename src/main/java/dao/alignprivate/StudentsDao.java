@@ -1,11 +1,11 @@
-package dao;
+package dao.alignprivate;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-import model.Students;
+import model.alignprivate.Students;
 
 import java.util.List;
 
@@ -75,6 +75,22 @@ public class StudentsDao {
     }
 
     return true;
+  }
+
+  public int getStudentPublicId(String neuId) {
+    try {
+      session = factory.openSession();
+      org.hibernate.query.Query query = session.createQuery("FROM Students WHERE neuId = :studentNuid ");
+      query.setParameter("studentNuid", neuId);
+      List list = query.list();
+      if (list.isEmpty()) {
+        return -1;
+      }
+      Students student = (Students) list.get(0);
+      return student.getPublicId();
+    } finally {
+      session.close();
+    }
   }
 
   /**

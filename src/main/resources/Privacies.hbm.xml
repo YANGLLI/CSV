@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "model.alignprivate.Privacies" table="Privacies">
+
+        <meta attribute = "class-description">
+            This class contains the Privacy detail.
+        </meta>
+        <id name = "neuId" column="NeuId" type="string">
+            <generator class="assigned"/>
+        </id>
+
+        <property name="publicId" column="PublicId" type="int" />
+
+        <property name = "visibleToPublic" column="VisibleToPublic" type="boolean" />
+
+        <property name = "photo" column="Photo" type="boolean" />
+
+        <property name = "coop" column="Coop" type="boolean" />
+
+        <property name = "phone" column="Phone" type="boolean" />
+
+        <property name = "email" column="Email" type="boolean" />
+
+        <property name = "address" column="Address" type="boolean" />
+
+        <property name = "linkedin" column="Linkedin" type="boolean" />
+
+        <property name = "github" column="Github" type="boolean" />
+
+        <property name = "facebook" column="Facebook" type="boolean" />
+
+        <property name = "website" column="Website" type="boolean" />
+
+        <property name = "course" column="Course" type="boolean" />
+
+        <property name = "extraExperience" column="ExtraExperience" type="boolean" />
+
+        <property name = "project" column="Project" type="boolean" />
+
+        <property name = "skill" column="Skill" type="boolean" />
+    </class>
+</hibernate-mapping>

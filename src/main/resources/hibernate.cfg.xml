@@ -29,5 +29,7 @@
 		<mapping resource="Courses.hbm.xml" />
 		<mapping resource="WorkExperiences.hbm.xml" />
 		<mapping resource="Electives.hbm.xml" />
+		<mapping resource="Privacies.hbm.xml" />
+		<mapping resource="PriorEducations.hbm.xml" />
 	</session-factory>
 </hibernate-configuration>

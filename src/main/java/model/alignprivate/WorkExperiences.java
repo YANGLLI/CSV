@@ -1,4 +1,4 @@
-package model;
+package model.alignprivate;
 
 import java.util.Date;
 
@@ -9,16 +9,18 @@ public class WorkExperiences {
   private Date startDate;
   private Date endDate;
   private boolean currentJob;
+  private boolean coop;
   private String title;
   private String description;
 
   public WorkExperiences(String neuId, String companyName, Date startDate, Date endDate,
-                         boolean currentJob, String title, String description) {
+                         boolean currentJob, boolean coop, String title, String description) {
     this.neuId = neuId;
     this.companyName = companyName;
     this.startDate = startDate;
     this.endDate = endDate;
     this.currentJob = currentJob;
+    this.coop = coop;
     this.title = title;
     this.description = description;
   }
@@ -73,6 +75,14 @@ public class WorkExperiences {
     this.currentJob = currentJob;
   }
 
+  public boolean isCoop() {
+    return coop;
+  }
+
+  public void setCoop(boolean coop) {
+    this.coop = coop;
+  }
+
   public String getTitle() {
     return title;
   }
@@ -87,5 +97,14 @@ public class WorkExperiences {
 
   public void setDescription(String description) {
     this.description = description;
+  }
+
+  @Override
+  public String toString() {
+    return "WorkExperiences{" +
+            "neuId='" + neuId + '\'' +
+            ", companyName='" + companyName + '\'' +
+            ", startDate=" + startDate +
+            '}';
   }
 }

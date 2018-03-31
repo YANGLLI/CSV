@@ -1,14 +1,24 @@
 import loadRecords.*;
+import loadRecords.LoadPrivate.*;
 
 public class MainScript {
-  public LoadFromCsv loader;
+  public LoadFromCsv loaderCsv;
+  public LoadPublic loaderPublic;
 
   public LoadFromCsv getLoadcsv() {
-    return loader;
+    return loaderCsv;
   }
 
-  public void setLoadcsv(LoadFromCsv loader) {
-    this.loader = loader;
+  public void setLoadcsv(LoadFromCsv loaderCsv) {
+    this.loaderCsv = loaderCsv;
+  }
+
+  public LoadPublic getLoaderPublic() {
+    return loaderPublic;
+  }
+
+  public void setLoaderPublic(LoadPublic loaderPublic) {
+    this.loaderPublic = loaderPublic;
   }
 
   /**
@@ -31,5 +41,9 @@ public class MainScript {
 
     script.setLoadcsv(new LoadWorkExperiences());
     script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/WorkExperiences.csv");
+
+    script.setLoadcsv(new LoadPriorEducations());
+    script.getLoadcsv().loadDatabase("/Users/yang/Courses/ASD/Backend/PriorEducations.csv");
+
   }
 }

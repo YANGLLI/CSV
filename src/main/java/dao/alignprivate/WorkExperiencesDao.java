@@ -1,11 +1,11 @@
-package dao;
+package dao.alignprivate;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-import model.WorkExperiences;
+import model.alignprivate.WorkExperiences;
 
 import java.util.Date;
 import java.util.List;

@@ -1,4 +1,4 @@
-package model;
+package model.alignprivate;
 
 import enums.Term;
 
@@ -69,4 +69,13 @@ public class Electives {
     this.courseYear = courseYear;
   }
 
+  @Override
+  public String toString() {
+    return "Electives{" +
+            "neuId='" + neuId + '\'' +
+            ", courseId='" + courseId + '\'' +
+            ", courseTerm=" + courseTerm +
+            ", courseYear=" + courseYear +
+            '}';
+  }
 }

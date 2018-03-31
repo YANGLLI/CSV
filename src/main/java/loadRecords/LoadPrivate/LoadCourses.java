@@ -1,8 +1,9 @@
-package loadRecords;
+package loadRecords.LoadPrivate;
 
 import com.csvreader.CsvReader;
-import dao.CoursesDao;
-import model.Courses;
+import dao.alignprivate.CoursesDao;
+import loadRecords.LoadFromCsv;
+import model.alignprivate.Courses;
 
 import java.io.IOException;
 import java.util.logging.Logger;
@@ -32,10 +33,10 @@ public class LoadCourses implements LoadFromCsv {
 
         if (coursesDao.ifCourseidExists(courseId)) {
           coursesDao.updateCourse(course);
-          LOGGER.info("Update course for " + courseId);
+          LOGGER.info("Update course " + course);
         } else {
           coursesDao.createCourse(course);
-          LOGGER.info("Add course for " + courseId);
+          LOGGER.info("Add course " + course);
         }
       }
     } catch (IOException e) {
