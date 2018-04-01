@@ -34,7 +34,7 @@ public class LoadElectives implements LoadFromCsv {
       while (csvReader.readRecord()){
         String neuId = csvReader.get("NeuId").trim();
         String courseId = csvReader.get("CourseId").trim();
-        String courseName = csvReader.get("Course_Name").trim();
+        String courseName = csvReader.get("CourseName").trim();
         Term term = Term.valueOf(csvReader.get("Term").trim());
         int year = Integer.valueOf(csvReader.get("Year").trim());
 

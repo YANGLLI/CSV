@@ -37,10 +37,10 @@ public class LoadWorkExperiences implements LoadFromCsv {
 
       while (csvReader.readRecord()){
         String neuId = csvReader.get("NeuId").trim();
-        String companyName = csvReader.get("Company_Name").trim();
-        Date startDate = dateFormat.parse(csvReader.get("Start_Date").trim());
+        String companyName = csvReader.get("CompanyName").trim();
+        Date startDate = dateFormat.parse(csvReader.get("StartDate").trim());
         String start_Date = new SimpleDateFormat("yyyy-MM-dd").format(startDate);
-        Date endDate = dateFormat.parse(csvReader.get("End_Date").trim());
+        Date endDate = dateFormat.parse(csvReader.get("EndDate").trim());
         String title = csvReader.get("Title").trim();
         String description = csvReader.get("Description").trim();
         boolean currentJob = csvReader.get("CurrentJob").trim().equals("Yes") ? true : false;

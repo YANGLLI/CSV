@@ -37,9 +37,9 @@ public class LoadPriorEducations implements LoadFromCsv {
 
       while (csvReader.readRecord()){
         String neuId = csvReader.get("NeuId").trim();
-        String institutionName = csvReader.get("Institution_Name").trim();
+        String institutionName = csvReader.get("InstitutionName").trim();
         String major = csvReader.get("Major").trim();
-        Date graduation = dateFormat.parse(csvReader.get("Graduation_Date").trim());
+        Date graduation = dateFormat.parse(csvReader.get("GraduationDate").trim());
         float gpa = Float.valueOf(csvReader.get("GPA").trim());
         DegreeCandidacy degree = DegreeCandidacy.valueOf(csvReader.get("Degree").trim());
 

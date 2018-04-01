@@ -26,7 +26,7 @@ public class LoadCourses implements LoadFromCsv {
 
       while (csvReader.readRecord()){
         String courseId = csvReader.get("CourseId").trim();
-        String courseName = csvReader.get("Course_Name").trim();
+        String courseName = csvReader.get("CourseName").trim();
         String description = csvReader.get("Description").trim();
 
         Courses course = new Courses(courseId,courseName,description);
