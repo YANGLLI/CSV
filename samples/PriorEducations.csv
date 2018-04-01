@@ -1,0 +1,401 @@
+Degree,GPA,GraduationDate,InstitutionName,Major,NeuId
+BACHELORS,3.67,08/31/2014,Indian Institute of Science,Modern Languages,000
+BACHELORS,3.2,08/31/2014,Peking University,Biological Sciences,001
+BACHELORS,3.43,08/31/2014,Zhejiang University,Politics,002
+BACHELORS,3.53,08/31/2014,Durham University,Mathematics,003
+BACHELORS,3.29,08/31/2014,University of Pittsburgh,Economics,004
+MASTERS,3.28,08/31/2014,Northwestern University,Pharmacy,005
+BACHELORS,3.25,08/31/2014,Zhejiang University,Law,006
+BACHELORS,3.38,08/31/2014,New York University,Medicine,007
+BACHELORS,3.66,08/31/2014,University of Hong Kong,Modern Languages,008
+MASTERS,3.51,08/31/2014,Tsinghua University,Medicine,009
+MASTERS,3.53,08/31/2014,Durham University,Chemistry,010
+MASTERS,3.46,08/31/2014,Durham University,Finance,011
+MASTERS,3.71,08/31/2014,Tsinghua University,Art,012
+BACHELORS,3.36,08/31/2014,Durham University,Finance,013
+MASTERS,3.58,08/31/2014,University of Sheffield,Art,014
+MASTERS,3.33,08/31/2014,Brown University,Business,015
+MASTERS,3.76,08/31/2014,University of Pennsylvania,Psychology,016
+BACHELORS,3.65,08/31/2014,Boston University,Psychology,017
+BACHELORS,3.39,08/31/2014,Durham University,Chemistry,018
+BACHELORS,3.62,08/31/2014,Fudan University,Business,019
+BACHELORS,3.65,08/31/2014,New York University,Economics,020
+BACHELORS,3.52,08/31/2014,Politecnico di Milano,Electronics,021
+BACHELORS,3.45,08/31/2014,Southeast University,Mathematics,022
+BACHELORS,3.57,08/31/2014,Politecnico di Milano,Politics,023
+BACHELORS,3.55,08/31/2014,Indian Institute of Science,Social Policy,024
+BACHELORS,3.56,08/31/2014,Brown University,Finance,025
+MASTERS,3.32,08/31/2014,Fudan University,Mathematics,026
+BACHELORS,3.51,08/31/2014,Zhejiang University,Computer Science,027
+BACHELORS,3.67,08/31/2014,Peking University,Education,028
+BACHELORS,3.35,08/31/2014,Tsinghua University,Modern Languages,029
+BACHELORS,3.47,08/31/2014,Northwestern University,Psychology,030
+BACHELORS,3.44,08/31/2014,Fudan University,Art,031
+BACHELORS,3.53,08/31/2014,Peking University,Economics,032
+BACHELORS,3.67,08/31/2014,Indian Institute of Science,Chemistry,033
+MASTERS,3.36,08/31/2014,University of Pittsburgh,Electronics,034
+MASTERS,3.29,08/31/2014,Durham University,Law,035
+MASTERS,3.41,08/31/2014,Beijing Normal University,Business,036
+MASTERS,3.62,08/31/2014,Beijing Normal University,Pharmacy,037
+BACHELORS,3.25,08/31/2014,University of Pennsylvania,Modern Languages,038
+BACHELORS,3.41,08/31/2014,Tsinghua University,Electronics,039
+PHD,3.54,08/31/2014,Durham University,History,040
+BACHELORS,3.72,08/31/2014,Brown University,Pharmacy,041
+BACHELORS,3.44,08/31/2014,New York University,Chemistry,042
+BACHELORS,3.59,08/31/2014,University of Michigan,Politics,043
+MASTERS,3.46,08/31/2014,Zhejiang University,Biological Sciences,044
+BACHELORS,3.36,08/31/2014,Durham University,Art,045
+BACHELORS,3.51,08/31/2014,University of Hong Kong,Medicine,046
+BACHELORS,3.63,08/31/2014,Harvard University,Politics,047
+MASTERS,3.48,08/31/2014,Boston University,Biological Sciences,048
+BACHELORS,3.4,08/31/2014,Northwestern University,Electronics,049
+BACHELORS,3.51,08/31/2014,Zhejiang University,Art,050
+MASTERS,3.81,08/31/2014,New York University,Electronics,051
+BACHELORS,3.27,08/31/2014,University of Pennsylvania,Medicine,052
+BACHELORS,3.39,08/31/2014,New York University,Education,053
+BACHELORS,3.53,08/31/2014,University of Pennsylvania,Art,054
+BACHELORS,3.52,08/31/2014,University of Sheffield,Chemistry,055
+BACHELORS,3.64,08/31/2014,Southeast University,Chemistry,056
+BACHELORS,3.42,08/31/2014,Peking University,History,057
+BACHELORS,3.5,08/31/2014,Beijing Normal University,Politics,058
+BACHELORS,3.45,08/31/2014,University of Pittsburgh,Politics,059
+PHD,3.67,08/31/2014,Zhejiang University,Finance,060
+BACHELORS,3.58,08/31/2014,Zhejiang University,Pharmacy,061
+BACHELORS,3.44,08/31/2014,University of Hong Kong,Medicine,062
+BACHELORS,3.29,08/31/2014,Indian Institute of Science,Medicine,063
+BACHELORS,3.41,08/31/2014,Northwestern University,Politics,064
+MASTERS,3.53,08/31/2014,Tsinghua University,Medicine,065
+BACHELORS,3.36,08/31/2014,University of Hong Kong,Modern Languages,066
+BACHELORS,3.55,08/31/2014,University of Hong Kong,History,067
+BACHELORS,3.49,08/31/2014,Indian Institute of Science,Education,068
+BACHELORS,3.48,08/31/2014,Southeast University,Electronics,069
+BACHELORS,3.55,08/31/2014,Durham University,Politics,070
+BACHELORS,3.32,08/31/2014,University of Pennsylvania,Computer Science,071
+BACHELORS,3.5,08/31/2014,Peking University,Politics,072
+BACHELORS,3.82,08/31/2014,Politecnico di Milano,Electronics,073
+BACHELORS,3.37,08/31/2014,University of Pittsburgh,Medicine,074
+BACHELORS,3.43,08/31/2014,Zhejiang University,Social Policy,075
+MASTERS,3.44,08/31/2014,Boston University,Electronics,076
+BACHELORS,3.55,08/31/2014,Southeast University,Law,077
+MASTERS,3.63,08/31/2014,Tsinghua University,Pharmacy,078
+BACHELORS,3.46,08/31/2014,Peking University,Chemistry,079
+MASTERS,3.52,08/31/2014,Beijing Normal University,Mathematics,080
+PHD,3.51,08/31/2014,Beijing Normal University,Education,081
+BACHELORS,3.61,08/31/2014,New York University,Politics,082
+MASTERS,3.41,08/31/2014,New York University,Chemistry,083
+BACHELORS,3.59,08/31/2014,University of Pittsburgh,Psychology,084
+MASTERS,3.5,08/31/2014,Beijing Normal University,Politics,085
+BACHELORS,3.39,08/31/2014,Brown University,Modern Languages,086
+BACHELORS,3.66,08/31/2014,Politecnico di Milano,Pharmacy,087
+BACHELORS,3.46,08/31/2014,University of Pennsylvania,Mathematics,088
+MASTERS,3.61,08/31/2014,Durham University,Finance,089
+BACHELORS,3.06,08/31/2014,Indian Institute of Science,Education,090
+BACHELORS,3.47,08/31/2014,University of Hong Kong,Social Policy,091
+MASTERS,3.45,08/31/2014,Politecnico di Milano,Education,092
+BACHELORS,3.37,08/31/2014,Brown University,Pharmacy,093
+MASTERS,3.45,08/31/2014,Beijing Normal University,Computer Science,094
+MASTERS,3.62,08/31/2014,University of Pennsylvania,Computer Science,095
+BACHELORS,3.53,08/31/2014,Beijing Normal University,Medicine,096
+BACHELORS,3.59,08/31/2014,University of Pittsburgh,Computer Science,097
+BACHELORS,3.47,08/31/2014,Beijing Normal University,Economics,098
+MASTERS,3.36,08/31/2014,Emory University,History,099
+BACHELORS,3.53,08/31/2014,Indian Institute of Science,Modern Languages,100
+MASTERS,3.29,08/31/2014,Fudan University,Biological Sciences,101
+BACHELORS,3.64,08/31/2014,Tsinghua University,Electronics,102
+MASTERS,3.46,08/31/2014,Brown University,Economics,103
+BACHELORS,3.37,08/31/2014,Harvard University,Medicine,104
+BACHELORS,3.46,08/31/2014,University of Michigan,Electronics,105
+BACHELORS,3.49,08/31/2014,Durham University,Politics,106
+BACHELORS,3.52,08/31/2014,Boston University,Electronics,107
+BACHELORS,3.34,08/31/2014,Harvard University,Economics,108
+BACHELORS,3.3,08/31/2014,Beijing Normal University,Chemistry,109
+BACHELORS,3.52,08/31/2014,Boston University,Modern Languages,110
+BACHELORS,3.7,08/31/2014,University of Michigan,Chemistry,111
+BACHELORS,3.48,08/31/2014,University of Sheffield,Pharmacy,112
+BACHELORS,3.46,08/31/2014,Politecnico di Milano,Mathematics,113
+BACHELORS,3.38,08/31/2014,University of Hong Kong,Psychology,114
+MASTERS,3.28,08/31/2014,University of Pittsburgh,Law,115
+PHD,3.36,08/31/2014,University of Michigan,Education,116
+BACHELORS,3.53,08/31/2014,Harvard University,Finance,117
+MASTERS,3.51,08/31/2014,New York University,Finance,118
+BACHELORS,3.44,08/31/2014,University of Sheffield,Medicine,119
+BACHELORS,3.76,08/31/2014,New York University,Computer Science,120
+BACHELORS,3.42,08/31/2014,Peking University,Politics,121
+MASTERS,3.75,08/31/2014,University of Hong Kong,Politics,122
+BACHELORS,3.15,08/31/2014,University of Pittsburgh,Politics,123
+MASTERS,3.44,08/31/2014,Brown University,Biological Sciences,124
+BACHELORS,3.46,08/31/2014,Zhejiang University,Computer Science,125
+BACHELORS,3.51,08/31/2014,University of Sheffield,Biological Sciences,126
+PHD,3.29,08/31/2014,Brown University,Finance,127
+BACHELORS,3.59,08/31/2014,University of Hong Kong,Electronics,128
+BACHELORS,3.66,08/31/2014,University of Sheffield,Economics,129
+MASTERS,3.32,08/31/2014,Boston University,Education,130
+MASTERS,3.35,08/31/2014,University of Sheffield,Economics,131
+BACHELORS,3.43,08/31/2014,Durham University,Economics,132
+BACHELORS,3.06,08/31/2014,University of Sheffield,History,133
+MASTERS,3.48,08/31/2014,Boston University,Chemistry,134
+BACHELORS,3.42,08/31/2014,University of Michigan,Law,135
+BACHELORS,3.4,08/31/2014,New York University,Psychology,136
+BACHELORS,3.42,08/31/2014,Boston University,Chemistry,137
+MASTERS,3.55,08/31/2014,Northwestern University,Economics,138
+PHD,3.36,08/31/2014,University of Sheffield,Education,139
+MASTERS,3.67,08/31/2014,New York University,Art,140
+BACHELORS,3.57,08/31/2014,Indian Institute of Science,Biological Sciences,141
+BACHELORS,3.52,08/31/2014,University of Hong Kong,Business,142
+BACHELORS,3.5,08/31/2014,Politecnico di Milano,Art,143
+BACHELORS,3.52,08/31/2014,University of Michigan,Modern Languages,144
+BACHELORS,3.36,08/31/2014,University of Pittsburgh,Medicine,145
+MASTERS,3.58,08/31/2014,Tsinghua University,Economics,146
+MASTERS,3.5,08/31/2014,New York University,Politics,147
+MASTERS,3.3,08/31/2014,Tsinghua University,Art,148
+BACHELORS,3.39,08/31/2014,Zhejiang University,Psychology,149
+BACHELORS,3.34,08/31/2014,Harvard University,Psychology,150
+BACHELORS,3.7,08/31/2014,Emory University,Biological Sciences,151
+BACHELORS,3.39,08/31/2014,Southeast University,Finance,152
+BACHELORS,3.57,08/31/2014,New York University,Art,153
+BACHELORS,3.81,08/31/2014,Durham University,Social Policy,154
+MASTERS,3.52,08/31/2014,Boston University,Biological Sciences,155
+MASTERS,3.27,08/31/2014,Durham University,Economics,156
+MASTERS,3.32,08/31/2014,Tsinghua University,Chemistry,157
+BACHELORS,3.37,08/31/2014,Northwestern University,Medicine,158
+BACHELORS,3.6,08/31/2014,Fudan University,Medicine,159
+BACHELORS,3.5,08/31/2014,University of Sheffield,Pharmacy,160
+BACHELORS,3.27,08/31/2014,University of Michigan,Psychology,161
+BACHELORS,3.68,08/31/2014,University of Pittsburgh,Computer Science,162
+BACHELORS,3.4,08/31/2014,Tsinghua University,Art,163
+MASTERS,3.67,08/31/2014,Brown University,Modern Languages,164
+BACHELORS,3.53,08/31/2014,Beijing Normal University,Pharmacy,165
+MASTERS,3.33,08/31/2014,Durham University,Mathematics,166
+BACHELORS,3.37,08/31/2014,Durham University,Electronics,167
+BACHELORS,3.53,08/31/2014,Fudan University,Psychology,168
+BACHELORS,3.47,08/31/2014,Northwestern University,Computer Science,169
+BACHELORS,3.79,08/31/2014,Brown University,Pharmacy,170
+BACHELORS,3.95,08/31/2014,Southeast University,Law,171
+BACHELORS,3.47,08/31/2014,Harvard University,Politics,172
+BACHELORS,3.62,08/31/2014,Peking University,Electronics,173
+BACHELORS,3.59,08/31/2014,Peking University,Pharmacy,174
+BACHELORS,3.8,08/31/2014,Durham University,Finance,175
+BACHELORS,3.32,08/31/2014,Beijing Normal University,Medicine,176
+BACHELORS,3.46,08/31/2014,Beijing Normal University,Finance,177
+MASTERS,3.62,08/31/2014,University of Pennsylvania,Pharmacy,178
+MASTERS,3.64,08/31/2014,Northwestern University,Pharmacy,179
+BACHELORS,3.07,08/31/2014,Indian Institute of Science,Business,180
+BACHELORS,3.54,08/31/2014,Harvard University,Law,181
+BACHELORS,3.55,08/31/2014,Beijing Normal University,Modern Languages,182
+MASTERS,3.2,08/31/2014,Durham University,Education,183
+BACHELORS,3.42,08/31/2014,Beijing Normal University,Pharmacy,184
+BACHELORS,3.37,08/31/2014,Peking University,Law,185
+BACHELORS,3.36,08/31/2014,Fudan University,Biological Sciences,186
+MASTERS,3.61,08/31/2014,University of Hong Kong,Computer Science,187
+BACHELORS,3.3,08/31/2014,University of Sheffield,Politics,188
+MASTERS,3.41,08/31/2014,Durham University,Law,189
+MASTERS,3.48,08/31/2014,Beijing Normal University,Education,190
+BACHELORS,3.41,08/31/2014,New York University,Electronics,191
+BACHELORS,3.52,08/31/2014,Emory University,Biological Sciences,192
+MASTERS,3.16,08/31/2014,University of Pittsburgh,Economics,193
+BACHELORS,3.48,08/31/2014,Northwestern University,Finance,194
+BACHELORS,3.56,08/31/2014,Politecnico di Milano,Pharmacy,195
+BACHELORS,3.42,08/31/2014,Indian Institute of Science,Biological Sciences,196
+MASTERS,3.58,08/31/2014,Beijing Normal University,Chemistry,197
+MASTERS,3.31,08/31/2014,Northwestern University,Computer Science,198
+MASTERS,3.6,08/31/2014,University of Sheffield,Social Policy,199
+BACHELORS,3.7,08/31/2014,Beijing Normal University,Politics,200
+MASTERS,3.72,08/31/2014,Fudan University,Medicine,201
+BACHELORS,3.26,08/31/2014,Brown University,Law,202
+BACHELORS,3.5,08/31/2014,Indian Institute of Science,Education,203
+BACHELORS,3.45,08/31/2014,Zhejiang University,Finance,204
+BACHELORS,3.81,08/31/2014,Fudan University,Modern Languages,205
+BACHELORS,3.51,08/31/2014,Tsinghua University,Art,206
+MASTERS,3.53,08/31/2014,Southeast University,Social Policy,207
+BACHELORS,3.69,08/31/2014,Northwestern University,Law,208
+BACHELORS,3.41,08/31/2014,University of Pennsylvania,Psychology,209
+BACHELORS,3.35,08/31/2014,Southeast University,Art,210
+BACHELORS,3.5,08/31/2014,New York University,Psychology,211
+BACHELORS,3.62,08/31/2014,University of Pennsylvania,Psychology,212
+MASTERS,3.37,08/31/2014,University of Michigan,Modern Languages,213
+MASTERS,3.39,08/31/2014,University of Pittsburgh,Computer Science,214
+BACHELORS,3.87,08/31/2014,Zhejiang University,Business,215
+MASTERS,3.6,08/31/2014,Northwestern University,Politics,216
+BACHELORS,3.76,08/31/2014,University of Pennsylvania,Chemistry,217
+BACHELORS,3.71,08/31/2014,Brown University,Computer Science,218
+BACHELORS,3.45,08/31/2014,Peking University,Social Policy,219
+BACHELORS,3.79,08/31/2014,University of Pennsylvania,Modern Languages,220
+BACHELORS,3.83,08/31/2014,Emory University,Biological Sciences,221
+MASTERS,3.55,08/31/2014,Beijing Normal University,Computer Science,222
+BACHELORS,3.56,08/31/2014,University of Michigan,Psychology,223
+MASTERS,3.74,08/31/2014,University of Hong Kong,Medicine,224
+BACHELORS,3.5,08/31/2014,University of Hong Kong,Medicine,225
+BACHELORS,3.45,08/31/2014,University of Hong Kong,Biological Sciences,226
+MASTERS,3.55,08/31/2014,Brown University,Medicine,227
+BACHELORS,3.21,08/31/2014,Brown University,Biological Sciences,228
+BACHELORS,3.6,08/31/2014,Peking University,Psychology,229
+BACHELORS,3.6,08/31/2014,Beijing Normal University,Law,230
+BACHELORS,3.82,08/31/2014,Tsinghua University,Medicine,231
+BACHELORS,3.62,08/31/2014,Politecnico di Milano,Pharmacy,232
+BACHELORS,3.51,08/31/2014,Brown University,Modern Languages,233
+MASTERS,3.83,08/31/2014,Peking University,Politics,234
+BACHELORS,3.72,08/31/2014,Fudan University,Computer Science,235
+BACHELORS,3.61,08/31/2014,University of Sheffield,Economics,236
+BACHELORS,3.33,08/31/2014,University of Hong Kong,Education,237
+MASTERS,3.65,08/31/2014,Brown University,Chemistry,238
+BACHELORS,3.42,08/31/2014,Indian Institute of Science,Chemistry,239
+BACHELORS,3.68,08/31/2014,Durham University,Art,240
+BACHELORS,3.72,08/31/2014,University of Pennsylvania,Electronics,241
+BACHELORS,3.53,08/31/2014,Northwestern University,Modern Languages,242
+BACHELORS,3.55,08/31/2014,Brown University,Art,243
+MASTERS,3.28,08/31/2014,Peking University,Business,244
+BACHELORS,3.53,08/31/2014,Beijing Normal University,Psychology,245
+BACHELORS,3.68,08/31/2014,University of Pittsburgh,History,246
+BACHELORS,3.62,08/31/2014,University of Michigan,Finance,247
+MASTERS,3.67,08/31/2014,Beijing Normal University,Politics,248
+BACHELORS,3.45,08/31/2014,University of Pittsburgh,Psychology,249
+BACHELORS,3.58,08/31/2014,University of Pennsylvania,Computer Science,250
+BACHELORS,3.34,08/31/2014,Peking University,Biological Sciences,251
+BACHELORS,3.37,08/31/2014,Fudan University,History,252
+BACHELORS,3.25,08/31/2014,Zhejiang University,Chemistry,253
+BACHELORS,3.55,08/31/2014,Beijing Normal University,Biological Sciences,254
+BACHELORS,3.41,08/31/2014,Zhejiang University,Business,255
+BACHELORS,3.45,08/31/2014,Harvard University,Biological Sciences,256
+BACHELORS,3.21,08/31/2014,Fudan University,Business,257
+BACHELORS,3.1,08/31/2014,Politecnico di Milano,Biological Sciences,258
+BACHELORS,3.53,08/31/2014,Peking University,Law,259
+MASTERS,3.3,08/31/2014,University of Michigan,Art,260
+BACHELORS,3.61,08/31/2014,Harvard University,Law,261
+MASTERS,3.44,08/31/2014,University of Michigan,Social Policy,262
+BACHELORS,3.57,08/31/2014,Boston University,Business,263
+BACHELORS,3.69,08/31/2014,Southeast University,Medicine,264
+BACHELORS,3.42,08/31/2014,Emory University,Education,265
+BACHELORS,3.3,08/31/2014,University of Pittsburgh,Medicine,266
+BACHELORS,3.51,08/31/2014,Durham University,Medicine,267
+MASTERS,3.65,08/31/2014,Politecnico di Milano,Education,268
+BACHELORS,3.52,08/31/2014,Tsinghua University,Electronics,269
+BACHELORS,3.31,08/31/2014,Harvard University,Education,270
+BACHELORS,3.82,08/31/2014,University of Pennsylvania,Pharmacy,271
+MASTERS,3.7,08/31/2014,Emory University,Computer Science,272
+BACHELORS,3.59,08/31/2014,University of Pittsburgh,Biological Sciences,273
+MASTERS,3.11,08/31/2014,Emory University,Chemistry,274
+MASTERS,3.76,08/31/2014,University of Pittsburgh,History,275
+BACHELORS,3.39,08/31/2014,New York University,Finance,276
+BACHELORS,3.56,08/31/2014,Fudan University,Chemistry,277
+BACHELORS,3.75,08/31/2014,Emory University,Biological Sciences,278
+MASTERS,3.54,08/31/2014,University of Sheffield,Computer Science,279
+MASTERS,3.62,08/31/2014,Indian Institute of Science,Education,280
+BACHELORS,3.52,08/31/2014,Northwestern University,Electronics,281
+BACHELORS,3.57,08/31/2014,Harvard University,Education,282
+MASTERS,3.42,08/31/2014,Brown University,Social Policy,283
+BACHELORS,3.55,08/31/2014,Boston University,Politics,284
+BACHELORS,3.27,08/31/2014,Zhejiang University,Law,285
+BACHELORS,3.53,08/31/2014,Zhejiang University,Law,286
+MASTERS,3.38,08/31/2014,Southeast University,Finance,287
+BACHELORS,3.55,08/31/2014,Durham University,Medicine,288
+BACHELORS,3.43,08/31/2014,Zhejiang University,Politics,289
+BACHELORS,3.73,08/31/2014,University of Pittsburgh,Business,290
+BACHELORS,3.56,08/31/2014,University of Pennsylvania,Politics,291
+BACHELORS,3.74,08/31/2014,Northwestern University,Education,292
+BACHELORS,3.18,08/31/2014,Southeast University,Chemistry,293
+BACHELORS,3.46,08/31/2014,University of Hong Kong,Social Policy,294
+MASTERS,3.2,08/31/2014,Peking University,Pharmacy,295
+BACHELORS,3.6,08/31/2014,Peking University,Medicine,296
+MASTERS,3.43,08/31/2014,University of Pittsburgh,Electronics,297
+MASTERS,3.54,08/31/2014,Emory University,Business,298
+BACHELORS,3.76,08/31/2014,Indian Institute of Science,Politics,299
+MASTERS,3.5,08/31/2014,Politecnico di Milano,History,300
+BACHELORS,3.49,08/31/2014,University of Pennsylvania,Electronics,301
+BACHELORS,3.3,08/31/2014,University of Sheffield,Politics,302
+MASTERS,3.52,08/31/2014,University of Hong Kong,Pharmacy,303
+MASTERS,3.39,08/31/2014,University of Hong Kong,Chemistry,304
+MASTERS,3.42,08/31/2014,Harvard University,Electronics,305
+BACHELORS,3.71,08/31/2014,University of Michigan,Social Policy,306
+BACHELORS,3.68,08/31/2014,Emory University,Electronics,307
+MASTERS,3.58,08/31/2014,Peking University,Art,308
+MASTERS,3.55,08/31/2014,Brown University,Medicine,309
+BACHELORS,3.69,08/31/2014,Emory University,Social Policy,310
+PHD,3.12,08/31/2014,New York University,Art,311
+BACHELORS,3.64,08/31/2014,Beijing Normal University,Social Policy,312
+BACHELORS,3.4,08/31/2014,University of Michigan,Biological Sciences,313
+BACHELORS,3.5,08/31/2014,University of Pittsburgh,Modern Languages,314
+BACHELORS,3.59,08/31/2014,Politecnico di Milano,Art,315
+BACHELORS,3.7,08/31/2014,Southeast University,Law,316
+MASTERS,3.58,08/31/2014,University of Pennsylvania,Modern Languages,317
+MASTERS,3.36,08/31/2014,Harvard University,Psychology,318
+MASTERS,3.36,08/31/2014,Southeast University,Art,319
+MASTERS,3.51,08/31/2014,Indian Institute of Science,Mathematics,320
+BACHELORS,3.49,08/31/2014,Indian Institute of Science,Psychology,321
+BACHELORS,3.56,08/31/2014,Boston University,Pharmacy,322
+BACHELORS,3.37,08/31/2014,Indian Institute of Science,Social Policy,323
+BACHELORS,3.45,08/31/2014,Southeast University,Business,324
+BACHELORS,3.6,08/31/2014,Politecnico di Milano,Pharmacy,325
+BACHELORS,3.66,08/31/2014,University of Hong Kong,Education,326
+BACHELORS,3.55,08/31/2014,Fudan University,Psychology,327
+BACHELORS,3.44,08/31/2014,Indian Institute of Science,Modern Languages,328
+MASTERS,3.51,08/31/2014,Brown University,Mathematics,329
+BACHELORS,3.56,08/31/2014,University of Sheffield,Economics,330
+MASTERS,3.65,08/31/2014,University of Pennsylvania,Law,331
+BACHELORS,3.6,08/31/2014,University of Hong Kong,Finance,332
+BACHELORS,3.62,08/31/2014,University of Hong Kong,Finance,333
+BACHELORS,3.35,08/31/2014,Brown University,Psychology,334
+BACHELORS,3.18,08/31/2014,University of Pittsburgh,Computer Science,335
+BACHELORS,3.27,08/31/2014,University of Sheffield,Education,336
+MASTERS,3.57,08/31/2014,New York University,Business,337
+BACHELORS,3.31,08/31/2014,Beijing Normal University,Social Policy,338
+BACHELORS,3.37,08/31/2014,Northwestern University,Electronics,339
+BACHELORS,3.58,08/31/2014,University of Sheffield,Computer Science,340
+BACHELORS,3.25,08/31/2014,Beijing Normal University,Finance,341
+MASTERS,3.69,08/31/2014,Politecnico di Milano,Pharmacy,342
+BACHELORS,3.57,08/31/2014,Southeast University,Education,343
+BACHELORS,3.52,08/31/2014,Durham University,Medicine,344
+BACHELORS,3.5,08/31/2014,Tsinghua University,Computer Science,345
+MASTERS,3.63,08/31/2014,Boston University,Business,346
+BACHELORS,3.61,08/31/2014,Fudan University,Psychology,347
+BACHELORS,3.18,08/31/2014,Northwestern University,Psychology,348
+BACHELORS,3.43,08/31/2014,Emory University,Education,349
+MASTERS,3.64,08/31/2014,Durham University,Business,350
+BACHELORS,3.3,08/31/2014,Beijing Normal University,Modern Languages,351
+BACHELORS,3.79,08/31/2014,New York University,Art,352
+BACHELORS,3.39,08/31/2014,Brown University,History,353
+BACHELORS,3.25,08/31/2014,Durham University,Medicine,354
+MASTERS,3.62,08/31/2014,New York University,Pharmacy,355
+MASTERS,3.52,08/31/2014,Indian Institute of Science,Law,356
+BACHELORS,3.49,08/31/2014,Zhejiang University,Biological Sciences,357
+BACHELORS,3.68,08/31/2014,Emory University,Economics,358
+BACHELORS,3.82,08/31/2014,Southeast University,Computer Science,359
+BACHELORS,3.56,08/31/2014,Harvard University,Pharmacy,360
+BACHELORS,3.3,08/31/2014,Northwestern University,Psychology,361
+MASTERS,3.4,08/31/2014,Harvard University,Pharmacy,362
+MASTERS,3.46,08/31/2014,University of Michigan,Art,363
+BACHELORS,3.42,08/31/2014,Emory University,Business,364
+BACHELORS,3.38,08/31/2014,University of Michigan,Politics,365
+MASTERS,3.57,08/31/2014,Indian Institute of Science,Modern Languages,366
+BACHELORS,3.34,08/31/2014,Brown University,Psychology,367
+BACHELORS,3.47,08/31/2014,University of Hong Kong,Computer Science,368
+BACHELORS,3.61,08/31/2014,Brown University,Electronics,369
+BACHELORS,3.25,08/31/2014,Emory University,Chemistry,370
+BACHELORS,3.42,08/31/2014,Indian Institute of Science,Education,371
+BACHELORS,3.45,08/31/2014,Durham University,Medicine,372
+BACHELORS,3.56,08/31/2014,University of Michigan,Social Policy,373
+MASTERS,3.36,08/31/2014,University of Michigan,Law,374
+BACHELORS,3.84,08/31/2014,University of Michigan,Economics,375
+BACHELORS,3.37,08/31/2014,Harvard University,Economics,376
+MASTERS,3.38,08/31/2014,Brown University,Art,377
+MASTERS,3.63,08/31/2014,Boston University,Psychology,378
+BACHELORS,3.28,08/31/2014,New York University,Business,379
+BACHELORS,3.33,08/31/2014,University of Hong Kong,Psychology,380
+BACHELORS,3.3,08/31/2014,University of Michigan,Business,381
+MASTERS,3.47,08/31/2014,University of Michigan,History,382
+BACHELORS,3.47,08/31/2014,Boston University,Mathematics,383
+MASTERS,3.57,08/31/2014,University of Sheffield,Electronics,384
+BACHELORS,3.65,08/31/2014,Harvard University,Finance,385
+BACHELORS,3.5,08/31/2014,Beijing Normal University,Pharmacy,386
+MASTERS,3.48,08/31/2014,Harvard University,Social Policy,387
+MASTERS,3.65,08/31/2014,Brown University,Pharmacy,388
+BACHELORS,3.42,08/31/2014,Indian Institute of Science,Business,389
+BACHELORS,3.42,08/31/2014,Tsinghua University,Medicine,390
+BACHELORS,3.51,08/31/2014,University of Pittsburgh,Electronics,391
+BACHELORS,3.51,08/31/2014,Durham University,Medicine,392
+MASTERS,3.62,08/31/2014,University of Sheffield,Biological Sciences,393
+MASTERS,3.4,08/31/2014,Indian Institute of Science,Modern Languages,394
+BACHELORS,3.39,08/31/2014,Fudan University,Medicine,395
+BACHELORS,3.42,08/31/2014,Indian Institute of Science,Social Policy,396
+BACHELORS,3.63,08/31/2014,Southeast University,Education,397
+BACHELORS,3.39,08/31/2014,Politecnico di Milano,Psychology,398
+MASTERS,3.33,08/31/2014,Northwestern University,Modern Languages,399

@@ -1,0 +1,3300 @@
+CourseId,CourseName,GPA,NeuId,Plagiarism,Retake,Term,Year
+CS 5001,Intensive Foundations of CS,3.68,000,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.54,000,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.38,000,No,No,SPRING,2014
+CS 5006,Algorithms,3.33,000,No,No,SPRING,2014
+CS 5007,Computer Systems,3.64,000,No,No,SPRING,2014
+CS 7140,Advanced Machine Learning,3.59,000,No,No,FALL,2014
+CS 6410,Compilers,3.64,000,No,No,FALL,2014
+CS 7870,Seminar in Theoretical Computer Science,3.51,000,No,No,FALL,2014
+CS 6220,Data Mining Techniques,3.14,000,No,No,FALL,2014
+CS 7680,Special Topics in Computer Systems,3.41,000,No,No,FALL,2014
+CS 5650,High Performance Computing,3.26,000,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.39,001,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.39,001,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.17,001,No,No,SPRING,2016
+CS 5006,Algorithms,3.48,001,No,No,FALL,2016
+CS 5007,Computer Systems,3.59,001,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.52,001,No,No,SPRING,2016
+CS 8982,Readings,3.54,001,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.36,001,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.63,002,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.43,002,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.52,002,No,No,FALL,2016
+CS 5006,Algorithms,3.49,002,No,No,FALL,2016
+CS 5007,Computer Systems,3.62,002,No,No,SPRING,2016
+CS 7280,Special Topics in Database Management,3.65,002,No,No,SPRING,2016
+CS 5520,Mobile Application Development,3.66,002,No,No,SPRING,2016
+CS 5100,Foundations of Artificial Intelligence,3.48,002,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.5,003,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.55,003,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.38,003,No,No,FALL,2016
+CS 5006,Algorithms,3.57,003,No,No,SPRING,2016
+CS 5007,Computer Systems,3.29,003,No,No,FALL,2016
+CS 7470,Seminar in Programming Languages,3.55,003,No,No,FALL,2016
+CS 5610,Web Development,3.67,003,No,No,FALL,2016
+CS 5330,Pattern Recognition and Computer Vision,3.54,003,No,No,SPRING,2016
+CS 6540,Foundations of Formal Methods and Software Analysis,3.37,003,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.34,004,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.85,004,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.47,004,No,No,SPRING,2017
+CS 5006,Algorithms,3.73,004,No,No,FALL,2017
+CS 5007,Computer Systems,3.56,004,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.55,005,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.53,005,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.74,005,No,No,SPRING,2016
+CS 5006,Algorithms,3.54,005,No,No,SPRING,2016
+CS 5007,Computer Systems,3.42,005,No,No,FALL,2016
+CS 7280,Special Topics in Database Management,3.52,005,No,No,FALL,2016
+CS 7990,Thesis,3.53,005,No,No,SPRING,2016
+CS 6200,Information Retrieval,3.51,005,No,No,FALL,2016
+CS 6760,"Privacy, Security, and Usability",3.34,005,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.58,006,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.49,006,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.47,006,No,No,FALL,2015
+CS 5006,Algorithms,3.4,006,No,No,SPRING,2015
+CS 5007,Computer Systems,3.45,006,No,No,SPRING,2015
+CS 7480,Special Topics in Programming Language,3.18,006,No,No,FALL,2015
+CS 7805,Theory of Computation,3.46,006,No,No,SPRING,2015
+CS 6530,Analysis of Software Artifacts,3.44,006,No,No,SPRING,2015
+CS 5770,Software Vulnerabilities and Security,3.67,006,No,No,FALL,2015
+CS 6750,Cryptography and Communications Security,3.49,006,No,No,SPRING,2015
+CS 6140,Machine Learning,3.47,006,No,No,FALL,2015
+CS 8674,Master’s Project,3.68,006,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.37,007,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.51,007,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.26,007,No,No,FALL,2016
+CS 5006,Algorithms,3.81,007,No,No,FALL,2016
+CS 5007,Computer Systems,3.47,007,No,No,SPRING,2016
+CS 5600,Computer Systems,3.13,007,No,No,FALL,2016
+CS 6515,Software Development,3.35,007,No,No,SPRING,2016
+CS 5800,Algorithms,3.64,007,No,No,FALL,2016
+CS 6740,Network Security,3.35,007,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.26,008,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.4,008,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.53,008,No,No,FALL,2017
+CS 5006,Algorithms,3.26,008,No,No,SPRING,2017
+CS 5007,Computer Systems,3.61,008,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.22,009,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.45,009,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.31,009,No,No,SPRING,2015
+CS 5006,Algorithms,3.53,009,No,No,SPRING,2015
+CS 5007,Computer Systems,3.58,009,No,No,SPRING,2015
+CS 6540,Foundations of Formal Methods and Software Analysis,3.35,009,No,No,FALL,2015
+CS 5650,High Performance Computing,3.4,009,No,No,SPRING,2015
+CS 7270,Seminar in Database Systems,3.55,009,No,No,SPRING,2015
+CS 6120,Natural Language Processing,3.48,009,No,No,FALL,2015
+CS 5500,Managing Software Development,3.45,009,No,No,FALL,2015
+CS 6515,Software Development,3.48,009,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.36,010,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.57,010,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.54,010,No,No,SPRING,2015
+CS 5006,Algorithms,3.51,010,No,No,SPRING,2015
+CS 5007,Computer Systems,3.48,010,No,No,FALL,2015
+CS 5850,Building Game Engines,3.46,010,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.49,010,No,No,SPRING,2015
+CS 6120,Natural Language Processing,3.26,010,No,No,FALL,2015
+CS 7580,Special Topics in Software Engineering,3.56,010,No,No,SPRING,2015
+CS 5200,Database Management Systems,3.48,010,No,No,SPRING,2015
+CS 5750,Social Computing,3.91,010,No,No,FALL,2015
+CS 7140,Advanced Machine Learning,3.78,010,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.5,011,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.56,011,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.54,011,No,No,SPRING,2016
+CS 5006,Algorithms,3.51,011,No,No,SPRING,2016
+CS 5007,Computer Systems,3.72,011,No,No,SPRING,2016
+CS 5520,Mobile Application Development,3.4,011,No,No,SPRING,2016
+CS 6740,Network Security,3.38,011,No,No,SPRING,2016
+CS 5600,Computer Systems,3.38,011,No,No,SPRING,2016
+CS 5335,Robotic Science and Systems,3.54,011,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.44,012,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.28,012,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.51,012,No,No,FALL,2017
+CS 5006,Algorithms,3.31,012,No,No,SPRING,2017
+CS 5007,Computer Systems,3.5,012,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.47,013,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.36,013,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.51,013,No,No,SPRING,2016
+CS 5006,Algorithms,3.47,013,No,No,FALL,2016
+CS 5007,Computer Systems,3.29,013,No,No,FALL,2016
+CS 6740,Network Security,3.46,013,No,No,SPRING,2016
+CS 7180,Special Topics in Artificial Intelligence,3.53,013,No,No,FALL,2016
+CS 5620,Computer Architecture,3.67,013,No,No,FALL,2016
+CS 5800,Algorithms,3.62,013,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.6,014,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.13,014,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.43,014,No,No,FALL,2015
+CS 5006,Algorithms,3.5,014,No,No,FALL,2015
+CS 5007,Computer Systems,3.72,014,No,No,FALL,2015
+CS 7470,Seminar in Programming Languages,3.51,014,No,No,SPRING,2015
+CS 5750,Social Computing,3.35,014,No,No,SPRING,2015
+CS 7990,Thesis,3.71,014,No,No,FALL,2015
+CS 5500,Managing Software Development,3.51,014,No,No,SPRING,2015
+CS 6760,"Privacy, Security, and Usability",3.46,014,No,No,SPRING,2015
+CS 5100,Foundations of Artificial Intelligence,3.4,014,No,No,SPRING,2015
+CS 5600,Computer Systems,3.26,014,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.71,015,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.72,015,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.71,015,No,No,SPRING,2014
+CS 5006,Algorithms,3.29,015,No,No,FALL,2014
+CS 5007,Computer Systems,3.48,015,No,No,FALL,2014
+CS 5850,Building Game Engines,3.46,015,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.53,015,No,No,SPRING,2014
+CS 7370,Seminar in Graphics/Image Processing,3.59,015,No,No,FALL,2014
+CS 5650,High Performance Computing,3.46,015,No,No,SPRING,2014
+CS 6750,Cryptography and Communications Security,3.26,015,No,No,FALL,2014
+CS 5770,Software Vulnerabilities and Security,3.63,015,No,No,SPRING,2014
+CS 7880,Special Topics in Theories of Computer Science,3.44,015,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.58,016,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.18,016,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.79,016,No,No,FALL,2015
+CS 5006,Algorithms,3.43,016,No,No,SPRING,2015
+CS 5007,Computer Systems,3.41,016,No,No,SPRING,2015
+CS 7580,Special Topics in Software Engineering,3.36,016,No,No,FALL,2015
+CS 6310,Computational Imaging,3.69,016,No,No,SPRING,2015
+CS 5100,Foundations of Artificial Intelligence,3.71,016,No,No,SPRING,2015
+CS 6750,Cryptography and Communications Security,3.39,016,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.65,016,No,No,SPRING,2015
+CS 6220,Data Mining Techniques,3.41,016,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.65,017,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.28,017,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.76,017,No,No,FALL,2016
+CS 5006,Algorithms,3.57,017,No,No,FALL,2016
+CS 5007,Computer Systems,3.53,017,No,No,FALL,2016
+CS 7180,Special Topics in Artificial Intelligence,3.46,017,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.57,017,No,No,SPRING,2016
+CS 6310,Computational Imaging,3.53,017,No,No,FALL,2016
+CS 7880,Special Topics in Theories of Computer Science,3.58,017,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.54,018,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.33,018,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.37,018,No,No,FALL,2017
+CS 5006,Algorithms,3.52,018,No,No,FALL,2017
+CS 5007,Computer Systems,3.69,018,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.67,019,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.55,019,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.47,019,No,No,FALL,2014
+CS 5006,Algorithms,3.47,019,No,No,FALL,2014
+CS 5007,Computer Systems,3.41,019,No,No,FALL,2014
+CS 6515,Software Development,3.77,019,No,No,SPRING,2014
+CS 7775,Seminar in Computer Security,3.41,019,No,No,FALL,2014
+CS 6520,Methods of Software Development,3.38,019,No,No,SPRING,2014
+CS 5520,Mobile Application Development,3.64,019,No,No,FALL,2014
+CS 5150,Game Artificial Intelligence,3.46,019,No,No,FALL,2014
+CS 7780,Special Topics in Networks,3.77,019,No,No,FALL,2014
+CS 5700,Fundamentals of Computer Networking,3.4,019,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.49,020,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.52,020,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.56,020,No,No,SPRING,2015
+CS 5006,Algorithms,3.25,020,No,No,SPRING,2015
+CS 5007,Computer Systems,3.38,020,No,No,SPRING,2015
+CS 5330,Pattern Recognition and Computer Vision,3.34,020,No,No,FALL,2015
+CS 6200,Information Retrieval,3.58,020,No,No,FALL,2015
+CS 5610,Web Development,3.34,020,No,No,SPRING,2015
+CS 7470,Seminar in Programming Languages,3.35,020,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.43,020,No,No,SPRING,2015
+CS 5010,Programming Design Paradigm,3.71,020,No,No,FALL,2015
+CS 5310,Computer Graphics,3.49,020,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.35,021,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.43,021,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.56,021,No,No,FALL,2014
+CS 5006,Algorithms,3.33,021,No,No,FALL,2014
+CS 5007,Computer Systems,3.29,021,No,No,SPRING,2014
+CS 5610,Web Development,3.41,021,No,No,SPRING,2014
+CS 6510,Advanced Software Development,3.51,021,No,No,SPRING,2014
+CS 5010,Programming Design Paradigm,3.7,021,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.81,021,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.34,021,No,No,FALL,2014
+CS 6350,Empirical Research Methods,3.5,021,No,No,SPRING,2014
+CS 7280,Special Topics in Database Management,3.33,021,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.21,022,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.53,022,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.25,022,No,No,SPRING,2016
+CS 5006,Algorithms,3.54,022,No,No,FALL,2016
+CS 5007,Computer Systems,3.4,022,No,No,FALL,2016
+CS 7170,Seminar in Artificial Intelligence,3.47,022,No,No,FALL,2016
+CS 7280,Special Topics in Database Management,3.67,022,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.46,022,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.69,022,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.26,023,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.55,023,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.53,023,No,No,SPRING,2016
+CS 5006,Algorithms,3.48,023,No,No,FALL,2016
+CS 5007,Computer Systems,3.67,023,No,No,SPRING,2016
+CS 5610,Web Development,3.46,023,No,No,SPRING,2016
+CS 6710,Wireless Network,3.51,023,No,No,SPRING,2016
+CS 7180,Special Topics in Artificial Intelligence,3.74,023,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.48,023,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.57,024,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.48,024,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.44,024,No,No,FALL,2016
+CS 5006,Algorithms,3.59,024,No,No,SPRING,2016
+CS 5007,Computer Systems,3.58,024,No,No,FALL,2016
+CS 6110,Knowledge-Based Systems,3.48,024,No,No,SPRING,2016
+CS 5350,Applied Geometric Representation and Computation,3.44,024,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.4,025,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.49,025,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.62,025,No,No,SPRING,2016
+CS 5006,Algorithms,3.51,025,No,No,FALL,2016
+CS 5007,Computer Systems,3.25,025,No,No,SPRING,2016
+CS 5500,Managing Software Development,3.69,025,No,No,FALL,2016
+CS 7990,Thesis,3.86,025,No,No,SPRING,2016
+CS 5650,High Performance Computing,3.52,025,No,No,FALL,2016
+CS 7575,Seminar in Software Engineering,3.69,025,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.3,026,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.55,026,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.26,026,No,No,SPRING,2017
+CS 5006,Algorithms,3.56,026,No,No,FALL,2017
+CS 5007,Computer Systems,3.12,026,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.38,027,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.7,027,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.25,027,No,No,FALL,2017
+CS 5006,Algorithms,3.7,027,No,No,SPRING,2017
+CS 5007,Computer Systems,3.63,027,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.71,028,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.68,028,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.83,028,No,No,FALL,2017
+CS 5006,Algorithms,3.59,028,No,No,FALL,2017
+CS 5007,Computer Systems,3.31,028,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.63,029,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.64,029,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.51,029,No,No,SPRING,2017
+CS 5006,Algorithms,3.57,029,No,No,SPRING,2017
+CS 5007,Computer Systems,3.49,029,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.54,030,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.36,030,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.43,030,No,No,SPRING,2015
+CS 5006,Algorithms,3.46,030,No,No,FALL,2015
+CS 5007,Computer Systems,3.39,030,No,No,FALL,2015
+CS 5310,Computer Graphics,3.69,030,No,No,SPRING,2015
+CS 6740,Network Security,3.6,030,No,No,FALL,2015
+CS 5620,Computer Architecture,3.51,030,No,No,SPRING,2015
+CS 6610,Parallel Computing,3.45,030,No,No,FALL,2015
+CS 5750,Social Computing,3.62,030,No,No,SPRING,2015
+CS 7570,Seminar in Software Development,3.53,030,No,No,FALL,2015
+CS 7670,Seminar in Computer Systems,3.65,030,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.4,031,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.47,031,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.22,031,No,No,FALL,2017
+CS 5006,Algorithms,3.54,031,No,No,SPRING,2017
+CS 5007,Computer Systems,3.5,031,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.71,032,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.55,032,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.67,032,No,No,FALL,2017
+CS 5006,Algorithms,3.58,032,No,No,SPRING,2017
+CS 5007,Computer Systems,3.22,032,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.31,033,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.53,033,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.43,033,No,No,SPRING,2014
+CS 5006,Algorithms,3.32,033,No,No,FALL,2014
+CS 5007,Computer Systems,3.63,033,No,No,FALL,2014
+CS 6740,Network Security,3.65,033,No,No,SPRING,2014
+CS 7575,Seminar in Software Engineering,3.4,033,No,No,FALL,2014
+CS 7370,Seminar in Graphics/Image Processing,3.41,033,No,No,SPRING,2014
+CS 5500,Managing Software Development,3.49,033,No,No,SPRING,2014
+CS 8674,Master’s Project,3.59,033,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.35,033,No,No,FALL,2014
+CS 6140,Machine Learning,3.45,033,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.56,034,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.39,034,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.31,034,No,No,SPRING,2015
+CS 5006,Algorithms,3.24,034,No,No,SPRING,2015
+CS 5007,Computer Systems,3.5,034,No,No,FALL,2015
+CS 7805,Theory of Computation,3.45,034,No,No,SPRING,2015
+CS 6200,Information Retrieval,3.44,034,No,No,FALL,2015
+CS 6610,Parallel Computing,3.39,034,No,No,FALL,2015
+CS 6650,Building Scalable Distributed Systems,3.48,034,No,No,SPRING,2015
+CS 5700,Fundamentals of Computer Networking,3.47,034,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.76,034,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.5,035,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.59,035,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.4,035,No,No,FALL,2014
+CS 5006,Algorithms,3.5,035,No,No,SPRING,2014
+CS 5007,Computer Systems,3.14,035,No,No,FALL,2014
+CS 5340,Computer/Human Interaction,3.44,035,No,No,SPRING,2014
+CS 6535,Engineering Reliable Software,3.5,035,No,No,FALL,2014
+CS 7670,Seminar in Computer Systems,3.63,035,No,No,FALL,2014
+CS 5750,Social Computing,3.8,035,No,No,FALL,2014
+CS 5200,Database Management Systems,3.63,035,No,No,FALL,2014
+CS 7575,Seminar in Software Engineering,3.54,035,No,No,FALL,2014
+CS 6410,Compilers,3.51,035,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.62,036,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.5,036,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.42,036,No,No,SPRING,2016
+CS 5006,Algorithms,3.6,036,No,No,SPRING,2016
+CS 5007,Computer Systems,3.56,036,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.51,036,No,No,FALL,2016
+CS 6740,Network Security,3.43,036,No,No,SPRING,2016
+CS 5610,Web Development,3.08,036,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.49,036,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.25,037,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.69,037,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.43,037,No,No,FALL,2017
+CS 5006,Algorithms,3.65,037,No,No,SPRING,2017
+CS 5007,Computer Systems,3.45,037,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.52,038,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.6,038,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.48,038,No,No,SPRING,2014
+CS 5006,Algorithms,3.58,038,No,No,FALL,2014
+CS 5007,Computer Systems,3.1,038,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.6,038,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.61,038,No,No,FALL,2014
+CS 7575,Seminar in Software Engineering,3.44,038,No,No,FALL,2014
+CS 5350,Applied Geometric Representation and Computation,3.51,038,No,No,FALL,2014
+CS 7670,Seminar in Computer Systems,3.25,038,No,No,SPRING,2014
+CS 5340,Computer/Human Interaction,3.44,038,No,No,FALL,2014
+CS 7480,Special Topics in Programming Language,3.57,038,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.44,039,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.6,039,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.58,039,No,No,FALL,2014
+CS 5006,Algorithms,3.51,039,No,No,SPRING,2014
+CS 5007,Computer Systems,3.55,039,No,No,FALL,2014
+CS 6510,Advanced Software Development,3.53,039,No,No,SPRING,2014
+CS 8982,Readings,3.4,039,No,No,FALL,2014
+CS 7775,Seminar in Computer Security,3.59,039,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.45,039,No,No,SPRING,2014
+CS 5330,Pattern Recognition and Computer Vision,3.83,039,No,No,SPRING,2014
+CS 6110,Knowledge-Based Systems,3.52,039,No,No,SPRING,2014
+CS 6220,Data Mining Techniques,3.5,039,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.63,040,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.43,040,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.49,040,No,No,SPRING,2017
+CS 5006,Algorithms,3.39,040,No,No,FALL,2017
+CS 5007,Computer Systems,3.52,040,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.65,041,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.47,041,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.54,041,No,No,FALL,2014
+CS 5006,Algorithms,3.78,041,No,No,FALL,2014
+CS 5007,Computer Systems,3.39,041,No,No,SPRING,2014
+CS 5800,Algorithms,3.39,041,No,No,SPRING,2014
+CS 5850,Building Game Engines,3.26,041,No,No,FALL,2014
+CS 7280,Special Topics in Database Management,3.22,041,No,No,FALL,2014
+CS 6110,Knowledge-Based Systems,3.41,041,No,No,FALL,2014
+CS 5750,Social Computing,3.42,041,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.4,041,No,No,SPRING,2014
+CS 7805,Theory of Computation,3.5,041,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.71,042,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.3,042,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.44,042,No,No,SPRING,2017
+CS 5006,Algorithms,3.59,042,No,No,SPRING,2017
+CS 5007,Computer Systems,3.42,042,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.65,043,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.51,043,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.42,043,No,No,SPRING,2016
+CS 5006,Algorithms,3.4,043,No,No,SPRING,2016
+CS 5007,Computer Systems,3.18,043,No,No,SPRING,2016
+CS 6200,Information Retrieval,3.48,043,No,No,SPRING,2016
+CS 7990,Thesis,3.54,043,No,No,FALL,2016
+CS 5350,Applied Geometric Representation and Computation,3.32,043,No,No,FALL,2016
+CS 6710,Wireless Network,3.6,043,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.42,044,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.33,044,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.28,044,No,No,FALL,2017
+CS 5006,Algorithms,3.6,044,No,No,FALL,2017
+CS 5007,Computer Systems,3.47,044,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.51,045,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.44,045,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.33,045,No,No,FALL,2015
+CS 5006,Algorithms,3.54,045,No,No,SPRING,2015
+CS 5007,Computer Systems,3.7,045,No,No,SPRING,2015
+CS 5610,Web Development,3.6,045,No,No,SPRING,2015
+CS 6110,Knowledge-Based Systems,3.46,045,No,No,SPRING,2015
+CS 5200,Database Management Systems,3.61,045,No,No,FALL,2015
+CS 6310,Computational Imaging,3.5,045,No,No,FALL,2015
+CS 8674,Master’s Project,3.43,045,No,No,FALL,2015
+CS 6410,Compilers,3.41,045,No,No,FALL,2015
+CS 5340,Computer/Human Interaction,3.54,045,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.64,046,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.54,046,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.26,046,No,No,FALL,2015
+CS 5006,Algorithms,3.26,046,No,No,FALL,2015
+CS 5007,Computer Systems,3.68,046,No,No,SPRING,2015
+CS 7140,Advanced Machine Learning,3.59,046,No,No,SPRING,2015
+CS 7880,Special Topics in Theories of Computer Science,3.34,046,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.52,046,No,No,FALL,2015
+CS 6200,Information Retrieval,3.72,046,No,No,SPRING,2015
+CS 5340,Computer/Human Interaction,3.68,046,No,No,SPRING,2015
+CS 5750,Social Computing,3.58,046,No,No,FALL,2015
+CS 7280,Special Topics in Database Management,3.78,046,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.23,047,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.8,047,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.66,047,No,No,SPRING,2016
+CS 5006,Algorithms,3.46,047,No,No,FALL,2016
+CS 5007,Computer Systems,3.76,047,No,No,SPRING,2016
+CS 7990,Thesis,3.65,047,No,No,SPRING,2016
+CS 8982,Readings,3.73,047,No,No,SPRING,2016
+CS 5800,Algorithms,3.45,047,No,No,SPRING,2016
+CS 6220,Data Mining Techniques,3.52,047,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.68,048,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.3,048,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.47,048,No,No,SPRING,2016
+CS 5006,Algorithms,3.29,048,No,No,SPRING,2016
+CS 5007,Computer Systems,3.36,048,No,No,FALL,2016
+CS 7780,Special Topics in Networks,3.37,048,No,No,FALL,2016
+CS 8982,Readings,3.35,048,No,No,FALL,2016
+CS 5750,Social Computing,3.61,048,No,No,FALL,2016
+CS 6110,Knowledge-Based Systems,3.66,048,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.4,049,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.41,049,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.3,049,No,No,SPRING,2017
+CS 5006,Algorithms,3.46,049,No,No,FALL,2017
+CS 5007,Computer Systems,3.57,049,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.51,050,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.41,050,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.35,050,No,No,SPRING,2016
+CS 5006,Algorithms,3.36,050,No,No,SPRING,2016
+CS 5007,Computer Systems,3.56,050,No,No,FALL,2016
+CS 6515,Software Development,3.6,050,No,No,FALL,2016
+CS 7770,Seminar in Computer Networks,3.75,050,No,No,SPRING,2016
+CS 6240,Large-Scale Parallel Data Processing,3.27,050,No,No,SPRING,2016
+CS 6810,Distributed Algorithms,3.58,050,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.48,051,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.53,051,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.12,051,No,No,FALL,2017
+CS 5006,Algorithms,3.41,051,No,No,FALL,2017
+CS 5007,Computer Systems,3.5,051,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.8,052,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.72,052,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.51,052,No,No,FALL,2015
+CS 5006,Algorithms,3.57,052,No,No,SPRING,2015
+CS 5007,Computer Systems,3.63,052,No,No,SPRING,2015
+CS 7680,Special Topics in Computer Systems,3.48,052,No,No,SPRING,2015
+CS 5500,Managing Software Development,3.59,052,No,No,FALL,2015
+CS 6240,Large-Scale Parallel Data Processing,3.7,052,No,No,FALL,2015
+CS 5800,Algorithms,3.31,052,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.86,052,No,No,FALL,2015
+CS 7370,Seminar in Graphics/Image Processing,3.63,052,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.75,053,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.3,053,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.4,053,No,No,SPRING,2015
+CS 5006,Algorithms,3.61,053,No,No,FALL,2015
+CS 5007,Computer Systems,3.53,053,No,No,FALL,2015
+CS 7880,Special Topics in Theories of Computer Science,3.45,053,No,No,SPRING,2015
+CS 7140,Advanced Machine Learning,3.37,053,No,No,FALL,2015
+CS 6760,"Privacy, Security, and Usability",3.24,053,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.69,053,No,No,SPRING,2015
+CS 6410,Compilers,3.65,053,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.15,053,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.53,054,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.22,054,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.39,054,No,No,FALL,2017
+CS 5006,Algorithms,3.47,054,No,No,SPRING,2017
+CS 5007,Computer Systems,3.33,054,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.33,055,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.66,055,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.54,055,No,No,FALL,2015
+CS 5006,Algorithms,3.43,055,No,No,FALL,2015
+CS 5007,Computer Systems,3.54,055,No,No,SPRING,2015
+CS 5350,Applied Geometric Representation and Computation,3.39,055,No,No,SPRING,2015
+CS 6710,Wireless Network,3.51,055,No,No,FALL,2015
+CS 5150,Game Artificial Intelligence,3.43,055,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.49,055,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.65,055,No,No,SPRING,2015
+CS 5800,Algorithms,3.66,055,No,No,FALL,2015
+CS 5600,Computer Systems,3.55,055,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.77,056,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.54,056,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.54,056,No,No,SPRING,2017
+CS 5006,Algorithms,3.38,056,No,No,SPRING,2017
+CS 5007,Computer Systems,3.34,056,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.33,057,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.42,057,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.34,057,No,No,SPRING,2015
+CS 5006,Algorithms,3.66,057,No,No,SPRING,2015
+CS 5007,Computer Systems,3.61,057,No,No,FALL,2015
+CS 5310,Computer Graphics,3.37,057,No,No,SPRING,2015
+CS 6240,Large-Scale Parallel Data Processing,3.66,057,No,No,FALL,2015
+CS 5200,Database Management Systems,3.59,057,No,No,SPRING,2015
+CS 7580,Special Topics in Software Engineering,3.46,057,No,No,FALL,2015
+CS 5150,Game Artificial Intelligence,3.4,057,No,No,FALL,2015
+CS 5600,Computer Systems,3.44,057,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.57,057,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.61,058,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.65,058,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.39,058,No,No,FALL,2015
+CS 5006,Algorithms,3.36,058,No,No,FALL,2015
+CS 5007,Computer Systems,3.33,058,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.38,058,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.9,058,No,No,SPRING,2015
+CS 5010,Programming Design Paradigm,3.62,058,No,No,FALL,2015
+CS 5650,High Performance Computing,3.51,058,No,No,FALL,2015
+CS 5200,Database Management Systems,3.86,058,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.56,059,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.54,059,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.66,059,No,No,SPRING,2015
+CS 5006,Algorithms,3.69,059,No,No,SPRING,2015
+CS 5007,Computer Systems,3.53,059,No,No,SPRING,2015
+CS 7780,Special Topics in Networks,3.41,059,No,No,SPRING,2015
+CS 7990,Thesis,3.66,059,No,No,SPRING,2015
+CS 5330,Pattern Recognition and Computer Vision,3.67,059,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.66,059,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.47,059,No,No,FALL,2015
+CS 6810,Distributed Algorithms,3.64,059,No,No,SPRING,2015
+CS 5150,Game Artificial Intelligence,3.43,059,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.35,060,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.4,060,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.86,060,No,No,SPRING,2015
+CS 5006,Algorithms,3.46,060,No,No,SPRING,2015
+CS 5007,Computer Systems,3.4,060,No,No,SPRING,2015
+CS 5310,Computer Graphics,3.47,060,No,No,FALL,2015
+CS 5800,Algorithms,3.41,060,No,No,FALL,2015
+CS 8674,Master’s Project,3.59,060,No,No,FALL,2015
+CS 7140,Advanced Machine Learning,3.62,060,No,No,FALL,2015
+CS 6650,Building Scalable Distributed Systems,3.61,060,No,No,FALL,2015
+CS 5335,Robotic Science and Systems,3.55,060,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.54,061,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.6,061,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.76,061,No,No,FALL,2014
+CS 5006,Algorithms,3.54,061,No,No,FALL,2014
+CS 5007,Computer Systems,3.59,061,No,No,SPRING,2014
+CS 6710,Wireless Network,3.69,061,No,No,FALL,2014
+CS 6810,Distributed Algorithms,3.35,061,No,No,FALL,2014
+CS 6800,Application of Information Theory,3.58,061,No,No,SPRING,2014
+CS 5770,Software Vulnerabilities and Security,3.25,061,No,No,SPRING,2014
+CS 7480,Special Topics in Programming Language,3.63,061,No,No,FALL,2014
+CS 6412,Semantics of Programming Language,3.65,061,No,No,FALL,2014
+CS 5350,Applied Geometric Representation and Computation,3.39,061,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.48,062,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.44,062,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.56,062,No,No,SPRING,2016
+CS 5006,Algorithms,3.93,062,No,No,SPRING,2016
+CS 5007,Computer Systems,3.65,062,No,No,FALL,2016
+CS 6760,"Privacy, Security, and Usability",3.52,062,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.5,062,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.4,063,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.53,063,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.44,063,No,No,FALL,2016
+CS 5006,Algorithms,3.31,063,No,No,SPRING,2016
+CS 5007,Computer Systems,3.41,063,No,No,FALL,2016
+CS 6520,Methods of Software Development,3.45,063,No,No,FALL,2016
+CS 5320,Digital Image Processing,3.49,063,No,No,SPRING,2016
+CS 7470,Seminar in Programming Languages,3.56,063,No,No,SPRING,2016
+CS 6412,Semantics of Programming Language,3.64,063,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.17,064,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.4,064,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.61,064,No,No,SPRING,2015
+CS 5006,Algorithms,3.43,064,No,No,SPRING,2015
+CS 5007,Computer Systems,3.56,064,No,No,SPRING,2015
+CS 8674,Master’s Project,3.42,064,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.43,064,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.41,064,No,No,FALL,2015
+CS 5620,Computer Architecture,3.53,064,No,No,SPRING,2015
+CS 5520,Mobile Application Development,3.48,064,No,No,SPRING,2015
+CS 8982,Readings,3.44,064,No,No,FALL,2015
+CS 7680,Special Topics in Computer Systems,3.44,064,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.31,065,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.45,065,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.53,065,No,No,SPRING,2014
+CS 5006,Algorithms,3.6,065,No,No,SPRING,2014
+CS 5007,Computer Systems,3.62,065,No,No,SPRING,2014
+CS 6750,Cryptography and Communications Security,3.54,065,No,No,SPRING,2014
+CS 5800,Algorithms,3.58,065,No,No,SPRING,2014
+CS 7770,Seminar in Computer Networks,3.24,065,No,No,FALL,2014
+CS 5500,Managing Software Development,3.72,065,No,No,SPRING,2014
+CS 7670,Seminar in Computer Systems,3.66,065,No,No,SPRING,2014
+CS 5700,Fundamentals of Computer Networking,3.5,065,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.68,066,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.61,066,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.42,066,No,No,SPRING,2017
+CS 5006,Algorithms,3.69,066,No,No,FALL,2017
+CS 5007,Computer Systems,3.46,066,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.6,067,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.67,067,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.66,067,No,No,SPRING,2014
+CS 5006,Algorithms,3.4,067,No,No,FALL,2014
+CS 5007,Computer Systems,3.57,067,No,No,FALL,2014
+CS 6220,Data Mining Techniques,3.2,067,No,No,SPRING,2014
+CS 7680,Special Topics in Computer Systems,3.3,067,No,No,SPRING,2014
+CS 6810,Distributed Algorithms,3.35,067,No,No,SPRING,2014
+CS 6540,Foundations of Formal Methods and Software Analysis,3.53,067,No,No,SPRING,2014
+CS 5620,Computer Architecture,3.31,067,No,No,SPRING,2014
+CS 6520,Methods of Software Development,3.68,067,No,No,SPRING,2014
+CS 5150,Game Artificial Intelligence,3.75,067,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.54,068,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.27,068,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.43,068,No,No,SPRING,2016
+CS 5006,Algorithms,3.17,068,No,No,FALL,2016
+CS 5007,Computer Systems,3.51,068,No,No,FALL,2016
+CS 7370,Seminar in Graphics/Image Processing,3.79,068,No,No,SPRING,2016
+CS 5850,Building Game Engines,3.72,068,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.44,068,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.56,069,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.54,069,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.68,069,No,No,SPRING,2016
+CS 5006,Algorithms,3.52,069,No,No,SPRING,2016
+CS 5007,Computer Systems,3.51,069,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.61,069,No,No,FALL,2016
+CS 5850,Building Game Engines,3.44,069,No,No,SPRING,2016
+CS 5500,Managing Software Development,3.41,069,No,No,FALL,2016
+CS 7270,Seminar in Database Systems,3.62,069,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.45,070,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.28,070,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.74,070,No,No,FALL,2015
+CS 5006,Algorithms,3.61,070,No,No,SPRING,2015
+CS 5007,Computer Systems,3.56,070,No,No,FALL,2015
+CS 6740,Network Security,3.52,070,No,No,SPRING,2015
+CS 5800,Algorithms,3.37,070,No,No,FALL,2015
+CS 7770,Seminar in Computer Networks,3.56,070,No,No,FALL,2015
+CS 6530,Analysis of Software Artifacts,3.68,070,No,No,SPRING,2015
+CS 6240,Large-Scale Parallel Data Processing,3.69,070,No,No,SPRING,2015
+CS 6650,Building Scalable Distributed Systems,3.72,070,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.36,071,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.48,071,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.61,071,No,No,SPRING,2017
+CS 5006,Algorithms,3.26,071,No,No,SPRING,2017
+CS 5007,Computer Systems,3.61,071,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.45,072,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.61,072,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.46,072,No,No,SPRING,2014
+CS 5006,Algorithms,3.76,072,No,No,SPRING,2014
+CS 5007,Computer Systems,3.51,072,No,No,FALL,2014
+CS 5620,Computer Architecture,3.44,072,No,No,SPRING,2014
+CS 5770,Software Vulnerabilities and Security,3.52,072,No,No,FALL,2014
+CS 6760,"Privacy, Security, and Usability",3.61,072,No,No,SPRING,2014
+CS 6200,Information Retrieval,3.14,072,No,No,SPRING,2014
+CS 7575,Seminar in Software Engineering,3.51,072,No,No,SPRING,2014
+CS 6750,Cryptography and Communications Security,3.74,072,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.54,073,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.59,073,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.71,073,No,No,SPRING,2015
+CS 5006,Algorithms,3.7,073,No,No,FALL,2015
+CS 5007,Computer Systems,3.6,073,No,No,FALL,2015
+CS 7370,Seminar in Graphics/Image Processing,3.69,073,No,No,FALL,2015
+CS 7570,Seminar in Software Development,3.63,073,No,No,FALL,2015
+CS 6535,Engineering Reliable Software,3.67,073,No,No,SPRING,2015
+CS 6710,Wireless Network,3.59,073,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.77,073,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.56,074,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.65,074,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.58,074,No,No,FALL,2017
+CS 5006,Algorithms,3.48,074,No,No,FALL,2017
+CS 5007,Computer Systems,3.65,074,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.47,075,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.25,075,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.31,075,No,No,SPRING,2016
+CS 5006,Algorithms,3.67,075,No,No,SPRING,2016
+CS 5007,Computer Systems,3.56,075,No,No,SPRING,2016
+CS 7470,Seminar in Programming Languages,3.86,075,No,No,SPRING,2016
+CS 6412,Semantics of Programming Language,3.19,075,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.28,075,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.67,076,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.52,076,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.51,076,No,No,FALL,2014
+CS 5006,Algorithms,3.59,076,No,No,SPRING,2014
+CS 5007,Computer Systems,3.3,076,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.45,076,No,No,SPRING,2014
+CS 5770,Software Vulnerabilities and Security,3.37,076,No,No,SPRING,2014
+CS 6710,Wireless Network,3.47,076,No,No,FALL,2014
+CS 5350,Applied Geometric Representation and Computation,3.55,076,No,No,FALL,2014
+CS 5500,Managing Software Development,3.25,076,No,No,SPRING,2014
+CS 5200,Database Management Systems,3.67,076,No,No,FALL,2014
+CS 5700,Fundamentals of Computer Networking,3.56,076,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.63,077,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.51,077,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.64,077,No,No,FALL,2017
+CS 5006,Algorithms,3.48,077,No,No,SPRING,2017
+CS 5007,Computer Systems,3.75,077,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.29,078,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.43,078,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.35,078,No,No,FALL,2015
+CS 5006,Algorithms,3.76,078,No,No,SPRING,2015
+CS 5007,Computer Systems,3.4,078,No,No,FALL,2015
+CS 6200,Information Retrieval,3.7,078,No,No,FALL,2015
+CS 6140,Machine Learning,3.15,078,No,No,FALL,2015
+CS 7770,Seminar in Computer Networks,3.66,078,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.79,078,No,No,SPRING,2015
+CS 7870,Seminar in Theoretical Computer Science,3.29,078,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.38,078,No,No,FALL,2015
+CS 5500,Managing Software Development,3.46,078,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.39,079,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.58,079,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.65,079,No,No,SPRING,2015
+CS 5006,Algorithms,3.46,079,No,No,FALL,2015
+CS 5007,Computer Systems,3.6,079,No,No,SPRING,2015
+CS 5335,Robotic Science and Systems,3.31,079,No,No,FALL,2015
+CS 6535,Engineering Reliable Software,3.53,079,No,No,SPRING,2015
+CS 6610,Parallel Computing,3.48,079,No,No,FALL,2015
+CS 6740,Network Security,3.26,079,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.65,079,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.34,079,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.2,080,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.56,080,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.22,080,No,No,FALL,2014
+CS 5006,Algorithms,3.43,080,No,No,FALL,2014
+CS 5007,Computer Systems,3.29,080,No,No,FALL,2014
+CS 6650,Building Scalable Distributed Systems,3.53,080,No,No,SPRING,2014
+CS 7880,Special Topics in Theories of Computer Science,3.52,080,No,No,SPRING,2014
+CS 7805,Theory of Computation,3.23,080,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.69,080,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.28,080,No,No,FALL,2014
+CS 5320,Digital Image Processing,3.58,080,No,No,SPRING,2014
+CS 5650,High Performance Computing,3.53,080,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.24,081,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,081,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.19,081,No,No,SPRING,2017
+CS 5006,Algorithms,3.67,081,No,No,SPRING,2017
+CS 5007,Computer Systems,3.66,081,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.46,082,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.57,082,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.8,082,No,No,FALL,2016
+CS 5006,Algorithms,3.54,082,No,No,SPRING,2016
+CS 5007,Computer Systems,3.73,082,No,No,SPRING,2016
+CS 5500,Managing Software Development,3.71,082,No,No,FALL,2016
+CS 6740,Network Security,3.29,082,No,No,FALL,2016
+CS 7990,Thesis,3.63,082,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.55,083,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.56,083,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.55,083,No,No,SPRING,2014
+CS 5006,Algorithms,3.35,083,No,No,FALL,2014
+CS 5007,Computer Systems,3.58,083,No,No,FALL,2014
+CS 6240,Large-Scale Parallel Data Processing,3.17,083,No,No,SPRING,2014
+CS 6750,Cryptography and Communications Security,3.52,083,No,No,FALL,2014
+CS 7480,Special Topics in Programming Language,3.67,083,No,No,FALL,2014
+CS 5400,Principles of Programming Language,3.78,083,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.35,083,No,No,SPRING,2014
+CS 8982,Readings,3.32,083,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.57,084,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.4,084,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.35,084,No,No,FALL,2016
+CS 5006,Algorithms,3.57,084,No,No,FALL,2016
+CS 5007,Computer Systems,3.63,084,No,No,FALL,2016
+CS 6760,"Privacy, Security, and Usability",3.44,084,No,No,SPRING,2016
+CS 8674,Master’s Project,3.18,084,No,No,FALL,2016
+CS 7140,Advanced Machine Learning,3.53,084,No,No,FALL,2016
+CS 6740,Network Security,3.75,084,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.51,085,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.33,085,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.58,085,No,No,SPRING,2017
+CS 5006,Algorithms,3.69,085,No,No,SPRING,2017
+CS 5007,Computer Systems,3.41,085,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.41,086,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.22,086,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.69,086,No,No,SPRING,2016
+CS 5006,Algorithms,3.44,086,No,No,FALL,2016
+CS 5007,Computer Systems,3.47,086,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.43,086,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.35,086,No,No,FALL,2016
+CS 6520,Methods of Software Development,3.26,086,No,No,FALL,2016
+CS 6310,Computational Imaging,3.32,086,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.64,087,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.43,087,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.69,087,No,No,SPRING,2017
+CS 5006,Algorithms,3.51,087,No,No,FALL,2017
+CS 5007,Computer Systems,3.42,087,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.31,088,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.43,088,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.65,088,No,No,FALL,2014
+CS 5006,Algorithms,3.55,088,No,No,FALL,2014
+CS 5007,Computer Systems,3.53,088,No,No,SPRING,2014
+CS 5100,Foundations of Artificial Intelligence,3.57,088,No,No,SPRING,2014
+CS 6515,Software Development,3.45,088,No,No,FALL,2014
+CS 5320,Digital Image Processing,3.46,088,No,No,FALL,2014
+CS 7775,Seminar in Computer Security,3.51,088,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.27,088,No,No,FALL,2014
+CS 6350,Empirical Research Methods,3.53,088,No,No,SPRING,2014
+CS 7780,Special Topics in Networks,3.32,088,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.43,089,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.45,089,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.55,089,No,No,SPRING,2016
+CS 5006,Algorithms,3.41,089,No,No,FALL,2016
+CS 5007,Computer Systems,3.98,089,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.48,089,No,No,FALL,2016
+CS 7670,Seminar in Computer Systems,3.57,089,No,No,FALL,2016
+CS 6650,Building Scalable Distributed Systems,3.7,089,No,No,SPRING,2016
+CS 7880,Special Topics in Theories of Computer Science,3.55,089,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.39,090,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.52,090,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.3,090,No,No,FALL,2015
+CS 5006,Algorithms,3.62,090,No,No,SPRING,2015
+CS 5007,Computer Systems,3.6,090,No,No,FALL,2015
+CS 7990,Thesis,3.62,090,No,No,FALL,2015
+CS 5350,Applied Geometric Representation and Computation,3.68,090,No,No,FALL,2015
+CS 5310,Computer Graphics,3.57,090,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.28,090,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.53,090,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.63,090,No,No,SPRING,2015
+CS 7870,Seminar in Theoretical Computer Science,3.46,090,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.49,091,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.7,091,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.54,091,No,No,SPRING,2014
+CS 5006,Algorithms,3.67,091,No,No,SPRING,2014
+CS 5007,Computer Systems,3.55,091,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.54,091,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.33,091,No,No,FALL,2014
+CS 6810,Distributed Algorithms,3.37,091,No,No,FALL,2014
+CS 5100,Foundations of Artificial Intelligence,3.14,091,No,No,FALL,2014
+CS 7380,Special Topics in Graphics/Image Processing,3.59,091,No,No,SPRING,2014
+CS 5010,Programming Design Paradigm,3.5,091,No,No,FALL,2014
+CS 7775,Seminar in Computer Security,3.44,091,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.52,092,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.36,092,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.5,092,No,No,SPRING,2016
+CS 5006,Algorithms,3.46,092,No,No,SPRING,2016
+CS 5007,Computer Systems,3.77,092,No,No,FALL,2016
+CS 5620,Computer Architecture,3.71,092,No,No,FALL,2016
+CS 5340,Computer/Human Interaction,3.51,092,No,No,FALL,2016
+CS 6200,Information Retrieval,3.41,092,No,No,FALL,2016
+CS 5520,Mobile Application Development,3.53,092,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.58,093,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.61,093,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.55,093,No,No,FALL,2015
+CS 5006,Algorithms,3.52,093,No,No,FALL,2015
+CS 5007,Computer Systems,3.62,093,No,No,FALL,2015
+CS 6740,Network Security,3.35,093,No,No,SPRING,2015
+CS 7670,Seminar in Computer Systems,3.52,093,No,No,FALL,2015
+CS 6530,Analysis of Software Artifacts,3.68,093,No,No,FALL,2015
+CS 6240,Large-Scale Parallel Data Processing,3.52,093,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.25,093,No,No,SPRING,2015
+CS 6750,Cryptography and Communications Security,3.66,093,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.62,094,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.6,094,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.83,094,No,No,FALL,2016
+CS 5006,Algorithms,3.27,094,No,No,SPRING,2016
+CS 5007,Computer Systems,3.66,094,No,No,FALL,2016
+CS 7140,Advanced Machine Learning,3.33,094,No,No,FALL,2016
+CS 6140,Machine Learning,3.5,094,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.53,094,No,No,SPRING,2016
+CS 5750,Social Computing,3.53,094,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.53,095,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.62,095,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.34,095,No,No,FALL,2016
+CS 5006,Algorithms,3.36,095,No,No,FALL,2016
+CS 5007,Computer Systems,3.54,095,No,No,FALL,2016
+CS 5850,Building Game Engines,3.75,095,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.28,095,No,No,FALL,2016
+CS 7990,Thesis,3.73,095,No,No,SPRING,2016
+CS 5400,Principles of Programming Language,3.66,095,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.38,096,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.54,096,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.67,096,No,No,FALL,2017
+CS 5006,Algorithms,3.49,096,No,No,SPRING,2017
+CS 5007,Computer Systems,3.77,096,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.23,097,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.49,097,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.5,097,No,No,SPRING,2015
+CS 5006,Algorithms,3.51,097,No,No,SPRING,2015
+CS 5007,Computer Systems,3.56,097,No,No,SPRING,2015
+CS 7280,Special Topics in Database Management,3.62,097,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.52,097,No,No,SPRING,2015
+CS 7580,Special Topics in Software Engineering,3.46,097,No,No,SPRING,2015
+CS 6120,Natural Language Processing,3.48,097,No,No,FALL,2015
+CS 5520,Mobile Application Development,3.39,097,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.62,097,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.44,098,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.55,098,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.41,098,No,No,FALL,2014
+CS 5006,Algorithms,3.09,098,No,No,SPRING,2014
+CS 5007,Computer Systems,3.56,098,No,No,SPRING,2014
+CS 7575,Seminar in Software Engineering,3.73,098,No,No,FALL,2014
+CS 7990,Thesis,3.27,098,No,No,SPRING,2014
+CS 6535,Engineering Reliable Software,3.72,098,No,No,FALL,2014
+CS 5150,Game Artificial Intelligence,3.57,098,No,No,SPRING,2014
+CS 7775,Seminar in Computer Security,3.24,098,No,No,FALL,2014
+CS 6520,Methods of Software Development,3.54,098,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.54,099,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.55,099,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.35,099,No,No,SPRING,2017
+CS 5006,Algorithms,3.44,099,No,No,FALL,2017
+CS 5007,Computer Systems,3.39,099,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.29,100,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,100,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.37,100,No,No,SPRING,2017
+CS 5006,Algorithms,3.76,100,No,No,SPRING,2017
+CS 5007,Computer Systems,3.31,100,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.58,101,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.7,101,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.41,101,No,No,SPRING,2015
+CS 5006,Algorithms,3.69,101,No,No,SPRING,2015
+CS 5007,Computer Systems,3.39,101,No,No,SPRING,2015
+CS 7270,Seminar in Database Systems,3.41,101,No,No,SPRING,2015
+CS 5600,Computer Systems,3.41,101,No,No,SPRING,2015
+CS 5770,Software Vulnerabilities and Security,3.57,101,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.58,101,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.63,101,No,No,FALL,2015
+CS 7880,Special Topics in Theories of Computer Science,3.59,101,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.38,101,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.77,102,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.41,102,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.12,102,No,No,SPRING,2016
+CS 5006,Algorithms,3.72,102,No,No,FALL,2016
+CS 5007,Computer Systems,3.66,102,No,No,SPRING,2016
+CS 5610,Web Development,3.28,102,No,No,SPRING,2016
+CS 5750,Social Computing,3.38,102,No,No,SPRING,2016
+CS 6760,"Privacy, Security, and Usability",3.46,102,No,No,SPRING,2016
+CS 7770,Seminar in Computer Networks,3.63,102,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.58,103,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.64,103,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.62,103,No,No,FALL,2016
+CS 5006,Algorithms,3.48,103,No,No,SPRING,2016
+CS 5007,Computer Systems,3.41,103,No,No,FALL,2016
+CS 7780,Special Topics in Networks,3.83,103,No,No,SPRING,2016
+CS 5010,Programming Design Paradigm,3.46,103,No,No,FALL,2016
+CS 6410,Compilers,3.34,103,No,No,SPRING,2016
+CS 6750,Cryptography and Communications Security,3.69,103,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.66,104,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.56,104,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.77,104,No,No,SPRING,2014
+CS 5006,Algorithms,3.49,104,No,No,FALL,2014
+CS 5007,Computer Systems,3.55,104,No,No,FALL,2014
+CS 7280,Special Topics in Database Management,3.66,104,No,No,FALL,2014
+CS 6410,Compilers,3.51,104,No,No,FALL,2014
+CS 5100,Foundations of Artificial Intelligence,3.21,104,No,No,FALL,2014
+CS 6800,Application of Information Theory,3.31,104,No,No,FALL,2014
+CS 6412,Semantics of Programming Language,3.5,104,No,No,SPRING,2014
+CS 7805,Theory of Computation,3.65,104,No,No,SPRING,2014
+CS 5610,Web Development,3.53,104,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.37,105,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.29,105,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.69,105,No,No,FALL,2016
+CS 5006,Algorithms,3.33,105,No,No,FALL,2016
+CS 5007,Computer Systems,3.55,105,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.58,105,No,No,FALL,2016
+CS 5350,Applied Geometric Representation and Computation,3.6,105,No,No,SPRING,2016
+CS 7670,Seminar in Computer Systems,3.74,105,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.35,106,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.89,106,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.5,106,No,No,SPRING,2017
+CS 5006,Algorithms,3.75,106,No,No,FALL,2017
+CS 5007,Computer Systems,3.26,106,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.83,107,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.52,107,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.36,107,No,No,SPRING,2017
+CS 5006,Algorithms,3.29,107,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,107,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.85,108,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.33,108,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.47,108,No,No,SPRING,2016
+CS 5006,Algorithms,3.6,108,No,No,SPRING,2016
+CS 5007,Computer Systems,3.74,108,No,No,FALL,2016
+CS 5010,Programming Design Paradigm,3.39,108,No,No,FALL,2016
+CS 7670,Seminar in Computer Systems,3.56,108,No,No,FALL,2016
+CS 7270,Seminar in Database Systems,3.41,108,No,No,FALL,2016
+CS 6515,Software Development,3.69,108,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.67,109,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.58,109,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.49,109,No,No,FALL,2016
+CS 5006,Algorithms,3.58,109,No,No,FALL,2016
+CS 5007,Computer Systems,3.64,109,No,No,FALL,2016
+CS 5010,Programming Design Paradigm,3.48,109,No,No,SPRING,2016
+CS 5310,Computer Graphics,3.65,109,No,No,FALL,2016
+CS 7870,Seminar in Theoretical Computer Science,3.37,109,No,No,SPRING,2016
+CS 5350,Applied Geometric Representation and Computation,3.33,109,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.2,110,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.76,110,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.8,110,No,No,SPRING,2016
+CS 5006,Algorithms,3.65,110,No,No,FALL,2016
+CS 5007,Computer Systems,3.89,110,No,No,FALL,2016
+CS 5200,Database Management Systems,3.12,110,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.48,110,No,No,FALL,2016
+CS 5600,Computer Systems,3.64,110,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.65,110,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.68,111,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.22,111,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.42,111,No,No,FALL,2016
+CS 5006,Algorithms,3.39,111,No,No,FALL,2016
+CS 5007,Computer Systems,3.56,111,No,No,FALL,2016
+CS 7570,Seminar in Software Development,3.25,111,No,No,FALL,2016
+CS 5200,Database Management Systems,3.63,111,No,No,FALL,2016
+CS 5335,Robotic Science and Systems,3.47,111,No,No,FALL,2016
+CS 5610,Web Development,3.62,111,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.55,112,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.55,112,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.49,112,No,No,FALL,2014
+CS 5006,Algorithms,3.73,112,No,No,FALL,2014
+CS 5007,Computer Systems,3.67,112,No,No,SPRING,2014
+CS 6520,Methods of Software Development,3.43,112,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.53,112,No,No,FALL,2014
+CS 6610,Parallel Computing,3.37,112,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.33,112,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.52,112,No,No,FALL,2014
+CS 6540,Foundations of Formal Methods and Software Analysis,3.36,112,No,No,SPRING,2014
+CS 5700,Fundamentals of Computer Networking,3.83,112,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.55,113,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.41,113,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.79,113,No,No,SPRING,2014
+CS 5006,Algorithms,3.58,113,No,No,FALL,2014
+CS 5007,Computer Systems,3.51,113,No,No,FALL,2014
+CS 6740,Network Security,3.65,113,No,No,SPRING,2014
+CS 6220,Data Mining Techniques,3.52,113,No,No,SPRING,2014
+CS 6760,"Privacy, Security, and Usability",3.64,113,No,No,SPRING,2014
+CS 7370,Seminar in Graphics/Image Processing,3.62,113,No,No,SPRING,2014
+CS 6810,Distributed Algorithms,3.7,113,No,No,FALL,2014
+CS 7775,Seminar in Computer Security,3.5,113,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.73,114,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.43,114,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.64,114,No,No,SPRING,2015
+CS 5006,Algorithms,3.57,114,No,No,FALL,2015
+CS 5007,Computer Systems,3.35,114,No,No,FALL,2015
+CS 5200,Database Management Systems,3.62,114,No,No,SPRING,2015
+CS 5400,Principles of Programming Language,3.48,114,No,No,SPRING,2015
+CS 6110,Knowledge-Based Systems,3.72,114,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.51,114,No,No,SPRING,2015
+CS 6740,Network Security,3.43,114,No,No,SPRING,2015
+CS 6515,Software Development,3.38,114,No,No,FALL,2015
+CS 5330,Pattern Recognition and Computer Vision,3.65,114,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.51,115,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.26,115,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.57,115,No,No,FALL,2017
+CS 5006,Algorithms,3.57,115,No,No,FALL,2017
+CS 5007,Computer Systems,3.55,115,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.43,116,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.63,116,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.65,116,No,No,FALL,2017
+CS 5006,Algorithms,3.31,116,No,No,FALL,2017
+CS 5007,Computer Systems,3.47,116,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.57,117,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.5,117,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.44,117,No,No,SPRING,2015
+CS 5006,Algorithms,3.57,117,No,No,SPRING,2015
+CS 5007,Computer Systems,3.63,117,No,No,FALL,2015
+CS 7575,Seminar in Software Engineering,3.45,117,No,No,SPRING,2015
+CS 7280,Special Topics in Database Management,3.36,117,No,No,SPRING,2015
+CS 8674,Master’s Project,3.49,117,No,No,SPRING,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.38,117,No,No,FALL,2015
+CS 6810,Distributed Algorithms,3.4,117,No,No,FALL,2015
+CS 6410,Compilers,3.38,117,No,No,SPRING,2015
+CS 8982,Readings,3.54,117,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.41,118,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.6,118,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.82,118,No,No,SPRING,2017
+CS 5006,Algorithms,3.45,118,No,No,FALL,2017
+CS 5007,Computer Systems,3.51,118,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.39,119,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.58,119,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.44,119,No,No,SPRING,2016
+CS 5006,Algorithms,3.46,119,No,No,SPRING,2016
+CS 5007,Computer Systems,3.53,119,No,No,SPRING,2016
+CS 7775,Seminar in Computer Security,3.4,119,No,No,SPRING,2016
+CS 6750,Cryptography and Communications Security,3.6,119,No,No,FALL,2016
+CS 6220,Data Mining Techniques,3.56,119,No,No,FALL,2016
+CS 6350,Empirical Research Methods,3.73,119,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.46,120,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.43,120,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.79,120,No,No,FALL,2014
+CS 5006,Algorithms,3.65,120,No,No,FALL,2014
+CS 5007,Computer Systems,3.65,120,No,No,SPRING,2014
+CS 5335,Robotic Science and Systems,3.43,120,No,No,SPRING,2014
+CS 7140,Advanced Machine Learning,3.47,120,No,No,FALL,2014
+CS 8982,Readings,3.73,120,No,No,FALL,2014
+CS 7480,Special Topics in Programming Language,3.48,120,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.42,120,No,No,SPRING,2014
+CS 5650,High Performance Computing,3.25,120,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.38,121,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.54,121,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.51,121,No,No,SPRING,2017
+CS 5006,Algorithms,3.3,121,No,No,SPRING,2017
+CS 5007,Computer Systems,3.06,121,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.43,122,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.34,122,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.66,122,No,No,SPRING,2016
+CS 5006,Algorithms,3.71,122,No,No,FALL,2016
+CS 5007,Computer Systems,3.53,122,No,No,SPRING,2016
+CS 5850,Building Game Engines,3.58,122,No,No,FALL,2016
+CS 7805,Theory of Computation,3.58,122,No,No,FALL,2016
+CS 5310,Computer Graphics,3.35,122,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.44,123,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.51,123,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.41,123,No,No,FALL,2014
+CS 5006,Algorithms,3.43,123,No,No,SPRING,2014
+CS 5007,Computer Systems,3.55,123,No,No,SPRING,2014
+CS 8674,Master’s Project,3.55,123,No,No,SPRING,2014
+CS 7680,Special Topics in Computer Systems,3.86,123,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.2,123,No,No,SPRING,2014
+CS 8982,Readings,3.45,123,No,No,SPRING,2014
+CS 7780,Special Topics in Networks,3.56,123,No,No,FALL,2014
+CS 6510,Advanced Software Development,3.36,123,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.52,124,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.52,124,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.52,124,No,No,FALL,2016
+CS 5006,Algorithms,3.65,124,No,No,SPRING,2016
+CS 5007,Computer Systems,3.5,124,No,No,SPRING,2016
+CS 6610,Parallel Computing,3.73,124,No,No,FALL,2016
+CS 5600,Computer Systems,3.37,124,No,No,FALL,2016
+CS 6220,Data Mining Techniques,3.31,124,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.38,124,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.64,125,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.49,125,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.71,125,No,No,FALL,2016
+CS 5006,Algorithms,3.44,125,No,No,SPRING,2016
+CS 5007,Computer Systems,3.56,125,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.26,125,No,No,SPRING,2016
+CS 5100,Foundations of Artificial Intelligence,3.44,125,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.55,125,No,No,SPRING,2016
+CS 7775,Seminar in Computer Security,3.65,125,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.54,126,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.36,126,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.56,126,No,No,SPRING,2016
+CS 5006,Algorithms,3.39,126,No,No,FALL,2016
+CS 5007,Computer Systems,3.38,126,No,No,SPRING,2016
+CS 6120,Natural Language Processing,3.14,126,No,No,SPRING,2016
+CS 5100,Foundations of Artificial Intelligence,3.48,126,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.22,126,No,No,FALL,2016
+CS 5520,Mobile Application Development,3.67,126,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.58,127,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.67,127,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.33,127,No,No,FALL,2015
+CS 5006,Algorithms,3.59,127,No,No,SPRING,2015
+CS 5007,Computer Systems,3.71,127,No,No,SPRING,2015
+CS 7780,Special Topics in Networks,3.38,127,No,No,FALL,2015
+CS 6515,Software Development,3.68,127,No,No,FALL,2015
+CS 5310,Computer Graphics,3.33,127,No,No,FALL,2015
+CS 7470,Seminar in Programming Languages,3.57,127,No,No,FALL,2015
+CS 5335,Robotic Science and Systems,3.41,127,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.68,127,No,No,SPRING,2015
+CS 5600,Computer Systems,3.82,127,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.47,128,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.57,128,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.85,128,No,No,SPRING,2017
+CS 5006,Algorithms,3.58,128,No,No,SPRING,2017
+CS 5007,Computer Systems,3.46,128,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.55,129,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.3,129,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.5,129,No,No,FALL,2017
+CS 5006,Algorithms,3.46,129,No,No,SPRING,2017
+CS 5007,Computer Systems,3.42,129,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.76,130,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.62,130,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.55,130,No,No,SPRING,2017
+CS 5006,Algorithms,3.61,130,No,No,SPRING,2017
+CS 5007,Computer Systems,3.69,130,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.57,131,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.46,131,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.53,131,No,No,SPRING,2015
+CS 5006,Algorithms,3.48,131,No,No,FALL,2015
+CS 5007,Computer Systems,3.33,131,No,No,FALL,2015
+CS 6140,Machine Learning,3.55,131,No,No,FALL,2015
+CS 6510,Advanced Software Development,3.39,131,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.46,131,No,No,SPRING,2015
+CS 7480,Special Topics in Programming Language,3.28,131,No,No,SPRING,2015
+CS 7805,Theory of Computation,3.41,131,No,No,FALL,2015
+CS 6810,Distributed Algorithms,3.35,131,No,No,SPRING,2015
+CS 7880,Special Topics in Theories of Computer Science,3.41,131,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.45,132,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.3,132,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.5,132,No,No,SPRING,2015
+CS 5006,Algorithms,3.65,132,No,No,FALL,2015
+CS 5007,Computer Systems,3.36,132,No,No,FALL,2015
+CS 5650,High Performance Computing,3.66,132,No,No,FALL,2015
+CS 5700,Fundamentals of Computer Networking,3.39,132,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.39,132,No,No,FALL,2015
+CS 6412,Semantics of Programming Language,3.48,132,No,No,FALL,2015
+CS 5350,Applied Geometric Representation and Computation,3.58,132,No,No,FALL,2015
+CS 6140,Machine Learning,3.45,132,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.58,132,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.35,133,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.74,133,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.81,133,No,No,SPRING,2015
+CS 5006,Algorithms,3.2,133,No,No,SPRING,2015
+CS 5007,Computer Systems,3.53,133,No,No,SPRING,2015
+CS 6200,Information Retrieval,3.23,133,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.79,133,No,No,FALL,2015
+CS 5700,Fundamentals of Computer Networking,3.57,133,No,No,FALL,2015
+CS 7170,Seminar in Artificial Intelligence,3.36,133,No,No,FALL,2015
+CS 7370,Seminar in Graphics/Image Processing,3.53,133,No,No,FALL,2015
+CS 5350,Applied Geometric Representation and Computation,3.58,133,No,No,SPRING,2015
+CS 6750,Cryptography and Communications Security,3.56,133,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.48,134,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.29,134,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.66,134,No,No,FALL,2016
+CS 5006,Algorithms,3.79,134,No,No,SPRING,2016
+CS 5007,Computer Systems,3.62,134,No,No,SPRING,2016
+CS 5600,Computer Systems,3.54,134,No,No,FALL,2016
+CS 5350,Applied Geometric Representation and Computation,3.26,134,No,No,SPRING,2016
+CS 5750,Social Computing,3.64,134,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.49,134,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.56,135,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.49,135,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.43,135,No,No,FALL,2017
+CS 5006,Algorithms,3.48,135,No,No,SPRING,2017
+CS 5007,Computer Systems,3.22,135,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.46,136,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.52,136,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.77,136,No,No,SPRING,2015
+CS 5006,Algorithms,3.5,136,No,No,SPRING,2015
+CS 5007,Computer Systems,3.64,136,No,No,FALL,2015
+CS 6110,Knowledge-Based Systems,3.37,136,No,No,FALL,2015
+CS 6140,Machine Learning,3.27,136,No,No,SPRING,2015
+CS 5750,Social Computing,3.64,136,No,No,FALL,2015
+CS 5200,Database Management Systems,3.42,136,No,No,SPRING,2015
+CS 5610,Web Development,3.42,136,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.51,136,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.44,137,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.46,137,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.6,137,No,No,SPRING,2016
+CS 5006,Algorithms,3.38,137,No,No,FALL,2016
+CS 5007,Computer Systems,3.66,137,No,No,FALL,2016
+CS 5335,Robotic Science and Systems,3.59,137,No,No,FALL,2016
+CS 6140,Machine Learning,3.66,137,No,No,FALL,2016
+CS 7280,Special Topics in Database Management,3.42,137,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.37,138,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.58,138,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.52,138,No,No,SPRING,2014
+CS 5006,Algorithms,3.33,138,No,No,SPRING,2014
+CS 5007,Computer Systems,3.53,138,No,No,SPRING,2014
+CS 7480,Special Topics in Programming Language,3.46,138,No,No,FALL,2014
+CS 6540,Foundations of Formal Methods and Software Analysis,3.46,138,No,No,SPRING,2014
+CS 7580,Special Topics in Software Engineering,3.63,138,No,No,SPRING,2014
+CS 5770,Software Vulnerabilities and Security,3.56,138,No,No,SPRING,2014
+CS 7990,Thesis,3.58,138,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.63,138,No,No,SPRING,2014
+CS 6750,Cryptography and Communications Security,3.39,138,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.47,139,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.51,139,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.7,139,No,No,SPRING,2016
+CS 5006,Algorithms,3.7,139,No,No,SPRING,2016
+CS 5007,Computer Systems,3.54,139,No,No,FALL,2016
+CS 5500,Managing Software Development,3.67,139,No,No,FALL,2016
+CS 7270,Seminar in Database Systems,3.57,139,No,No,SPRING,2016
+CS 8674,Master’s Project,3.66,139,No,No,SPRING,2016
+CS 5320,Digital Image Processing,3.34,139,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.6,140,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.46,140,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.32,140,No,No,FALL,2017
+CS 5006,Algorithms,3.71,140,No,No,FALL,2017
+CS 5007,Computer Systems,3.44,140,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.58,141,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.9,141,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.43,141,No,No,FALL,2014
+CS 5006,Algorithms,3.46,141,No,No,SPRING,2014
+CS 5007,Computer Systems,3.5,141,No,No,SPRING,2014
+CS 7880,Special Topics in Theories of Computer Science,3.72,141,No,No,SPRING,2014
+CS 5610,Web Development,3.45,141,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.43,141,No,No,FALL,2014
+CS 7670,Seminar in Computer Systems,3.32,141,No,No,SPRING,2014
+CS 6740,Network Security,3.37,141,No,No,FALL,2014
+CS 7575,Seminar in Software Engineering,3.33,141,No,No,FALL,2014
+CS 6750,Cryptography and Communications Security,3.66,141,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.39,142,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.56,142,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.56,142,No,No,SPRING,2016
+CS 5006,Algorithms,3.38,142,No,No,SPRING,2016
+CS 5007,Computer Systems,3.7,142,No,No,FALL,2016
+CS 6310,Computational Imaging,3.64,142,No,No,FALL,2016
+CS 5200,Database Management Systems,3.54,142,No,No,SPRING,2016
+CS 7270,Seminar in Database Systems,3.37,142,No,No,SPRING,2016
+CS 7680,Special Topics in Computer Systems,3.46,142,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.44,143,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.53,143,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.52,143,No,No,SPRING,2017
+CS 5006,Algorithms,3.27,143,No,No,SPRING,2017
+CS 5007,Computer Systems,3.67,143,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.54,144,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.45,144,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.43,144,No,No,SPRING,2017
+CS 5006,Algorithms,3.39,144,No,No,SPRING,2017
+CS 5007,Computer Systems,3.64,144,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.63,145,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.41,145,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.52,145,No,No,SPRING,2016
+CS 5006,Algorithms,3.49,145,No,No,SPRING,2016
+CS 5007,Computer Systems,3.48,145,No,No,FALL,2016
+CS 6810,Distributed Algorithms,3.56,145,No,No,SPRING,2016
+CS 5320,Digital Image Processing,3.73,145,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.43,145,No,No,SPRING,2016
+CS 8674,Master’s Project,3.39,145,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.3,146,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.49,146,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.36,146,No,No,SPRING,2016
+CS 5006,Algorithms,3.34,146,No,No,FALL,2016
+CS 5007,Computer Systems,3.65,146,No,No,FALL,2016
+CS 6110,Knowledge-Based Systems,3.53,146,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.6,146,No,No,SPRING,2016
+CS 7670,Seminar in Computer Systems,3.6,146,No,No,FALL,2016
+CS 5700,Fundamentals of Computer Networking,3.39,146,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.46,147,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.16,147,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.25,147,No,No,SPRING,2017
+CS 5006,Algorithms,3.34,147,No,No,FALL,2017
+CS 5007,Computer Systems,3.62,147,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.59,148,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.63,148,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.65,148,No,No,FALL,2016
+CS 5006,Algorithms,3.47,148,No,No,SPRING,2016
+CS 5007,Computer Systems,3.47,148,No,No,FALL,2016
+CS 5750,Social Computing,3.51,148,No,No,FALL,2016
+CS 7870,Seminar in Theoretical Computer Science,3.5,148,No,No,FALL,2016
+CS 6310,Computational Imaging,3.6,148,No,No,FALL,2016
+CS 6350,Empirical Research Methods,3.51,148,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.34,149,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.61,149,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.63,149,No,No,SPRING,2016
+CS 5006,Algorithms,3.48,149,No,No,FALL,2016
+CS 5007,Computer Systems,3.72,149,No,No,SPRING,2016
+CS 6520,Methods of Software Development,3.15,149,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.17,149,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.37,150,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.67,150,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.55,150,No,No,SPRING,2017
+CS 5006,Algorithms,3.58,150,No,No,SPRING,2017
+CS 5007,Computer Systems,3.41,150,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.43,151,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.51,151,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.5,151,No,No,FALL,2016
+CS 5006,Algorithms,3.52,151,No,No,SPRING,2016
+CS 5007,Computer Systems,3.65,151,No,No,FALL,2016
+CS 5610,Web Development,3.49,151,No,No,FALL,2016
+CS 7570,Seminar in Software Development,3.42,151,No,No,SPRING,2016
+CS 8982,Readings,3.37,151,No,No,FALL,2016
+CS 6200,Information Retrieval,3.28,151,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.41,152,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.44,152,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.4,152,No,No,SPRING,2014
+CS 5006,Algorithms,3.31,152,No,No,SPRING,2014
+CS 5007,Computer Systems,3.66,152,No,No,SPRING,2014
+CS 5100,Foundations of Artificial Intelligence,3.35,152,No,No,SPRING,2014
+CS 6140,Machine Learning,3.57,152,No,No,SPRING,2014
+CS 6810,Distributed Algorithms,3.59,152,No,No,SPRING,2014
+CS 5600,Computer Systems,3.46,152,No,No,SPRING,2014
+CS 7680,Special Topics in Computer Systems,3.49,152,No,No,SPRING,2014
+CS 5850,Building Game Engines,3.52,152,No,No,SPRING,2014
+CS 7370,Seminar in Graphics/Image Processing,3.57,152,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.6,153,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.53,153,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.53,153,No,No,FALL,2017
+CS 5006,Algorithms,3.61,153,No,No,SPRING,2017
+CS 5007,Computer Systems,3.27,153,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.58,154,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.31,154,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.4,154,No,No,SPRING,2015
+CS 5006,Algorithms,3.62,154,No,No,FALL,2015
+CS 5007,Computer Systems,3.43,154,No,No,FALL,2015
+CS 5750,Social Computing,3.42,154,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.59,154,No,No,SPRING,2015
+CS 8674,Master’s Project,3.63,154,No,No,SPRING,2015
+CS 7140,Advanced Machine Learning,3.48,154,No,No,FALL,2015
+CS 6310,Computational Imaging,3.45,154,No,No,FALL,2015
+CS 7805,Theory of Computation,3.51,154,No,No,FALL,2015
+CS 6530,Analysis of Software Artifacts,3.43,154,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.53,155,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.59,155,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.68,155,No,No,SPRING,2016
+CS 5006,Algorithms,3.36,155,No,No,SPRING,2016
+CS 5007,Computer Systems,3.46,155,No,No,FALL,2016
+CS 7470,Seminar in Programming Languages,3.5,155,No,No,FALL,2016
+CS 5750,Social Computing,3.37,155,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.29,155,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.59,155,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.52,156,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.34,156,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.48,156,No,No,FALL,2015
+CS 5006,Algorithms,3.58,156,No,No,FALL,2015
+CS 5007,Computer Systems,3.52,156,No,No,SPRING,2015
+CS 6540,Foundations of Formal Methods and Software Analysis,3.52,156,No,No,FALL,2015
+CS 6810,Distributed Algorithms,3.47,156,No,No,SPRING,2015
+CS 5700,Fundamentals of Computer Networking,3.53,156,No,No,SPRING,2015
+CS 6515,Software Development,3.65,156,No,No,FALL,2015
+CS 5500,Managing Software Development,3.17,156,No,No,SPRING,2015
+CS 5320,Digital Image Processing,3.31,156,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.54,157,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.21,157,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.56,157,No,No,SPRING,2016
+CS 5006,Algorithms,3.62,157,No,No,SPRING,2016
+CS 5007,Computer Systems,3.42,157,No,No,FALL,2016
+CS 7770,Seminar in Computer Networks,3.58,157,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.36,157,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.46,157,No,No,SPRING,2016
+CS 7670,Seminar in Computer Systems,3.53,157,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.5,158,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.09,158,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.58,158,No,No,SPRING,2017
+CS 5006,Algorithms,3.38,158,No,No,FALL,2017
+CS 5007,Computer Systems,3.63,158,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.51,159,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.83,159,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.62,159,No,No,SPRING,2014
+CS 5006,Algorithms,3.61,159,No,No,FALL,2014
+CS 5007,Computer Systems,3.51,159,No,No,FALL,2014
+CS 6650,Building Scalable Distributed Systems,3.49,159,No,No,SPRING,2014
+CS 5335,Robotic Science and Systems,3.43,159,No,No,SPRING,2014
+CS 6240,Large-Scale Parallel Data Processing,3.48,159,No,No,FALL,2014
+CS 6515,Software Development,3.47,159,No,No,SPRING,2014
+CS 5600,Computer Systems,3.28,159,No,No,FALL,2014
+CS 6750,Cryptography and Communications Security,3.35,159,No,No,SPRING,2014
+CS 7470,Seminar in Programming Languages,3.52,159,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.45,160,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.32,160,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.37,160,No,No,FALL,2016
+CS 5006,Algorithms,3.48,160,No,No,FALL,2016
+CS 5007,Computer Systems,3.65,160,No,No,FALL,2016
+CS 6140,Machine Learning,3.23,160,No,No,SPRING,2016
+CS 5010,Programming Design Paradigm,3.7,160,No,No,FALL,2016
+CS 5770,Software Vulnerabilities and Security,3.54,160,No,No,SPRING,2016
+CS 5800,Algorithms,3.32,160,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.86,161,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.6,161,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.73,161,No,No,FALL,2015
+CS 5006,Algorithms,3.63,161,No,No,FALL,2015
+CS 5007,Computer Systems,3.34,161,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.47,161,No,No,FALL,2015
+CS 5310,Computer Graphics,3.54,161,No,No,SPRING,2015
+CS 7570,Seminar in Software Development,3.27,161,No,No,FALL,2015
+CS 6810,Distributed Algorithms,3.29,161,No,No,SPRING,2015
+CS 8982,Readings,3.47,161,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.76,161,No,No,FALL,2015
+CS 5400,Principles of Programming Language,3.65,161,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.41,162,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.72,162,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.12,162,No,No,SPRING,2017
+CS 5006,Algorithms,3.41,162,No,No,FALL,2017
+CS 5007,Computer Systems,3.57,162,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.6,163,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.67,163,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.33,163,No,No,SPRING,2017
+CS 5006,Algorithms,3.5,163,No,No,SPRING,2017
+CS 5007,Computer Systems,3.51,163,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.16,164,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.46,164,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.62,164,No,No,FALL,2017
+CS 5006,Algorithms,3.65,164,No,No,FALL,2017
+CS 5007,Computer Systems,3.4,164,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.5,165,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.57,165,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.49,165,No,No,FALL,2016
+CS 5006,Algorithms,3.6,165,No,No,SPRING,2016
+CS 5007,Computer Systems,3.26,165,No,No,SPRING,2016
+CS 6520,Methods of Software Development,3.29,165,No,No,SPRING,2016
+CS 8674,Master’s Project,3.72,165,No,No,SPRING,2016
+CS 6310,Computational Imaging,3.63,165,No,No,FALL,2016
+CS 5100,Foundations of Artificial Intelligence,3.11,165,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.44,166,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.48,166,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.5,166,No,No,FALL,2014
+CS 5006,Algorithms,3.31,166,No,No,FALL,2014
+CS 5007,Computer Systems,3.4,166,No,No,SPRING,2014
+CS 7380,Special Topics in Graphics/Image Processing,3.57,166,No,No,FALL,2014
+CS 6530,Analysis of Software Artifacts,3.64,166,No,No,SPRING,2014
+CS 5350,Applied Geometric Representation and Computation,3.68,166,No,No,SPRING,2014
+CS 7670,Seminar in Computer Systems,3.76,166,No,No,SPRING,2014
+CS 5500,Managing Software Development,3.33,166,No,No,FALL,2014
+CS 5750,Social Computing,3.51,166,No,No,SPRING,2014
+CS 5400,Principles of Programming Language,3.37,166,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.41,167,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.35,167,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.59,167,No,No,FALL,2016
+CS 5006,Algorithms,3.53,167,No,No,SPRING,2016
+CS 5007,Computer Systems,3.35,167,No,No,FALL,2016
+CS 6760,"Privacy, Security, and Usability",3.64,167,No,No,SPRING,2016
+CS 6412,Semantics of Programming Language,3.59,167,No,No,SPRING,2016
+CS 7670,Seminar in Computer Systems,3.82,167,No,No,SPRING,2016
+CS 5700,Fundamentals of Computer Networking,3.54,167,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.66,168,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.38,168,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.87,168,No,No,SPRING,2017
+CS 5006,Algorithms,3.55,168,No,No,FALL,2017
+CS 5007,Computer Systems,3.53,168,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.45,169,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.66,169,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.54,169,No,No,FALL,2017
+CS 5006,Algorithms,3.39,169,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,169,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.58,170,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,170,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.57,170,No,No,FALL,2017
+CS 5006,Algorithms,3.51,170,No,No,FALL,2017
+CS 5007,Computer Systems,3.64,170,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.17,171,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.78,171,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.45,171,No,No,SPRING,2014
+CS 5006,Algorithms,3.31,171,No,No,FALL,2014
+CS 5007,Computer Systems,3.54,171,No,No,SPRING,2014
+CS 6650,Building Scalable Distributed Systems,3.42,171,No,No,SPRING,2014
+CS 6535,Engineering Reliable Software,3.73,171,No,No,SPRING,2014
+CS 5800,Algorithms,3.66,171,No,No,SPRING,2014
+CS 7140,Advanced Machine Learning,3.69,171,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.6,171,No,No,FALL,2014
+CS 7580,Special Topics in Software Engineering,3.72,171,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.59,172,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.47,172,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.68,172,No,No,SPRING,2015
+CS 5006,Algorithms,3.32,172,No,No,FALL,2015
+CS 5007,Computer Systems,3.66,172,No,No,SPRING,2015
+CS 6240,Large-Scale Parallel Data Processing,3.3,172,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.71,172,No,No,SPRING,2015
+CS 7805,Theory of Computation,3.68,172,No,No,FALL,2015
+CS 7270,Seminar in Database Systems,3.61,172,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.6,172,No,No,SPRING,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.43,172,No,No,SPRING,2015
+CS 5340,Computer/Human Interaction,3.24,172,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.67,173,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.4,173,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.45,173,No,No,FALL,2016
+CS 5006,Algorithms,3.22,173,No,No,SPRING,2016
+CS 5007,Computer Systems,3.42,173,No,No,FALL,2016
+CS 6200,Information Retrieval,3.74,173,No,No,FALL,2016
+CS 5770,Software Vulnerabilities and Security,3.72,173,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.53,173,No,No,SPRING,2016
+CS 5310,Computer Graphics,3.49,173,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.35,174,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.64,174,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.6,174,No,No,SPRING,2015
+CS 5006,Algorithms,3.29,174,No,No,SPRING,2015
+CS 5007,Computer Systems,3.18,174,No,No,FALL,2015
+CS 7880,Special Topics in Theories of Computer Science,3.49,174,No,No,SPRING,2015
+CS 7280,Special Topics in Database Management,3.63,174,No,No,FALL,2015
+CS 7990,Thesis,3.72,174,No,No,FALL,2015
+CS 5800,Algorithms,3.76,174,No,No,SPRING,2015
+CS 6610,Parallel Computing,3.29,174,No,No,FALL,2015
+CS 7170,Seminar in Artificial Intelligence,3.65,174,No,No,SPRING,2015
+CS 5320,Digital Image Processing,3.42,174,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.74,175,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.64,175,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.36,175,No,No,SPRING,2017
+CS 5006,Algorithms,3.4,175,No,No,FALL,2017
+CS 5007,Computer Systems,3.49,175,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.46,176,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.55,176,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.45,176,No,No,FALL,2016
+CS 5006,Algorithms,3.25,176,No,No,SPRING,2016
+CS 5007,Computer Systems,3.59,176,No,No,FALL,2016
+CS 7470,Seminar in Programming Languages,3.53,176,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.35,176,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.43,176,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.41,176,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.26,177,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.65,177,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.39,177,No,No,FALL,2015
+CS 5006,Algorithms,3.55,177,No,No,SPRING,2015
+CS 5007,Computer Systems,3.6,177,No,No,FALL,2015
+CS 7270,Seminar in Database Systems,3.59,177,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.44,177,No,No,SPRING,2015
+CS 6140,Machine Learning,3.24,177,No,No,FALL,2015
+CS 5340,Computer/Human Interaction,3.37,177,No,No,SPRING,2015
+CS 7575,Seminar in Software Engineering,3.22,177,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.5,177,No,No,FALL,2015
+CS 6800,Application of Information Theory,3.35,177,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.4,178,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.64,178,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.4,178,No,No,SPRING,2016
+CS 5006,Algorithms,3.32,178,No,No,FALL,2016
+CS 5007,Computer Systems,3.67,178,No,No,FALL,2016
+CS 7380,Special Topics in Graphics/Image Processing,3.37,178,No,No,SPRING,2016
+CS 6350,Empirical Research Methods,3.32,178,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.24,178,No,No,FALL,2016
+CS 5600,Computer Systems,3.35,178,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.34,179,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.41,179,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.44,179,No,No,FALL,2016
+CS 5006,Algorithms,3.37,179,No,No,SPRING,2016
+CS 5007,Computer Systems,3.46,179,No,No,SPRING,2016
+CS 6540,Foundations of Formal Methods and Software Analysis,3.78,179,No,No,SPRING,2016
+CS 7380,Special Topics in Graphics/Image Processing,3.54,179,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.52,179,No,No,FALL,2016
+CS 5800,Algorithms,3.5,179,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.05,180,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.39,180,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.31,180,No,No,SPRING,2017
+CS 5006,Algorithms,3.45,180,No,No,SPRING,2017
+CS 5007,Computer Systems,3.68,180,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.46,181,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.35,181,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.46,181,No,No,SPRING,2016
+CS 5006,Algorithms,3.45,181,No,No,FALL,2016
+CS 5007,Computer Systems,3.41,181,No,No,FALL,2016
+CS 5620,Computer Architecture,3.45,181,No,No,FALL,2016
+CS 6120,Natural Language Processing,3.45,181,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.52,181,No,No,SPRING,2016
+CS 8674,Master’s Project,3.68,181,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.55,182,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.53,182,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.64,182,No,No,FALL,2015
+CS 5006,Algorithms,3.48,182,No,No,SPRING,2015
+CS 5007,Computer Systems,3.39,182,No,No,SPRING,2015
+CS 8982,Readings,3.43,182,No,No,FALL,2015
+CS 5610,Web Development,3.45,182,No,No,FALL,2015
+CS 5335,Robotic Science and Systems,3.6,182,No,No,SPRING,2015
+CS 7880,Special Topics in Theories of Computer Science,3.55,182,No,No,FALL,2015
+CS 6220,Data Mining Techniques,3.58,182,No,No,SPRING,2015
+CS 7990,Thesis,3.55,182,No,No,FALL,2015
+CS 7470,Seminar in Programming Languages,3.42,182,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.55,183,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.52,183,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.64,183,No,No,FALL,2017
+CS 5006,Algorithms,3.58,183,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,183,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.37,184,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.23,184,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.5,184,No,No,FALL,2016
+CS 5006,Algorithms,3.41,184,No,No,SPRING,2016
+CS 5007,Computer Systems,3.65,184,No,No,FALL,2016
+CS 5500,Managing Software Development,3.33,184,No,No,FALL,2016
+CS 6740,Network Security,3.39,184,No,No,SPRING,2016
+CS 6310,Computational Imaging,3.57,184,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.41,185,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.57,185,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.49,185,No,No,SPRING,2016
+CS 5006,Algorithms,3.34,185,No,No,FALL,2016
+CS 5007,Computer Systems,3.25,185,No,No,FALL,2016
+CS 6140,Machine Learning,3.34,185,No,No,SPRING,2016
+CS 5800,Algorithms,3.46,185,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.45,185,No,No,FALL,2016
+CS 6650,Building Scalable Distributed Systems,3.56,185,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.4,186,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.54,186,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.63,186,No,No,SPRING,2017
+CS 5006,Algorithms,3.31,186,No,No,FALL,2017
+CS 5007,Computer Systems,3.5,186,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.59,187,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.77,187,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.66,187,No,No,SPRING,2016
+CS 5006,Algorithms,3.4,187,No,No,FALL,2016
+CS 5007,Computer Systems,3.63,187,No,No,FALL,2016
+CS 7780,Special Topics in Networks,3.58,187,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.55,187,No,No,SPRING,2016
+CS 6710,Wireless Network,3.32,187,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.41,188,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.51,188,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.45,188,No,No,SPRING,2017
+CS 5006,Algorithms,3.07,188,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,188,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.44,189,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.54,189,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.44,189,No,No,FALL,2016
+CS 5006,Algorithms,3.58,189,No,No,SPRING,2016
+CS 5007,Computer Systems,3.57,189,No,No,FALL,2016
+CS 5200,Database Management Systems,3.92,189,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.59,189,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.69,189,No,No,SPRING,2016
+CS 6200,Information Retrieval,3.69,189,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.44,190,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.44,190,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.74,190,No,No,FALL,2015
+CS 5006,Algorithms,3.42,190,No,No,FALL,2015
+CS 5007,Computer Systems,3.36,190,No,No,FALL,2015
+CS 6310,Computational Imaging,3.33,190,No,No,FALL,2015
+CS 7270,Seminar in Database Systems,3.6,190,No,No,SPRING,2015
+CS 7805,Theory of Computation,3.44,190,No,No,SPRING,2015
+CS 7870,Seminar in Theoretical Computer Science,3.49,190,No,No,FALL,2015
+CS 5310,Computer Graphics,3.72,190,No,No,FALL,2015
+CS 7170,Seminar in Artificial Intelligence,3.69,190,No,No,SPRING,2015
+CS 6515,Software Development,3.46,190,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.6,191,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,191,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.42,191,No,No,SPRING,2017
+CS 5006,Algorithms,3.54,191,No,No,SPRING,2017
+CS 5007,Computer Systems,3.58,191,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.7,192,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.64,192,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.67,192,No,No,FALL,2017
+CS 5006,Algorithms,3.37,192,No,No,FALL,2017
+CS 5007,Computer Systems,3.13,192,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.53,193,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.26,193,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.34,193,No,No,FALL,2017
+CS 5006,Algorithms,3.5,193,No,No,SPRING,2017
+CS 5007,Computer Systems,3.45,193,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.52,194,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.58,194,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.53,194,No,No,FALL,2016
+CS 5006,Algorithms,3.46,194,No,No,FALL,2016
+CS 5007,Computer Systems,3.26,194,No,No,FALL,2016
+CS 5650,High Performance Computing,3.77,194,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.47,194,No,No,SPRING,2016
+CS 6520,Methods of Software Development,3.51,194,No,No,FALL,2016
+CS 6530,Analysis of Software Artifacts,3.6,194,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.46,195,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.73,195,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.52,195,No,No,FALL,2017
+CS 5006,Algorithms,3.17,195,No,No,FALL,2017
+CS 5007,Computer Systems,3.4,195,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.55,196,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.49,196,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.74,196,No,No,SPRING,2016
+CS 5006,Algorithms,3.3,196,No,No,SPRING,2016
+CS 5007,Computer Systems,3.27,196,No,No,SPRING,2016
+CS 6650,Building Scalable Distributed Systems,3.34,196,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.38,196,No,No,FALL,2016
+CS 6520,Methods of Software Development,3.24,196,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.53,196,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.38,197,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.72,197,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.63,197,No,No,SPRING,2015
+CS 5006,Algorithms,3.34,197,No,No,SPRING,2015
+CS 5007,Computer Systems,3.19,197,No,No,FALL,2015
+CS 8982,Readings,3.29,197,No,No,FALL,2015
+CS 8674,Master’s Project,3.45,197,No,No,SPRING,2015
+CS 5750,Social Computing,3.56,197,No,No,SPRING,2015
+CS 5400,Principles of Programming Language,3.57,197,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.5,197,No,No,FALL,2015
+CS 5700,Fundamentals of Computer Networking,3.37,197,No,No,FALL,2015
+CS 5600,Computer Systems,3.38,197,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.58,198,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.6,198,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.43,198,No,No,SPRING,2014
+CS 5006,Algorithms,3.49,198,No,No,SPRING,2014
+CS 5007,Computer Systems,3.32,198,No,No,SPRING,2014
+CS 6540,Foundations of Formal Methods and Software Analysis,3.65,198,No,No,FALL,2014
+CS 6610,Parallel Computing,3.36,198,No,No,SPRING,2014
+CS 6220,Data Mining Techniques,3.43,198,No,No,FALL,2014
+CS 5335,Robotic Science and Systems,3.63,198,No,No,SPRING,2014
+CS 6710,Wireless Network,3.43,198,No,No,FALL,2014
+CS 6310,Computational Imaging,3.73,198,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.49,198,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.31,199,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.86,199,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.41,199,No,No,SPRING,2015
+CS 5006,Algorithms,3.56,199,No,No,SPRING,2015
+CS 5007,Computer Systems,3.7,199,No,No,FALL,2015
+CS 7805,Theory of Computation,3.56,199,No,No,SPRING,2015
+CS 7570,Seminar in Software Development,3.68,199,No,No,SPRING,2015
+CS 7370,Seminar in Graphics/Image Processing,3.32,199,No,No,FALL,2015
+CS 7470,Seminar in Programming Languages,3.54,199,No,No,FALL,2015
+CS 5750,Social Computing,3.61,199,No,No,FALL,2015
+CS 7780,Special Topics in Networks,3.64,199,No,No,FALL,2015
+CS 6610,Parallel Computing,3.51,199,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.49,200,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.38,200,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.63,200,No,No,SPRING,2016
+CS 5006,Algorithms,3.3,200,No,No,SPRING,2016
+CS 5007,Computer Systems,3.56,200,No,No,SPRING,2016
+CS 6810,Distributed Algorithms,3.65,200,No,No,SPRING,2016
+CS 6740,Network Security,3.43,200,No,No,SPRING,2016
+CS 6200,Information Retrieval,3.4,200,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.76,200,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.32,201,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.39,201,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.49,201,No,No,SPRING,2017
+CS 5006,Algorithms,3.35,201,No,No,FALL,2017
+CS 5007,Computer Systems,3.35,201,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.49,202,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.88,202,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.6,202,No,No,FALL,2017
+CS 5006,Algorithms,3.38,202,No,No,FALL,2017
+CS 5007,Computer Systems,3.59,202,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.43,203,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.68,203,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.57,203,No,No,FALL,2016
+CS 5006,Algorithms,3.83,203,No,No,FALL,2016
+CS 5007,Computer Systems,3.64,203,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.32,203,No,No,SPRING,2016
+CS 7805,Theory of Computation,3.41,203,No,No,FALL,2016
+CS 7990,Thesis,3.49,203,No,No,SPRING,2016
+CS 5610,Web Development,3.51,203,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.63,204,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.29,204,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.54,204,No,No,SPRING,2014
+CS 5006,Algorithms,3.74,204,No,No,SPRING,2014
+CS 5007,Computer Systems,3.38,204,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.46,204,No,No,SPRING,2014
+CS 5500,Managing Software Development,3.81,204,No,No,SPRING,2014
+CS 5200,Database Management Systems,3.45,204,No,No,SPRING,2014
+CS 7470,Seminar in Programming Languages,3.64,204,No,No,FALL,2014
+CS 7180,Special Topics in Artificial Intelligence,3.77,204,No,No,FALL,2014
+CS 8674,Master’s Project,3.43,204,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.54,205,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.55,205,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.52,205,No,No,FALL,2017
+CS 5006,Algorithms,3.38,205,No,No,SPRING,2017
+CS 5007,Computer Systems,3.59,205,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.14,206,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.72,206,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.49,206,No,No,SPRING,2015
+CS 5006,Algorithms,3.41,206,No,No,SPRING,2015
+CS 5007,Computer Systems,3.32,206,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.5,206,No,No,SPRING,2015
+CS 6650,Building Scalable Distributed Systems,3.48,206,No,No,SPRING,2015
+CS 5770,Software Vulnerabilities and Security,3.5,206,No,No,SPRING,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.68,206,No,No,SPRING,2015
+CS 5500,Managing Software Development,3.47,206,No,No,FALL,2015
+CS 6140,Machine Learning,3.36,206,No,No,FALL,2015
+CS 7370,Seminar in Graphics/Image Processing,3.68,206,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.47,207,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.36,207,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.54,207,No,No,FALL,2017
+CS 5006,Algorithms,3.82,207,No,No,SPRING,2017
+CS 5007,Computer Systems,3.59,207,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.54,208,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.47,208,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.45,208,No,No,SPRING,2014
+CS 5006,Algorithms,3.48,208,No,No,FALL,2014
+CS 5007,Computer Systems,3.41,208,No,No,SPRING,2014
+CS 6520,Methods of Software Development,3.42,208,No,No,SPRING,2014
+CS 5100,Foundations of Artificial Intelligence,3.63,208,No,No,FALL,2014
+CS 5750,Social Computing,3.41,208,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.27,208,No,No,SPRING,2014
+CS 7870,Seminar in Theoretical Computer Science,3.59,208,No,No,FALL,2014
+CS 6750,Cryptography and Communications Security,3.57,208,No,No,FALL,2014
+CS 7670,Seminar in Computer Systems,3.49,208,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.62,209,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.31,209,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.74,209,No,No,FALL,2016
+CS 5006,Algorithms,3.25,209,No,No,SPRING,2016
+CS 5007,Computer Systems,3.44,209,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.64,209,No,No,FALL,2016
+CS 5350,Applied Geometric Representation and Computation,3.51,209,No,No,FALL,2016
+CS 7180,Special Topics in Artificial Intelligence,3.61,209,No,No,SPRING,2016
+CS 6120,Natural Language Processing,3.59,209,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.67,210,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.27,210,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.53,210,No,No,FALL,2014
+CS 5006,Algorithms,3.78,210,No,No,FALL,2014
+CS 5007,Computer Systems,3.56,210,No,No,FALL,2014
+CS 7575,Seminar in Software Engineering,3.5,210,No,No,SPRING,2014
+CS 6200,Information Retrieval,3.45,210,No,No,FALL,2014
+CS 5350,Applied Geometric Representation and Computation,3.23,210,No,No,FALL,2014
+CS 5700,Fundamentals of Computer Networking,3.55,210,No,No,FALL,2014
+CS 5520,Mobile Application Development,3.71,210,No,No,FALL,2014
+CS 7140,Advanced Machine Learning,3.5,210,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.54,211,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.28,211,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.67,211,No,No,SPRING,2017
+CS 5006,Algorithms,3.7,211,No,No,SPRING,2017
+CS 5007,Computer Systems,3.52,211,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.57,212,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.46,212,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.37,212,No,No,SPRING,2015
+CS 5006,Algorithms,3.4,212,No,No,SPRING,2015
+CS 5007,Computer Systems,3.39,212,No,No,FALL,2015
+CS 6535,Engineering Reliable Software,3.23,212,No,No,FALL,2015
+CS 7140,Advanced Machine Learning,3.44,212,No,No,FALL,2015
+CS 5650,High Performance Computing,3.64,212,No,No,SPRING,2015
+CS 5200,Database Management Systems,3.48,212,No,No,FALL,2015
+CS 7575,Seminar in Software Engineering,3.59,212,No,No,FALL,2015
+CS 6650,Building Scalable Distributed Systems,3.57,212,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.51,213,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.58,213,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.29,213,No,No,SPRING,2017
+CS 5006,Algorithms,3.44,213,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,213,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.23,214,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.45,214,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.63,214,No,No,FALL,2017
+CS 5006,Algorithms,3.5,214,No,No,SPRING,2017
+CS 5007,Computer Systems,3.38,214,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.5,215,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.64,215,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.67,215,No,No,SPRING,2017
+CS 5006,Algorithms,3.75,215,No,No,FALL,2017
+CS 5007,Computer Systems,3.63,215,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.26,216,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.47,216,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.68,216,No,No,SPRING,2016
+CS 5006,Algorithms,3.64,216,No,No,SPRING,2016
+CS 5007,Computer Systems,3.35,216,No,No,FALL,2016
+CS 6760,"Privacy, Security, and Usability",3.53,216,No,No,SPRING,2016
+CS 6540,Foundations of Formal Methods and Software Analysis,3.53,216,No,No,SPRING,2016
+CS 5310,Computer Graphics,3.22,216,No,No,SPRING,2016
+CS 7880,Special Topics in Theories of Computer Science,3.17,216,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.66,217,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.46,217,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.79,217,No,No,FALL,2017
+CS 5006,Algorithms,3.57,217,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,217,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.58,218,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.38,218,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.58,218,No,No,SPRING,2017
+CS 5006,Algorithms,3.48,218,No,No,FALL,2017
+CS 5007,Computer Systems,3.47,218,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.72,219,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.38,219,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.64,219,No,No,SPRING,2016
+CS 5006,Algorithms,3.42,219,No,No,SPRING,2016
+CS 5007,Computer Systems,3.12,219,No,No,FALL,2016
+CS 7280,Special Topics in Database Management,3.7,219,No,No,FALL,2016
+CS 6110,Knowledge-Based Systems,3.53,219,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.51,219,No,No,SPRING,2016
+CS 5100,Foundations of Artificial Intelligence,3.45,219,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.29,220,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.56,220,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.65,220,No,No,FALL,2017
+CS 5006,Algorithms,3.51,220,No,No,SPRING,2017
+CS 5007,Computer Systems,3.5,220,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.52,221,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.08,221,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.57,221,No,No,SPRING,2016
+CS 5006,Algorithms,3.23,221,No,No,FALL,2016
+CS 5007,Computer Systems,3.45,221,No,No,SPRING,2016
+CS 6710,Wireless Network,3.65,221,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.34,221,No,No,SPRING,2016
+CS 6530,Analysis of Software Artifacts,3.52,221,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.46,221,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.39,222,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.61,222,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.8,222,No,No,FALL,2017
+CS 5006,Algorithms,3.62,222,No,No,FALL,2017
+CS 5007,Computer Systems,3.51,222,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.46,223,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.64,223,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.43,223,No,No,SPRING,2015
+CS 5006,Algorithms,3.52,223,No,No,SPRING,2015
+CS 5007,Computer Systems,3.23,223,No,No,SPRING,2015
+CS 7770,Seminar in Computer Networks,3.62,223,No,No,SPRING,2015
+CS 7570,Seminar in Software Development,3.58,223,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.27,223,No,No,SPRING,2015
+CS 6140,Machine Learning,3.45,223,No,No,FALL,2015
+CS 6220,Data Mining Techniques,3.63,223,No,No,FALL,2015
+CS 7280,Special Topics in Database Management,3.43,223,No,No,SPRING,2015
+CS 7670,Seminar in Computer Systems,3.38,223,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.39,224,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.38,224,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.69,224,No,No,SPRING,2017
+CS 5006,Algorithms,3.44,224,No,No,FALL,2017
+CS 5007,Computer Systems,3.57,224,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.47,225,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.34,225,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.62,225,No,No,FALL,2017
+CS 5006,Algorithms,3.55,225,No,No,SPRING,2017
+CS 5007,Computer Systems,3.39,225,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.37,226,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.43,226,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.37,226,No,No,FALL,2015
+CS 5006,Algorithms,3.65,226,No,No,SPRING,2015
+CS 5007,Computer Systems,3.34,226,No,No,FALL,2015
+CS 6710,Wireless Network,3.77,226,No,No,SPRING,2015
+CS 5800,Algorithms,3.3,226,No,No,FALL,2015
+CS 6412,Semantics of Programming Language,3.49,226,No,No,SPRING,2015
+CS 5750,Social Computing,3.59,226,No,No,FALL,2015
+CS 7270,Seminar in Database Systems,3.4,226,No,No,FALL,2015
+CS 6515,Software Development,3.22,226,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.67,227,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.53,227,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.54,227,No,No,FALL,2015
+CS 5006,Algorithms,3.45,227,No,No,FALL,2015
+CS 5007,Computer Systems,3.26,227,No,No,SPRING,2015
+CS 6140,Machine Learning,3.5,227,No,No,SPRING,2015
+CS 5320,Digital Image Processing,3.45,227,No,No,FALL,2015
+CS 6510,Advanced Software Development,3.47,227,No,No,SPRING,2015
+CS 7270,Seminar in Database Systems,3.56,227,No,No,FALL,2015
+CS 6110,Knowledge-Based Systems,3.71,227,No,No,FALL,2015
+CS 7575,Seminar in Software Engineering,3.49,227,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.65,227,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.67,228,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.35,228,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.71,228,No,No,FALL,2017
+CS 5006,Algorithms,3.32,228,No,No,SPRING,2017
+CS 5007,Computer Systems,3.59,228,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.32,229,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.42,229,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.4,229,No,No,SPRING,2015
+CS 5006,Algorithms,3.48,229,No,No,FALL,2015
+CS 5007,Computer Systems,3.41,229,No,No,SPRING,2015
+CS 5310,Computer Graphics,3.6,229,No,No,FALL,2015
+CS 5330,Pattern Recognition and Computer Vision,3.43,229,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.38,229,No,No,FALL,2015
+CS 7575,Seminar in Software Engineering,3.14,229,No,No,FALL,2015
+CS 6220,Data Mining Techniques,3.69,229,No,No,FALL,2015
+CS 7580,Special Topics in Software Engineering,3.58,229,No,No,SPRING,2015
+CS 6110,Knowledge-Based Systems,3.4,229,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.54,230,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.65,230,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.36,230,No,No,FALL,2017
+CS 5006,Algorithms,3.54,230,No,No,FALL,2017
+CS 5007,Computer Systems,3.49,230,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.45,231,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.5,231,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.41,231,No,No,FALL,2016
+CS 5006,Algorithms,3.48,231,No,No,SPRING,2016
+CS 5007,Computer Systems,3.48,231,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.47,231,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.61,231,No,No,FALL,2016
+CS 5600,Computer Systems,3.85,231,No,No,FALL,2016
+CS 5610,Web Development,3.34,231,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.49,232,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.75,232,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.42,232,No,No,SPRING,2017
+CS 5006,Algorithms,3.72,232,No,No,SPRING,2017
+CS 5007,Computer Systems,3.54,232,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.39,233,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.41,233,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.67,233,No,No,FALL,2017
+CS 5006,Algorithms,3.59,233,No,No,SPRING,2017
+CS 5007,Computer Systems,3.33,233,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.61,234,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.82,234,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.23,234,No,No,FALL,2016
+CS 5006,Algorithms,3.32,234,No,No,FALL,2016
+CS 5007,Computer Systems,3.66,234,No,No,SPRING,2016
+CS 7570,Seminar in Software Development,3.32,234,No,No,FALL,2016
+CS 5500,Managing Software Development,3.48,234,No,No,FALL,2016
+CS 7880,Special Topics in Theories of Computer Science,3.58,234,No,No,SPRING,2016
+CS 6650,Building Scalable Distributed Systems,3.62,234,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.57,235,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.57,235,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.31,235,No,No,SPRING,2017
+CS 5006,Algorithms,3.65,235,No,No,SPRING,2017
+CS 5007,Computer Systems,3.49,235,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.6,236,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,236,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.16,236,No,No,FALL,2017
+CS 5006,Algorithms,3.67,236,No,No,FALL,2017
+CS 5007,Computer Systems,3.56,236,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.58,237,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.61,237,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.46,237,No,No,SPRING,2017
+CS 5006,Algorithms,3.67,237,No,No,FALL,2017
+CS 5007,Computer Systems,3.57,237,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.43,238,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.5,238,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.85,238,No,No,FALL,2016
+CS 5006,Algorithms,3.54,238,No,No,FALL,2016
+CS 5007,Computer Systems,3.65,238,No,No,FALL,2016
+CS 5330,Pattern Recognition and Computer Vision,3.24,238,No,No,FALL,2016
+CS 5340,Computer/Human Interaction,3.49,238,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.55,238,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.53,239,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.56,239,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.54,239,No,No,FALL,2015
+CS 5006,Algorithms,3.23,239,No,No,FALL,2015
+CS 5007,Computer Systems,3.57,239,No,No,SPRING,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.36,239,No,No,FALL,2015
+CS 7170,Seminar in Artificial Intelligence,3.44,239,No,No,FALL,2015
+CS 6750,Cryptography and Communications Security,3.25,239,No,No,FALL,2015
+CS 7780,Special Topics in Networks,3.57,239,No,No,SPRING,2015
+CS 5335,Robotic Science and Systems,3.59,239,No,No,SPRING,2015
+CS 5650,High Performance Computing,3.45,239,No,No,SPRING,2015
+CS 5620,Computer Architecture,3.67,239,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.8,240,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,240,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.56,240,No,No,FALL,2017
+CS 5006,Algorithms,3.45,240,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,240,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.47,241,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.48,241,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.61,241,No,No,SPRING,2016
+CS 5006,Algorithms,3.9,241,No,No,FALL,2016
+CS 5007,Computer Systems,3.47,241,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.31,241,No,No,SPRING,2016
+CS 5150,Game Artificial Intelligence,3.47,241,No,No,SPRING,2016
+CS 7775,Seminar in Computer Security,3.39,241,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.46,242,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.92,242,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.46,242,No,No,SPRING,2016
+CS 5006,Algorithms,3.49,242,No,No,SPRING,2016
+CS 5007,Computer Systems,3.66,242,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.56,242,No,No,SPRING,2016
+CS 6540,Foundations of Formal Methods and Software Analysis,3.65,242,No,No,SPRING,2016
+CS 5750,Social Computing,3.44,242,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.45,243,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.42,243,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.27,243,No,No,SPRING,2017
+CS 5006,Algorithms,3.62,243,No,No,SPRING,2017
+CS 5007,Computer Systems,3.63,243,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.61,244,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.51,244,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.78,244,No,No,FALL,2016
+CS 5006,Algorithms,3.85,244,No,No,FALL,2016
+CS 5007,Computer Systems,3.5,244,No,No,FALL,2016
+CS 6535,Engineering Reliable Software,3.47,244,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.64,244,No,No,FALL,2016
+CS 5600,Computer Systems,3.41,244,No,No,FALL,2016
+CS 6515,Software Development,3.43,244,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.29,245,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.6,245,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.59,245,No,No,FALL,2017
+CS 5006,Algorithms,3.6,245,No,No,FALL,2017
+CS 5007,Computer Systems,3.62,245,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.46,246,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.27,246,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.63,246,No,No,SPRING,2016
+CS 5006,Algorithms,3.66,246,No,No,FALL,2016
+CS 5007,Computer Systems,3.68,246,No,No,SPRING,2016
+CS 6515,Software Development,3.56,246,No,No,FALL,2016
+CS 5620,Computer Architecture,3.57,246,No,No,FALL,2016
+CS 6510,Advanced Software Development,3.65,246,No,No,FALL,2016
+CS 6530,Analysis of Software Artifacts,3.13,246,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.52,247,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.59,247,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.38,247,No,No,FALL,2016
+CS 5006,Algorithms,3.34,247,No,No,SPRING,2016
+CS 5007,Computer Systems,3.57,247,No,No,SPRING,2016
+CS 5850,Building Game Engines,3.55,247,No,No,FALL,2016
+CS 5520,Mobile Application Development,3.54,247,No,No,SPRING,2016
+CS 5010,Programming Design Paradigm,3.5,247,No,No,FALL,2016
+CS 7805,Theory of Computation,3.69,247,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.69,248,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.46,248,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.28,248,No,No,FALL,2017
+CS 5006,Algorithms,3.73,248,No,No,FALL,2017
+CS 5007,Computer Systems,3.23,248,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.23,249,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.19,249,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.6,249,No,No,SPRING,2017
+CS 5006,Algorithms,3.59,249,No,No,FALL,2017
+CS 5007,Computer Systems,3.42,249,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.47,250,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.56,250,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.3,250,No,No,FALL,2015
+CS 5006,Algorithms,3.36,250,No,No,FALL,2015
+CS 5007,Computer Systems,3.27,250,No,No,SPRING,2015
+CS 5620,Computer Architecture,3.31,250,No,No,FALL,2015
+CS 5650,High Performance Computing,3.31,250,No,No,SPRING,2015
+CS 6610,Parallel Computing,3.61,250,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.29,250,No,No,FALL,2015
+CS 7780,Special Topics in Networks,3.58,250,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.69,251,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.61,251,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.28,251,No,No,FALL,2016
+CS 5006,Algorithms,3.74,251,No,No,FALL,2016
+CS 5007,Computer Systems,3.49,251,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.21,251,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.47,251,No,No,SPRING,2016
+CS 7140,Advanced Machine Learning,3.72,251,No,No,FALL,2016
+CS 5500,Managing Software Development,3.6,251,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.63,252,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.49,252,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.57,252,No,No,FALL,2017
+CS 5006,Algorithms,3.45,252,No,No,FALL,2017
+CS 5007,Computer Systems,3.52,252,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.5,253,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.68,253,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.42,253,No,No,SPRING,2017
+CS 5006,Algorithms,3.6,253,No,No,FALL,2017
+CS 5007,Computer Systems,3.4,253,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.77,254,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.55,254,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.54,254,No,No,SPRING,2017
+CS 5006,Algorithms,3.64,254,No,No,FALL,2017
+CS 5007,Computer Systems,3.25,254,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.54,255,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.61,255,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.51,255,No,No,FALL,2017
+CS 5006,Algorithms,3.59,255,No,No,SPRING,2017
+CS 5007,Computer Systems,3.65,255,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.49,256,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.83,256,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.06,256,No,No,FALL,2017
+CS 5006,Algorithms,3.63,256,No,No,FALL,2017
+CS 5007,Computer Systems,3.76,256,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.29,257,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.38,257,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.39,257,No,No,FALL,2016
+CS 5006,Algorithms,3.66,257,No,No,FALL,2016
+CS 5007,Computer Systems,3.35,257,No,No,SPRING,2016
+CS 6515,Software Development,3.46,257,No,No,FALL,2016
+CS 7780,Special Topics in Networks,3.41,257,No,No,FALL,2016
+CS 7680,Special Topics in Computer Systems,3.64,257,No,No,FALL,2016
+CS 5340,Computer/Human Interaction,3.47,257,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.54,258,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.6,258,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.73,258,No,No,FALL,2016
+CS 5006,Algorithms,3.45,258,No,No,FALL,2016
+CS 5007,Computer Systems,3.52,258,No,No,FALL,2016
+CS 6110,Knowledge-Based Systems,3.67,258,No,No,FALL,2016
+CS 7770,Seminar in Computer Networks,3.34,258,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.5,258,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.44,259,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.64,259,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.84,259,No,No,SPRING,2017
+CS 5006,Algorithms,3.26,259,No,No,SPRING,2017
+CS 5007,Computer Systems,3.55,259,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.98,260,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.28,260,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.28,260,No,No,FALL,2014
+CS 5006,Algorithms,3.8,260,No,No,FALL,2014
+CS 5007,Computer Systems,3.55,260,No,No,FALL,2014
+CS 5700,Fundamentals of Computer Networking,3.35,260,No,No,FALL,2014
+CS 5100,Foundations of Artificial Intelligence,3.56,260,No,No,SPRING,2014
+CS 6650,Building Scalable Distributed Systems,3.37,260,No,No,FALL,2014
+CS 5520,Mobile Application Development,3.45,260,No,No,FALL,2014
+CS 7880,Special Topics in Theories of Computer Science,3.49,260,No,No,FALL,2014
+CS 6520,Methods of Software Development,3.46,260,No,No,SPRING,2014
+CS 5200,Database Management Systems,3.31,260,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.47,261,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.17,261,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.4,261,No,No,SPRING,2016
+CS 5006,Algorithms,3.61,261,No,No,SPRING,2016
+CS 5007,Computer Systems,3.63,261,No,No,FALL,2016
+CS 7370,Seminar in Graphics/Image Processing,3.64,261,No,No,FALL,2016
+CS 5400,Principles of Programming Language,3.34,261,No,No,SPRING,2016
+CS 6810,Distributed Algorithms,3.36,261,No,No,FALL,2016
+CS 7805,Theory of Computation,3.46,261,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.66,262,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.41,262,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.64,262,No,No,FALL,2017
+CS 5006,Algorithms,3.56,262,No,No,SPRING,2017
+CS 5007,Computer Systems,3.45,262,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.68,263,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.42,263,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.79,263,No,No,SPRING,2014
+CS 5006,Algorithms,3.36,263,No,No,SPRING,2014
+CS 5007,Computer Systems,3.57,263,No,No,FALL,2014
+CS 6520,Methods of Software Development,3.71,263,No,No,FALL,2014
+CS 7270,Seminar in Database Systems,3.59,263,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.52,263,No,No,FALL,2014
+CS 5100,Foundations of Artificial Intelligence,3.53,263,No,No,SPRING,2014
+CS 5340,Computer/Human Interaction,3.55,263,No,No,FALL,2014
+CS 5770,Software Vulnerabilities and Security,3.53,263,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.41,264,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.45,264,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.43,264,No,No,SPRING,2016
+CS 5006,Algorithms,3.66,264,No,No,SPRING,2016
+CS 5007,Computer Systems,3.41,264,No,No,FALL,2016
+CS 7140,Advanced Machine Learning,3.68,264,No,No,SPRING,2016
+CS 6800,Application of Information Theory,3.36,264,No,No,FALL,2016
+CS 5620,Computer Architecture,3.53,264,No,No,SPRING,2016
+CS 6650,Building Scalable Distributed Systems,3.41,264,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.47,265,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.39,265,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.67,265,No,No,SPRING,2015
+CS 5006,Algorithms,3.46,265,No,No,FALL,2015
+CS 5007,Computer Systems,3.57,265,No,No,SPRING,2015
+CS 7780,Special Topics in Networks,3.28,265,No,No,FALL,2015
+CS 7280,Special Topics in Database Management,3.39,265,No,No,FALL,2015
+CS 6510,Advanced Software Development,3.53,265,No,No,FALL,2015
+CS 5400,Principles of Programming Language,3.41,265,No,No,SPRING,2015
+CS 6410,Compilers,3.52,265,No,No,FALL,2015
+CS 5700,Fundamentals of Computer Networking,3.46,265,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.51,266,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.27,266,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.56,266,No,No,FALL,2017
+CS 5006,Algorithms,3.3,266,No,No,FALL,2017
+CS 5007,Computer Systems,3.62,266,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.46,267,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.49,267,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.3,267,No,No,SPRING,2015
+CS 5006,Algorithms,3.33,267,No,No,FALL,2015
+CS 5007,Computer Systems,3.25,267,No,No,FALL,2015
+CS 6800,Application of Information Theory,3.4,267,No,No,FALL,2015
+CS 5340,Computer/Human Interaction,3.46,267,No,No,FALL,2015
+CS 6610,Parallel Computing,3.75,267,No,No,SPRING,2015
+CS 7140,Advanced Machine Learning,3.51,267,No,No,FALL,2015
+CS 7770,Seminar in Computer Networks,3.44,267,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.37,267,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.24,268,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.33,268,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.35,268,No,No,SPRING,2014
+CS 5006,Algorithms,3.53,268,No,No,SPRING,2014
+CS 5007,Computer Systems,3.89,268,No,No,SPRING,2014
+CS 5200,Database Management Systems,3.51,268,No,No,FALL,2014
+CS 5100,Foundations of Artificial Intelligence,3.63,268,No,No,SPRING,2014
+CS 7270,Seminar in Database Systems,3.68,268,No,No,SPRING,2014
+CS 5500,Managing Software Development,3.54,268,No,No,SPRING,2014
+CS 8674,Master’s Project,3.57,268,No,No,FALL,2014
+CS 7170,Seminar in Artificial Intelligence,3.54,268,No,No,FALL,2014
+CS 5310,Computer Graphics,3.56,268,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.71,269,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.54,269,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.45,269,No,No,FALL,2017
+CS 5006,Algorithms,3.72,269,No,No,SPRING,2017
+CS 5007,Computer Systems,3.15,269,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.45,270,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.36,270,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.45,270,No,No,FALL,2016
+CS 5006,Algorithms,3.51,270,No,No,FALL,2016
+CS 5007,Computer Systems,3.57,270,No,No,SPRING,2016
+CS 6520,Methods of Software Development,3.71,270,No,No,SPRING,2016
+CS 7870,Seminar in Theoretical Computer Science,3.96,270,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.6,270,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.72,271,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.4,271,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.58,271,No,No,FALL,2017
+CS 5006,Algorithms,3.58,271,No,No,FALL,2017
+CS 5007,Computer Systems,3.59,271,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.75,272,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.34,272,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.38,272,No,No,SPRING,2015
+CS 5006,Algorithms,3.34,272,No,No,FALL,2015
+CS 5007,Computer Systems,3.73,272,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.26,272,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.32,272,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.34,272,No,No,SPRING,2015
+CS 7680,Special Topics in Computer Systems,3.39,272,No,No,FALL,2015
+CS 5320,Digital Image Processing,3.51,272,No,No,FALL,2015
+CS 7880,Special Topics in Theories of Computer Science,3.62,272,No,No,SPRING,2015
+CS 7780,Special Topics in Networks,3.23,272,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.32,273,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.63,273,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.53,273,No,No,SPRING,2017
+CS 5006,Algorithms,3.51,273,No,No,SPRING,2017
+CS 5007,Computer Systems,3.69,273,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.18,274,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.72,274,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.11,274,No,No,SPRING,2015
+CS 5006,Algorithms,3.93,274,No,No,SPRING,2015
+CS 5007,Computer Systems,3.77,274,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.68,274,No,No,FALL,2015
+CS 6520,Methods of Software Development,3.71,274,No,No,FALL,2015
+CS 5800,Algorithms,3.47,274,No,No,FALL,2015
+CS 5520,Mobile Application Development,3.58,274,No,No,FALL,2015
+CS 7280,Special Topics in Database Management,3.39,274,No,No,FALL,2015
+CS 6800,Application of Information Theory,3.84,274,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.59,275,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.57,275,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.48,275,No,No,FALL,2017
+CS 5006,Algorithms,3.28,275,No,No,FALL,2017
+CS 5007,Computer Systems,3.37,275,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.46,276,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.39,276,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.53,276,No,No,FALL,2014
+CS 5006,Algorithms,3.42,276,No,No,SPRING,2014
+CS 5007,Computer Systems,3.77,276,No,No,FALL,2014
+CS 5010,Programming Design Paradigm,3.46,276,No,No,FALL,2014
+CS 6510,Advanced Software Development,3.57,276,No,No,SPRING,2014
+CS 6110,Knowledge-Based Systems,3.55,276,No,No,FALL,2014
+CS 5600,Computer Systems,3.47,276,No,No,FALL,2014
+CS 5850,Building Game Engines,3.48,276,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.29,276,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.32,277,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.51,277,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.17,277,No,No,FALL,2017
+CS 5006,Algorithms,3.39,277,No,No,SPRING,2017
+CS 5007,Computer Systems,3.36,277,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.84,278,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.37,278,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.38,278,No,No,FALL,2017
+CS 5006,Algorithms,3.62,278,No,No,SPRING,2017
+CS 5007,Computer Systems,3.41,278,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.69,279,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.6,279,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.41,279,No,No,FALL,2016
+CS 5006,Algorithms,3.65,279,No,No,FALL,2016
+CS 5007,Computer Systems,3.89,279,No,No,FALL,2016
+CS 7140,Advanced Machine Learning,3.09,279,No,No,SPRING,2016
+CS 7575,Seminar in Software Engineering,3.34,279,No,No,FALL,2016
+CS 7805,Theory of Computation,3.47,279,No,No,FALL,2016
+CS 7880,Special Topics in Theories of Computer Science,3.29,279,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.76,280,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.4,280,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.52,280,No,No,SPRING,2016
+CS 5006,Algorithms,3.38,280,No,No,FALL,2016
+CS 5007,Computer Systems,3.39,280,No,No,FALL,2016
+CS 7990,Thesis,3.84,280,No,No,FALL,2016
+CS 5600,Computer Systems,3.46,280,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.41,280,No,No,FALL,2016
+CS 8982,Readings,3.5,280,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.36,281,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.6,281,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.65,281,No,No,FALL,2015
+CS 5006,Algorithms,3.42,281,No,No,FALL,2015
+CS 5007,Computer Systems,3.31,281,No,No,FALL,2015
+CS 5520,Mobile Application Development,3.62,281,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.48,281,No,No,FALL,2015
+CS 7370,Seminar in Graphics/Image Processing,3.68,281,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.76,281,No,No,FALL,2015
+CS 7180,Special Topics in Artificial Intelligence,3.39,281,No,No,FALL,2015
+CS 5310,Computer Graphics,3.28,281,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.3,282,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.3,282,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.55,282,No,No,FALL,2015
+CS 5006,Algorithms,3.25,282,No,No,FALL,2015
+CS 5007,Computer Systems,3.32,282,No,No,FALL,2015
+CS 5770,Software Vulnerabilities and Security,3.74,282,No,No,FALL,2015
+CS 8982,Readings,3.36,282,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.49,282,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.42,282,No,No,SPRING,2015
+CS 6540,Foundations of Formal Methods and Software Analysis,3.52,282,No,No,SPRING,2015
+CS 7770,Seminar in Computer Networks,3.6,282,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.59,283,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.58,283,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.28,283,No,No,SPRING,2017
+CS 5006,Algorithms,3.39,283,No,No,SPRING,2017
+CS 5007,Computer Systems,3.56,283,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.27,284,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.49,284,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.48,284,No,No,FALL,2014
+CS 5006,Algorithms,3.38,284,No,No,SPRING,2014
+CS 5007,Computer Systems,3.54,284,No,No,FALL,2014
+CS 7280,Special Topics in Database Management,3.99,284,No,No,SPRING,2014
+CS 6710,Wireless Network,3.54,284,No,No,SPRING,2014
+CS 7380,Special Topics in Graphics/Image Processing,3.55,284,No,No,FALL,2014
+CS 6650,Building Scalable Distributed Systems,3.9,284,No,No,SPRING,2014
+CS 6412,Semantics of Programming Language,3.53,284,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.62,285,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.6,285,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.46,285,No,No,FALL,2016
+CS 5006,Algorithms,3.46,285,No,No,FALL,2016
+CS 5007,Computer Systems,3.44,285,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.31,285,No,No,SPRING,2016
+CS 6650,Building Scalable Distributed Systems,3.65,285,No,No,FALL,2016
+CS 7570,Seminar in Software Development,3.32,285,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.85,286,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.44,286,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.51,286,No,No,FALL,2014
+CS 5006,Algorithms,3.55,286,No,No,SPRING,2014
+CS 5007,Computer Systems,3.54,286,No,No,SPRING,2014
+CS 7170,Seminar in Artificial Intelligence,3.44,286,No,No,FALL,2014
+CS 7670,Seminar in Computer Systems,3.49,286,No,No,SPRING,2014
+CS 7380,Special Topics in Graphics/Image Processing,3.31,286,No,No,SPRING,2014
+CS 6140,Machine Learning,3.62,286,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.63,286,No,No,SPRING,2014
+CS 5650,High Performance Computing,3.48,286,No,No,FALL,2014
+CS 5520,Mobile Application Development,3.6,286,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.38,287,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.37,287,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.6,287,No,No,SPRING,2017
+CS 5006,Algorithms,3.39,287,No,No,SPRING,2017
+CS 5007,Computer Systems,3.52,287,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.42,288,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.35,288,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.27,288,No,No,SPRING,2017
+CS 5006,Algorithms,3.4,288,No,No,FALL,2017
+CS 5007,Computer Systems,3.69,288,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.4,289,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.58,289,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.47,289,No,No,SPRING,2015
+CS 5006,Algorithms,3.31,289,No,No,FALL,2015
+CS 5007,Computer Systems,3.47,289,No,No,SPRING,2015
+CS 6410,Compilers,3.48,289,No,No,FALL,2015
+CS 5520,Mobile Application Development,3.31,289,No,No,FALL,2015
+CS 7270,Seminar in Database Systems,3.68,289,No,No,SPRING,2015
+CS 7370,Seminar in Graphics/Image Processing,3.45,289,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.46,289,No,No,SPRING,2015
+CS 5330,Pattern Recognition and Computer Vision,3.78,289,No,No,SPRING,2015
+CS 5335,Robotic Science and Systems,3.51,289,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.51,290,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.41,290,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.49,290,No,No,SPRING,2016
+CS 5006,Algorithms,3.39,290,No,No,SPRING,2016
+CS 5007,Computer Systems,3.37,290,No,No,SPRING,2016
+CS 5700,Fundamentals of Computer Networking,3.44,290,No,No,FALL,2016
+CS 8674,Master’s Project,3.43,290,No,No,SPRING,2016
+CS 6110,Knowledge-Based Systems,3.41,290,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.54,291,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.66,291,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.61,291,No,No,SPRING,2017
+CS 5006,Algorithms,3.68,291,No,No,FALL,2017
+CS 5007,Computer Systems,3.76,291,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.68,292,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.42,292,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.44,292,No,No,SPRING,2017
+CS 5006,Algorithms,3.26,292,No,No,FALL,2017
+CS 5007,Computer Systems,3.37,292,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.2,293,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.6,293,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.44,293,No,No,FALL,2016
+CS 5006,Algorithms,3.51,293,No,No,FALL,2016
+CS 5007,Computer Systems,3.36,293,No,No,SPRING,2016
+CS 5320,Digital Image Processing,3.57,293,No,No,SPRING,2016
+CS 6200,Information Retrieval,3.47,293,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.65,293,No,No,SPRING,2016
+CS 7680,Special Topics in Computer Systems,3.68,293,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.37,294,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.79,294,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.32,294,No,No,SPRING,2016
+CS 5006,Algorithms,3.42,294,No,No,SPRING,2016
+CS 5007,Computer Systems,3.62,294,No,No,SPRING,2016
+CS 6650,Building Scalable Distributed Systems,3.52,294,No,No,FALL,2016
+CS 5650,High Performance Computing,3.57,294,No,No,SPRING,2016
+CS 5310,Computer Graphics,3.22,294,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.3,294,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.6,295,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.65,295,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.51,295,No,No,FALL,2016
+CS 5006,Algorithms,3.76,295,No,No,SPRING,2016
+CS 5007,Computer Systems,3.57,295,No,No,SPRING,2016
+CS 5500,Managing Software Development,3.43,295,No,No,SPRING,2016
+CS 6515,Software Development,3.31,295,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.51,295,No,No,FALL,2016
+CS 6610,Parallel Computing,3.35,295,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.24,296,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.63,296,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.44,296,No,No,FALL,2017
+CS 5006,Algorithms,3.32,296,No,No,FALL,2017
+CS 5007,Computer Systems,3.44,296,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.88,297,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.45,297,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.52,297,No,No,SPRING,2015
+CS 5006,Algorithms,3.41,297,No,No,SPRING,2015
+CS 5007,Computer Systems,3.53,297,No,No,SPRING,2015
+CS 7990,Thesis,3.44,297,No,No,FALL,2015
+CS 6200,Information Retrieval,3.36,297,No,No,SPRING,2015
+CS 7880,Special Topics in Theories of Computer Science,3.69,297,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.41,297,No,No,SPRING,2015
+CS 5700,Fundamentals of Computer Networking,3.4,297,No,No,FALL,2015
+CS 7180,Special Topics in Artificial Intelligence,3.46,297,No,No,SPRING,2015
+CS 7270,Seminar in Database Systems,3.29,297,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.64,298,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.52,298,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.34,298,No,No,SPRING,2017
+CS 5006,Algorithms,3.53,298,No,No,SPRING,2017
+CS 5007,Computer Systems,3.57,298,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.5,299,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.24,299,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.53,299,No,No,FALL,2015
+CS 5006,Algorithms,3.27,299,No,No,SPRING,2015
+CS 5007,Computer Systems,3.45,299,No,No,FALL,2015
+CS 7580,Special Topics in Software Engineering,3.52,299,No,No,FALL,2015
+CS 5200,Database Management Systems,3.54,299,No,No,FALL,2015
+CS 6650,Building Scalable Distributed Systems,3.29,299,No,No,SPRING,2015
+CS 7280,Special Topics in Database Management,3.86,299,No,No,SPRING,2015
+CS 5770,Software Vulnerabilities and Security,3.63,299,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.58,300,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.66,300,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.73,300,No,No,FALL,2017
+CS 5006,Algorithms,3.37,300,No,No,SPRING,2017
+CS 5007,Computer Systems,3.53,300,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.67,301,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.65,301,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.22,301,No,No,SPRING,2017
+CS 5006,Algorithms,3.77,301,No,No,SPRING,2017
+CS 5007,Computer Systems,3.51,301,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.28,302,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.27,302,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.2,302,No,No,SPRING,2016
+CS 5006,Algorithms,3.51,302,No,No,FALL,2016
+CS 5007,Computer Systems,3.45,302,No,No,SPRING,2016
+CS 7575,Seminar in Software Engineering,3.39,302,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.64,302,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.42,302,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.74,302,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.46,303,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.47,303,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.61,303,No,No,SPRING,2016
+CS 5006,Algorithms,3.42,303,No,No,FALL,2016
+CS 5007,Computer Systems,3.7,303,No,No,SPRING,2016
+CS 5750,Social Computing,3.32,303,No,No,SPRING,2016
+CS 6710,Wireless Network,3.42,303,No,No,FALL,2016
+CS 7180,Special Topics in Artificial Intelligence,3.63,303,No,No,FALL,2016
+CS 5770,Software Vulnerabilities and Security,3.31,303,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.73,304,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.46,304,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.16,304,No,No,FALL,2017
+CS 5006,Algorithms,3.44,304,No,No,FALL,2017
+CS 5007,Computer Systems,3.37,304,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.45,305,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.41,305,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.08,305,No,No,SPRING,2015
+CS 5006,Algorithms,3.76,305,No,No,FALL,2015
+CS 5007,Computer Systems,3.42,305,No,No,SPRING,2015
+CS 8982,Readings,3.56,305,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.34,305,No,No,SPRING,2015
+CS 7470,Seminar in Programming Languages,3.5,305,No,No,SPRING,2015
+CS 7990,Thesis,3.56,305,No,No,SPRING,2015
+CS 5330,Pattern Recognition and Computer Vision,3.53,305,No,No,SPRING,2015
+CS 6515,Software Development,3.62,305,No,No,FALL,2015
+CS 5100,Foundations of Artificial Intelligence,3.2,305,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.5,306,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.76,306,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.57,306,No,No,FALL,2017
+CS 5006,Algorithms,3.69,306,No,No,FALL,2017
+CS 5007,Computer Systems,3.61,306,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.47,307,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.85,307,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.7,307,No,No,FALL,2017
+CS 5006,Algorithms,3.54,307,No,No,SPRING,2017
+CS 5007,Computer Systems,3.53,307,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.45,308,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.48,308,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.22,308,No,No,SPRING,2016
+CS 5006,Algorithms,3.73,308,No,No,SPRING,2016
+CS 5007,Computer Systems,3.67,308,No,No,SPRING,2016
+CS 5750,Social Computing,3.5,308,No,No,FALL,2016
+CS 6515,Software Development,3.5,308,No,No,FALL,2016
+CS 5310,Computer Graphics,3.42,308,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.62,309,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.27,309,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.53,309,No,No,SPRING,2014
+CS 5006,Algorithms,3.34,309,No,No,SPRING,2014
+CS 5007,Computer Systems,3.18,309,No,No,SPRING,2014
+CS 5600,Computer Systems,3.4,309,No,No,SPRING,2014
+CS 6740,Network Security,3.47,309,No,No,SPRING,2014
+CS 5330,Pattern Recognition and Computer Vision,3.61,309,No,No,FALL,2014
+CS 7570,Seminar in Software Development,3.4,309,No,No,FALL,2014
+CS 7180,Special Topics in Artificial Intelligence,3.6,309,No,No,FALL,2014
+CS 7870,Seminar in Theoretical Computer Science,3.65,309,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.52,309,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.41,310,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.63,310,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.27,310,No,No,SPRING,2016
+CS 5006,Algorithms,3.33,310,No,No,FALL,2016
+CS 5007,Computer Systems,3.35,310,No,No,FALL,2016
+CS 7370,Seminar in Graphics/Image Processing,3.61,310,No,No,FALL,2016
+CS 6140,Machine Learning,3.33,310,No,No,FALL,2016
+CS 6710,Wireless Network,3.49,310,No,No,FALL,2016
+CS 5750,Social Computing,3.38,310,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.76,311,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.45,311,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.43,311,No,No,SPRING,2016
+CS 5006,Algorithms,3.56,311,No,No,SPRING,2016
+CS 5007,Computer Systems,3.27,311,No,No,SPRING,2016
+CS 5610,Web Development,3.48,311,No,No,SPRING,2016
+CS 6810,Distributed Algorithms,3.69,311,No,No,FALL,2016
+CS 7570,Seminar in Software Development,3.21,311,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.4,312,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.68,312,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.41,312,No,No,FALL,2017
+CS 5006,Algorithms,3.93,312,No,No,SPRING,2017
+CS 5007,Computer Systems,3.81,312,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.51,313,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.65,313,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.53,313,No,No,SPRING,2017
+CS 5006,Algorithms,3.64,313,No,No,FALL,2017
+CS 5007,Computer Systems,3.35,313,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.39,314,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.4,314,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.5,314,No,No,FALL,2016
+CS 5006,Algorithms,3.23,314,No,No,SPRING,2016
+CS 5007,Computer Systems,3.46,314,No,No,FALL,2016
+CS 6650,Building Scalable Distributed Systems,3.25,314,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.52,314,No,No,SPRING,2016
+CS 7870,Seminar in Theoretical Computer Science,3.31,314,No,No,SPRING,2016
+CS 7580,Special Topics in Software Engineering,3.39,314,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.35,315,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.6,315,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.33,315,No,No,SPRING,2017
+CS 5006,Algorithms,3.6,315,No,No,SPRING,2017
+CS 5007,Computer Systems,3.79,315,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.47,316,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.82,316,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.42,316,No,No,FALL,2016
+CS 5006,Algorithms,3.46,316,No,No,FALL,2016
+CS 5007,Computer Systems,3.81,316,No,No,SPRING,2016
+CS 5335,Robotic Science and Systems,3.29,316,No,No,SPRING,2016
+CS 5600,Computer Systems,3.57,316,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.64,316,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.79,316,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.48,317,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.51,317,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.52,317,No,No,SPRING,2017
+CS 5006,Algorithms,3.34,317,No,No,FALL,2017
+CS 5007,Computer Systems,3.69,317,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.61,318,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.46,318,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.45,318,No,No,FALL,2017
+CS 5006,Algorithms,3.52,318,No,No,FALL,2017
+CS 5007,Computer Systems,3.53,318,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.32,319,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.49,319,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.8,319,No,No,SPRING,2017
+CS 5006,Algorithms,3.54,319,No,No,FALL,2017
+CS 5007,Computer Systems,3.79,319,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.51,320,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.61,320,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.56,320,No,No,FALL,2015
+CS 5006,Algorithms,3.72,320,No,No,FALL,2015
+CS 5007,Computer Systems,3.53,320,No,No,FALL,2015
+CS 6120,Natural Language Processing,3.43,320,No,No,SPRING,2015
+CS 7770,Seminar in Computer Networks,3.36,320,No,No,SPRING,2015
+CS 5010,Programming Design Paradigm,3.32,320,No,No,SPRING,2015
+CS 5650,High Performance Computing,3.71,320,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.58,320,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.46,321,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.61,321,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.52,321,No,No,SPRING,2014
+CS 5006,Algorithms,3.58,321,No,No,FALL,2014
+CS 5007,Computer Systems,3.46,321,No,No,FALL,2014
+CS 7180,Special Topics in Artificial Intelligence,3.62,321,No,No,SPRING,2014
+CS 6350,Empirical Research Methods,3.36,321,No,No,FALL,2014
+CS 6510,Advanced Software Development,3.63,321,No,No,SPRING,2014
+CS 5610,Web Development,3.24,321,No,No,SPRING,2014
+CS 5100,Foundations of Artificial Intelligence,3.23,321,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.35,321,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.72,322,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.88,322,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.5,322,No,No,FALL,2016
+CS 5006,Algorithms,3.47,322,No,No,FALL,2016
+CS 5007,Computer Systems,3.59,322,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.45,322,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.78,322,No,No,FALL,2016
+CS 7580,Special Topics in Software Engineering,3.37,322,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.73,322,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.64,323,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.55,323,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.45,323,No,No,FALL,2016
+CS 5006,Algorithms,3.33,323,No,No,FALL,2016
+CS 5007,Computer Systems,3.75,323,No,No,SPRING,2016
+CS 7170,Seminar in Artificial Intelligence,3.28,323,No,No,SPRING,2016
+CS 5520,Mobile Application Development,3.31,323,No,No,SPRING,2016
+CS 7380,Special Topics in Graphics/Image Processing,3.49,323,No,No,SPRING,2016
+CS 5650,High Performance Computing,3.09,323,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.21,324,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.69,324,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.56,324,No,No,SPRING,2015
+CS 5006,Algorithms,3.19,324,No,No,FALL,2015
+CS 5007,Computer Systems,3.43,324,No,No,SPRING,2015
+CS 7280,Special Topics in Database Management,3.45,324,No,No,SPRING,2015
+CS 7170,Seminar in Artificial Intelligence,3.67,324,No,No,FALL,2015
+CS 8982,Readings,3.54,324,No,No,SPRING,2015
+CS 7575,Seminar in Software Engineering,3.68,324,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.43,324,No,No,FALL,2015
+CS 5600,Computer Systems,3.39,324,No,No,SPRING,2015
+CS 7180,Special Topics in Artificial Intelligence,3.65,324,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.38,325,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.56,325,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.44,325,No,No,FALL,2015
+CS 5006,Algorithms,3.45,325,No,No,SPRING,2015
+CS 5007,Computer Systems,3.78,325,No,No,SPRING,2015
+CS 5620,Computer Architecture,3.6,325,No,No,SPRING,2015
+CS 7805,Theory of Computation,3.41,325,No,No,FALL,2015
+CS 5700,Fundamentals of Computer Networking,3.57,325,No,No,SPRING,2015
+CS 5310,Computer Graphics,3.54,325,No,No,SPRING,2015
+CS 6750,Cryptography and Communications Security,3.67,325,No,No,SPRING,2015
+CS 7780,Special Topics in Networks,3.36,325,No,No,SPRING,2015
+CS 7370,Seminar in Graphics/Image Processing,3.59,325,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.38,326,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.48,326,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.48,326,No,No,SPRING,2016
+CS 5006,Algorithms,3.46,326,No,No,SPRING,2016
+CS 5007,Computer Systems,3.5,326,No,No,SPRING,2016
+CS 5320,Digital Image Processing,3.63,326,No,No,SPRING,2016
+CS 5610,Web Development,3.56,326,No,No,SPRING,2016
+CS 6515,Software Development,3.66,326,No,No,FALL,2016
+CS 8674,Master’s Project,3.43,326,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.72,327,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.5,327,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.33,327,No,No,SPRING,2015
+CS 5006,Algorithms,3.52,327,No,No,SPRING,2015
+CS 5007,Computer Systems,3.69,327,No,No,SPRING,2015
+CS 6350,Empirical Research Methods,3.14,327,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.62,327,No,No,FALL,2015
+CS 6200,Information Retrieval,3.47,327,No,No,SPRING,2015
+CS 7570,Seminar in Software Development,3.62,327,No,No,SPRING,2015
+CS 6520,Methods of Software Development,3.28,327,No,No,SPRING,2015
+CS 7870,Seminar in Theoretical Computer Science,3.28,327,No,No,FALL,2015
+CS 6515,Software Development,3.36,327,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.75,328,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.56,328,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.82,328,No,No,SPRING,2015
+CS 5006,Algorithms,3.65,328,No,No,FALL,2015
+CS 5007,Computer Systems,3.49,328,No,No,SPRING,2015
+CS 5350,Applied Geometric Representation and Computation,3.51,328,No,No,SPRING,2015
+CS 6510,Advanced Software Development,3.4,328,No,No,FALL,2015
+CS 5620,Computer Architecture,3.69,328,No,No,FALL,2015
+CS 5330,Pattern Recognition and Computer Vision,3.16,328,No,No,FALL,2015
+CS 5150,Game Artificial Intelligence,3.6,328,No,No,FALL,2015
+CS 8674,Master’s Project,3.83,328,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.9,329,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.6,329,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.52,329,No,No,FALL,2017
+CS 5006,Algorithms,3.4,329,No,No,FALL,2017
+CS 5007,Computer Systems,3.41,329,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.32,330,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.44,330,No,No,FALL,2017
+CS 5004,Object-Oriented Design,4.06,330,No,No,SPRING,2017
+CS 5006,Algorithms,3.62,330,No,No,FALL,2017
+CS 5007,Computer Systems,3.61,330,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.55,331,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.8,331,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.51,331,No,No,FALL,2016
+CS 5006,Algorithms,3.56,331,No,No,FALL,2016
+CS 5007,Computer Systems,3.46,331,No,No,FALL,2016
+CS 5310,Computer Graphics,3.27,331,No,No,SPRING,2016
+CS 6610,Parallel Computing,3.55,331,No,No,FALL,2016
+CS 5010,Programming Design Paradigm,3.54,331,No,No,SPRING,2016
+CS 5610,Web Development,3.5,331,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.58,332,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.38,332,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.61,332,No,No,FALL,2015
+CS 5006,Algorithms,3.54,332,No,No,FALL,2015
+CS 5007,Computer Systems,3.45,332,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.59,332,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.59,332,No,No,SPRING,2015
+CS 5200,Database Management Systems,3.67,332,No,No,FALL,2015
+CS 5600,Computer Systems,3.58,332,No,No,SPRING,2015
+CS 6540,Foundations of Formal Methods and Software Analysis,3.46,332,No,No,FALL,2015
+CS 7380,Special Topics in Graphics/Image Processing,3.77,332,No,No,SPRING,2015
+CS 6740,Network Security,3.62,332,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.57,333,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.47,333,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.47,333,No,No,FALL,2017
+CS 5006,Algorithms,3.54,333,No,No,FALL,2017
+CS 5007,Computer Systems,3.53,333,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.59,334,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.61,334,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.54,334,No,No,FALL,2017
+CS 5006,Algorithms,3.79,334,No,No,SPRING,2017
+CS 5007,Computer Systems,3.55,334,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.39,335,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.38,335,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.34,335,No,No,FALL,2015
+CS 5006,Algorithms,3.46,335,No,No,FALL,2015
+CS 5007,Computer Systems,3.26,335,No,No,SPRING,2015
+CS 6810,Distributed Algorithms,3.58,335,No,No,SPRING,2015
+CS 7480,Special Topics in Programming Language,3.31,335,No,No,SPRING,2015
+CS 8674,Master’s Project,3.39,335,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.6,335,No,No,FALL,2015
+CS 6240,Large-Scale Parallel Data Processing,3.4,335,No,No,FALL,2015
+CS 5600,Computer Systems,3.43,335,No,No,FALL,2015
+CS 5750,Social Computing,3.6,335,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.54,336,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.63,336,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.71,336,No,No,SPRING,2016
+CS 5006,Algorithms,3.37,336,No,No,SPRING,2016
+CS 5007,Computer Systems,3.62,336,No,No,FALL,2016
+CS 7370,Seminar in Graphics/Image Processing,3.43,336,No,No,SPRING,2016
+CS 6530,Analysis of Software Artifacts,3.86,336,No,No,FALL,2016
+CS 5100,Foundations of Artificial Intelligence,3.59,336,No,No,SPRING,2016
+CS 5200,Database Management Systems,3.53,336,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.21,337,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.55,337,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.62,337,No,No,SPRING,2017
+CS 5006,Algorithms,3.64,337,No,No,FALL,2017
+CS 5007,Computer Systems,3.51,337,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.74,338,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.34,338,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.69,338,No,No,FALL,2015
+CS 5006,Algorithms,3.7,338,No,No,SPRING,2015
+CS 5007,Computer Systems,3.56,338,No,No,FALL,2015
+CS 5310,Computer Graphics,3.57,338,No,No,FALL,2015
+CS 7990,Thesis,3.54,338,No,No,FALL,2015
+CS 7870,Seminar in Theoretical Computer Science,3.5,338,No,No,FALL,2015
+CS 6510,Advanced Software Development,3.58,338,No,No,FALL,2015
+CS 5340,Computer/Human Interaction,3.42,338,No,No,FALL,2015
+CS 5600,Computer Systems,3.33,338,No,No,SPRING,2015
+CS 7170,Seminar in Artificial Intelligence,3.68,338,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.27,339,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.5,339,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.28,339,No,No,SPRING,2014
+CS 5006,Algorithms,3.35,339,No,No,FALL,2014
+CS 5007,Computer Systems,3.59,339,No,No,FALL,2014
+CS 6510,Advanced Software Development,3.29,339,No,No,SPRING,2014
+CS 6610,Parallel Computing,3.33,339,No,No,FALL,2014
+CS 5010,Programming Design Paradigm,3.72,339,No,No,SPRING,2014
+CS 5800,Algorithms,3.47,339,No,No,SPRING,2014
+CS 5150,Game Artificial Intelligence,3.5,339,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.51,339,No,No,FALL,2014
+CS 5600,Computer Systems,3.74,339,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.35,340,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.7,340,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.56,340,No,No,SPRING,2016
+CS 5006,Algorithms,3.28,340,No,No,SPRING,2016
+CS 5007,Computer Systems,3.55,340,No,No,SPRING,2016
+CS 5340,Computer/Human Interaction,3.23,340,No,No,SPRING,2016
+CS 6412,Semantics of Programming Language,3.58,340,No,No,FALL,2016
+CS 6740,Network Security,3.53,340,No,No,SPRING,2016
+CS 5520,Mobile Application Development,3.43,340,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.63,341,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.51,341,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.56,341,No,No,SPRING,2016
+CS 5006,Algorithms,3.49,341,No,No,SPRING,2016
+CS 5007,Computer Systems,3.39,341,No,No,FALL,2016
+CS 6220,Data Mining Techniques,3.53,341,No,No,SPRING,2016
+CS 6810,Distributed Algorithms,3.59,341,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.31,341,No,No,SPRING,2016
+CS 7380,Special Topics in Graphics/Image Processing,3.7,341,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.78,342,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.23,342,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.7,342,No,No,FALL,2015
+CS 5006,Algorithms,3.35,342,No,No,SPRING,2015
+CS 5007,Computer Systems,3.31,342,No,No,FALL,2015
+CS 6310,Computational Imaging,3.38,342,No,No,SPRING,2015
+CS 7990,Thesis,3.55,342,No,No,SPRING,2015
+CS 6540,Foundations of Formal Methods and Software Analysis,3.29,342,No,No,SPRING,2015
+CS 5400,Principles of Programming Language,3.65,342,No,No,FALL,2015
+CS 7480,Special Topics in Programming Language,3.46,342,No,No,FALL,2015
+CS 5320,Digital Image Processing,3.42,342,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.47,343,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.7,343,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.65,343,No,No,SPRING,2015
+CS 5006,Algorithms,3.24,343,No,No,FALL,2015
+CS 5007,Computer Systems,3.58,343,No,No,FALL,2015
+CS 6120,Natural Language Processing,3.46,343,No,No,SPRING,2015
+CS 6410,Compilers,3.44,343,No,No,SPRING,2015
+CS 6310,Computational Imaging,3.32,343,No,No,FALL,2015
+CS 6650,Building Scalable Distributed Systems,3.5,343,No,No,FALL,2015
+CS 7805,Theory of Computation,3.46,343,No,No,SPRING,2015
+CS 5800,Algorithms,3.42,343,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.5,344,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.34,344,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.64,344,No,No,FALL,2017
+CS 5006,Algorithms,3.29,344,No,No,SPRING,2017
+CS 5007,Computer Systems,3.64,344,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.41,345,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.54,345,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.25,345,No,No,FALL,2017
+CS 5006,Algorithms,3.53,345,No,No,SPRING,2017
+CS 5007,Computer Systems,3.36,345,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.43,346,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.45,346,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.56,346,No,No,SPRING,2017
+CS 5006,Algorithms,3.53,346,No,No,FALL,2017
+CS 5007,Computer Systems,3.32,346,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.57,347,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.64,347,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.37,347,No,No,SPRING,2015
+CS 5006,Algorithms,3.32,347,No,No,SPRING,2015
+CS 5007,Computer Systems,3.51,347,No,No,SPRING,2015
+CS 6410,Compilers,3.52,347,No,No,FALL,2015
+CS 6750,Cryptography and Communications Security,3.78,347,No,No,SPRING,2015
+CS 7370,Seminar in Graphics/Image Processing,3.62,347,No,No,SPRING,2015
+CS 6350,Empirical Research Methods,3.32,347,No,No,SPRING,2015
+CS 8674,Master’s Project,3.37,347,No,No,FALL,2015
+CS 7170,Seminar in Artificial Intelligence,3.65,347,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.68,348,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.34,348,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.68,348,No,No,FALL,2017
+CS 5006,Algorithms,3.42,348,No,No,FALL,2017
+CS 5007,Computer Systems,3.58,348,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.86,349,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.52,349,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.67,349,No,No,FALL,2017
+CS 5006,Algorithms,3.62,349,No,No,FALL,2017
+CS 5007,Computer Systems,3.43,349,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.7,350,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.42,350,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.33,350,No,No,SPRING,2016
+CS 5006,Algorithms,3.62,350,No,No,SPRING,2016
+CS 5007,Computer Systems,3.45,350,No,No,SPRING,2016
+CS 6140,Machine Learning,3.53,350,No,No,SPRING,2016
+CS 5610,Web Development,3.42,350,No,No,SPRING,2016
+CS 7280,Special Topics in Database Management,3.4,350,No,No,FALL,2016
+CS 5310,Computer Graphics,3.39,350,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.58,351,No,No,SPRING,2014
+CS 5002,Discrete and Data Structures,3.61,351,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.25,351,No,No,FALL,2014
+CS 5006,Algorithms,3.34,351,No,No,SPRING,2014
+CS 5007,Computer Systems,3.57,351,No,No,FALL,2014
+CS 7270,Seminar in Database Systems,3.42,351,No,No,FALL,2014
+CS 6710,Wireless Network,3.48,351,No,No,FALL,2014
+CS 5335,Robotic Science and Systems,3.39,351,No,No,SPRING,2014
+CS 6412,Semantics of Programming Language,3.28,351,No,No,SPRING,2014
+CS 5340,Computer/Human Interaction,3.38,351,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.43,352,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.7,352,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.46,352,No,No,SPRING,2015
+CS 5006,Algorithms,3.45,352,No,No,FALL,2015
+CS 5007,Computer Systems,3.63,352,No,No,FALL,2015
+CS 8982,Readings,3.52,352,No,No,SPRING,2015
+CS 6760,"Privacy, Security, and Usability",3.54,352,No,No,SPRING,2015
+CS 5200,Database Management Systems,3.7,352,No,No,SPRING,2015
+CS 5335,Robotic Science and Systems,3.42,352,No,No,FALL,2015
+CS 5800,Algorithms,3.64,352,No,No,FALL,2015
+CS 7990,Thesis,3.23,352,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.7,353,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.47,353,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.45,353,No,No,FALL,2016
+CS 5006,Algorithms,3.6,353,No,No,SPRING,2016
+CS 5007,Computer Systems,3.46,353,No,No,SPRING,2016
+CS 5700,Fundamentals of Computer Networking,3.22,353,No,No,SPRING,2016
+CS 7280,Special Topics in Database Management,3.4,353,No,No,SPRING,2016
+CS 6750,Cryptography and Communications Security,3.28,353,No,No,FALL,2016
+CS 6412,Semantics of Programming Language,3.47,353,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.42,354,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.36,354,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.41,354,No,No,FALL,2016
+CS 5006,Algorithms,3.58,354,No,No,FALL,2016
+CS 5007,Computer Systems,3.32,354,No,No,FALL,2016
+CS 7140,Advanced Machine Learning,3.49,354,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.64,354,No,No,SPRING,2016
+CS 6110,Knowledge-Based Systems,3.29,354,No,No,SPRING,2016
+CS 6410,Compilers,3.43,354,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.44,355,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.4,355,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.68,355,No,No,SPRING,2017
+CS 5006,Algorithms,3.41,355,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,355,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.53,356,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.41,356,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.49,356,No,No,SPRING,2017
+CS 5006,Algorithms,3.2,356,No,No,SPRING,2017
+CS 5007,Computer Systems,3.44,356,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.76,357,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.35,357,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.51,357,No,No,FALL,2017
+CS 5006,Algorithms,3.51,357,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,357,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.44,358,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.45,358,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.38,358,No,No,SPRING,2014
+CS 5006,Algorithms,3.54,358,No,No,FALL,2014
+CS 5007,Computer Systems,3.67,358,No,No,FALL,2014
+CS 7380,Special Topics in Graphics/Image Processing,3.41,358,No,No,SPRING,2014
+CS 7575,Seminar in Software Engineering,3.61,358,No,No,SPRING,2014
+CS 5150,Game Artificial Intelligence,3.46,358,No,No,FALL,2014
+CS 6530,Analysis of Software Artifacts,3.49,358,No,No,SPRING,2014
+CS 5310,Computer Graphics,3.53,358,No,No,FALL,2014
+CS 6520,Methods of Software Development,3.56,358,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.29,359,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.48,359,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.44,359,No,No,SPRING,2017
+CS 5006,Algorithms,3.62,359,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,359,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.36,360,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.37,360,No,No,SPRING,2014
+CS 5004,Object-Oriented Design,3.48,360,No,No,FALL,2014
+CS 5006,Algorithms,3.59,360,No,No,SPRING,2014
+CS 5007,Computer Systems,3.69,360,No,No,FALL,2014
+CS 5400,Principles of Programming Language,3.45,360,No,No,SPRING,2014
+CS 7480,Special Topics in Programming Language,3.34,360,No,No,FALL,2014
+CS 5310,Computer Graphics,3.48,360,No,No,SPRING,2014
+CS 5320,Digital Image Processing,3.76,360,No,No,SPRING,2014
+CS 7580,Special Topics in Software Engineering,3.51,360,No,No,FALL,2014
+CS 6760,"Privacy, Security, and Usability",3.44,360,No,No,FALL,2014
+CS 6110,Knowledge-Based Systems,3.37,360,No,No,SPRING,2014
+CS 5001,Intensive Foundations of CS,3.64,361,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.45,361,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.37,361,No,No,SPRING,2017
+CS 5006,Algorithms,3.18,361,No,No,SPRING,2017
+CS 5007,Computer Systems,3.58,361,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.39,362,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.49,362,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.44,362,No,No,SPRING,2016
+CS 5006,Algorithms,3.53,362,No,No,SPRING,2016
+CS 5007,Computer Systems,3.46,362,No,No,FALL,2016
+CS 7570,Seminar in Software Development,3.18,362,No,No,SPRING,2016
+CS 7680,Special Topics in Computer Systems,3.59,362,No,No,FALL,2016
+CS 6240,Large-Scale Parallel Data Processing,3.64,362,No,No,SPRING,2016
+CS 7580,Special Topics in Software Engineering,3.52,362,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.4,363,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.57,363,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.54,363,No,No,FALL,2017
+CS 5006,Algorithms,3.52,363,No,No,FALL,2017
+CS 5007,Computer Systems,3.58,363,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.42,364,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.63,364,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.71,364,No,No,SPRING,2017
+CS 5006,Algorithms,3.29,364,No,No,FALL,2017
+CS 5007,Computer Systems,3.75,364,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.27,365,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.6,365,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.66,365,No,No,FALL,2016
+CS 5006,Algorithms,3.34,365,No,No,SPRING,2016
+CS 5007,Computer Systems,3.6,365,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.45,365,No,No,FALL,2016
+CS 7280,Special Topics in Database Management,3.17,365,No,No,SPRING,2016
+CS 6520,Methods of Software Development,3.65,365,No,No,FALL,2016
+CS 6140,Machine Learning,3.31,365,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.52,366,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.3,366,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.29,366,No,No,FALL,2017
+CS 5006,Algorithms,3.6,366,No,No,FALL,2017
+CS 5007,Computer Systems,3.62,366,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.35,367,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.43,367,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.52,367,No,No,FALL,2016
+CS 5006,Algorithms,3.62,367,No,No,FALL,2016
+CS 5007,Computer Systems,3.41,367,No,No,SPRING,2016
+CS 6515,Software Development,3.65,367,No,No,SPRING,2016
+CS 6535,Engineering Reliable Software,3.49,367,No,No,SPRING,2016
+CS 5600,Computer Systems,3.63,367,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.52,368,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.21,368,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.23,368,No,No,FALL,2017
+CS 5006,Algorithms,3.73,368,No,No,FALL,2017
+CS 5007,Computer Systems,3.46,368,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.6,369,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.57,369,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.5,369,No,No,SPRING,2016
+CS 5006,Algorithms,3.36,369,No,No,SPRING,2016
+CS 5007,Computer Systems,3.16,369,No,No,SPRING,2016
+CS 5770,Software Vulnerabilities and Security,3.63,369,No,No,FALL,2016
+CS 7370,Seminar in Graphics/Image Processing,3.3,369,No,No,SPRING,2016
+CS 6412,Semantics of Programming Language,3.75,369,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.72,369,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.29,370,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.52,370,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.67,370,No,No,SPRING,2016
+CS 5006,Algorithms,3.3,370,No,No,SPRING,2016
+CS 5007,Computer Systems,3.7,370,No,No,FALL,2016
+CS 6750,Cryptography and Communications Security,3.45,370,No,No,FALL,2016
+CS 7270,Seminar in Database Systems,3.44,370,No,No,FALL,2016
+CS 5770,Software Vulnerabilities and Security,3.18,370,No,No,SPRING,2016
+CS 5610,Web Development,3.61,370,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.35,371,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.39,371,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.62,371,No,No,SPRING,2017
+CS 5006,Algorithms,3.56,371,No,No,FALL,2017
+CS 5007,Computer Systems,3.44,371,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.57,372,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.56,372,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.48,372,No,No,FALL,2015
+CS 5006,Algorithms,3.4,372,No,No,FALL,2015
+CS 5007,Computer Systems,3.33,372,No,No,SPRING,2015
+CS 6200,Information Retrieval,3.53,372,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.44,372,No,No,SPRING,2015
+CS 5340,Computer/Human Interaction,3.29,372,No,No,SPRING,2015
+CS 5770,Software Vulnerabilities and Security,3.61,372,No,No,FALL,2015
+CS 6140,Machine Learning,3.34,372,No,No,SPRING,2015
+CS 6610,Parallel Computing,3.29,372,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.65,373,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.54,373,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.72,373,No,No,FALL,2016
+CS 5006,Algorithms,3.51,373,No,No,SPRING,2016
+CS 5007,Computer Systems,3.5,373,No,No,SPRING,2016
+CS 7570,Seminar in Software Development,3.46,373,No,No,FALL,2016
+CS 5650,High Performance Computing,3.6,373,No,No,FALL,2016
+CS 7990,Thesis,3.65,373,No,No,FALL,2016
+CS 7770,Seminar in Computer Networks,3.67,373,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.41,374,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.35,374,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.72,374,No,No,FALL,2016
+CS 5006,Algorithms,3.55,374,No,No,FALL,2016
+CS 5007,Computer Systems,3.23,374,No,No,FALL,2016
+CS 6510,Advanced Software Development,3.45,374,No,No,SPRING,2016
+CS 6410,Compilers,3.54,374,No,No,SPRING,2016
+CS 5700,Fundamentals of Computer Networking,3.38,374,No,No,FALL,2016
+CS 6515,Software Development,3.43,374,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.44,375,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.48,375,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.19,375,No,No,FALL,2016
+CS 5006,Algorithms,3.61,375,No,No,SPRING,2016
+CS 5007,Computer Systems,3.47,375,No,No,SPRING,2016
+CS 7370,Seminar in Graphics/Image Processing,3.39,375,No,No,FALL,2016
+CS 6540,Foundations of Formal Methods and Software Analysis,3.59,375,No,No,SPRING,2016
+CS 6710,Wireless Network,3.54,375,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.54,376,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.45,376,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.37,376,No,No,SPRING,2016
+CS 5006,Algorithms,3.68,376,No,No,FALL,2016
+CS 5007,Computer Systems,3.67,376,No,No,SPRING,2016
+CS 5620,Computer Architecture,3.48,376,No,No,SPRING,2016
+CS 7280,Special Topics in Database Management,3.47,376,No,No,FALL,2016
+CS 7990,Thesis,3.47,376,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.43,377,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.46,377,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.7,377,No,No,FALL,2015
+CS 5006,Algorithms,3.49,377,No,No,FALL,2015
+CS 5007,Computer Systems,3.31,377,No,No,SPRING,2015
+CS 5600,Computer Systems,3.65,377,No,No,FALL,2015
+CS 6220,Data Mining Techniques,3.25,377,No,No,SPRING,2015
+CS 5850,Building Game Engines,3.56,377,No,No,FALL,2015
+CS 6710,Wireless Network,3.48,377,No,No,FALL,2015
+CS 6412,Semantics of Programming Language,3.38,377,No,No,FALL,2015
+CS 5350,Applied Geometric Representation and Computation,3.51,377,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.49,378,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.44,378,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.34,378,No,No,FALL,2015
+CS 5006,Algorithms,3.44,378,No,No,SPRING,2015
+CS 5007,Computer Systems,3.77,378,No,No,SPRING,2015
+CS 6120,Natural Language Processing,3.45,378,No,No,FALL,2015
+CS 5320,Digital Image Processing,3.57,378,No,No,SPRING,2015
+CS 7470,Seminar in Programming Languages,3.5,378,No,No,FALL,2015
+CS 5600,Computer Systems,3.44,378,No,No,FALL,2015
+CS 6350,Empirical Research Methods,3.41,378,No,No,FALL,2015
+CS 5400,Principles of Programming Language,3.27,378,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.56,379,No,No,FALL,2014
+CS 5002,Discrete and Data Structures,3.59,379,No,No,FALL,2014
+CS 5004,Object-Oriented Design,3.48,379,No,No,SPRING,2014
+CS 5006,Algorithms,3.28,379,No,No,SPRING,2014
+CS 5007,Computer Systems,3.48,379,No,No,SPRING,2014
+CS 5620,Computer Architecture,3.44,379,No,No,FALL,2014
+CS 6535,Engineering Reliable Software,3.75,379,No,No,FALL,2014
+CS 6650,Building Scalable Distributed Systems,3.53,379,No,No,FALL,2014
+CS 5520,Mobile Application Development,3.49,379,No,No,SPRING,2014
+CS 5600,Computer Systems,3.42,379,No,No,SPRING,2014
+CS 8674,Master’s Project,3.8,379,No,No,FALL,2014
+CS 7370,Seminar in Graphics/Image Processing,3.43,379,No,No,FALL,2014
+CS 5001,Intensive Foundations of CS,3.38,380,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.69,380,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.5,380,No,No,FALL,2017
+CS 5006,Algorithms,3.49,380,No,No,SPRING,2017
+CS 5007,Computer Systems,3.67,380,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.5,381,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.26,381,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.55,381,No,No,FALL,2016
+CS 5006,Algorithms,3.49,381,No,No,SPRING,2016
+CS 5007,Computer Systems,3.51,381,No,No,SPRING,2016
+CS 7990,Thesis,3.66,381,No,No,SPRING,2016
+CS 5800,Algorithms,3.57,381,No,No,SPRING,2016
+CS 5700,Fundamentals of Computer Networking,3.5,381,No,No,SPRING,2016
+CS 5320,Digital Image Processing,3.13,381,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.48,382,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.73,382,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.23,382,No,No,FALL,2017
+CS 5006,Algorithms,3.51,382,No,No,SPRING,2017
+CS 5007,Computer Systems,3.59,382,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.7,383,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.69,383,No,No,FALL,2016
+CS 5004,Object-Oriented Design,3.27,383,No,No,FALL,2016
+CS 5006,Algorithms,3.4,383,No,No,FALL,2016
+CS 5007,Computer Systems,3.71,383,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.31,383,No,No,SPRING,2016
+CS 5520,Mobile Application Development,3.38,383,No,No,SPRING,2016
+CS 7670,Seminar in Computer Systems,3.56,383,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.68,384,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.58,384,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.53,384,No,No,FALL,2016
+CS 5006,Algorithms,3.58,384,No,No,SPRING,2016
+CS 5007,Computer Systems,3.58,384,No,No,SPRING,2016
+CS 6710,Wireless Network,3.51,384,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.41,384,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.29,384,No,No,FALL,2016
+CS 7170,Seminar in Artificial Intelligence,3.65,384,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.68,385,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.39,385,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.72,385,No,No,SPRING,2017
+CS 5006,Algorithms,3.62,385,No,No,SPRING,2017
+CS 5007,Computer Systems,3.4,385,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.64,386,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.47,386,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.29,386,No,No,FALL,2017
+CS 5006,Algorithms,3.82,386,No,No,FALL,2017
+CS 5007,Computer Systems,3.57,386,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.29,387,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.68,387,No,No,FALL,2015
+CS 5004,Object-Oriented Design,3.47,387,No,No,SPRING,2015
+CS 5006,Algorithms,3.51,387,No,No,SPRING,2015
+CS 5007,Computer Systems,3.62,387,No,No,SPRING,2015
+CS 8982,Readings,3.63,387,No,No,SPRING,2015
+CS 5610,Web Development,3.45,387,No,No,FALL,2015
+CS 7775,Seminar in Computer Security,3.75,387,No,No,FALL,2015
+CS 5800,Algorithms,3.43,387,No,No,SPRING,2015
+CS 6120,Natural Language Processing,3.66,387,No,No,SPRING,2015
+CS 7990,Thesis,3.39,387,No,No,FALL,2015
+CS 5310,Computer Graphics,3.49,387,No,No,FALL,2015
+CS 5001,Intensive Foundations of CS,3.57,388,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.51,388,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.47,388,No,No,FALL,2016
+CS 5006,Algorithms,3.58,388,No,No,SPRING,2016
+CS 5007,Computer Systems,3.64,388,No,No,SPRING,2016
+CS 7480,Special Topics in Programming Language,3.32,388,No,No,FALL,2016
+CS 7680,Special Topics in Computer Systems,3.6,388,No,No,SPRING,2016
+CS 8674,Master’s Project,3.48,388,No,No,SPRING,2016
+CS 5850,Building Game Engines,3.76,388,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.12,389,No,No,SPRING,2016
+CS 5002,Discrete and Data Structures,3.62,389,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.46,389,No,No,FALL,2016
+CS 5006,Algorithms,3.46,389,No,No,SPRING,2016
+CS 5007,Computer Systems,3.6,389,No,No,FALL,2016
+CS 5310,Computer Graphics,3.44,389,No,No,SPRING,2016
+CS 6510,Advanced Software Development,3.84,389,No,No,FALL,2016
+CS 5200,Database Management Systems,3.2,389,No,No,FALL,2016
+CS 7775,Seminar in Computer Security,3.49,389,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.63,390,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.8,390,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.52,390,No,No,FALL,2017
+CS 5006,Algorithms,3.46,390,No,No,FALL,2017
+CS 5007,Computer Systems,3.53,390,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.41,391,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.29,391,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.82,391,No,No,SPRING,2017
+CS 5006,Algorithms,3.45,391,No,No,SPRING,2017
+CS 5007,Computer Systems,3.47,391,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.34,392,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.33,392,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.23,392,No,No,SPRING,2017
+CS 5006,Algorithms,3.6,392,No,No,FALL,2017
+CS 5007,Computer Systems,3.49,392,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.5,393,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.36,393,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.29,393,No,No,SPRING,2017
+CS 5006,Algorithms,3.68,393,No,No,SPRING,2017
+CS 5007,Computer Systems,3.25,393,No,No,FALL,2017
+CS 5001,Intensive Foundations of CS,3.42,394,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.48,394,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.55,394,No,No,SPRING,2016
+CS 5006,Algorithms,3.52,394,No,No,SPRING,2016
+CS 5007,Computer Systems,3.23,394,No,No,FALL,2016
+CS 6350,Empirical Research Methods,3.55,394,No,No,SPRING,2016
+CS 5330,Pattern Recognition and Computer Vision,3.44,394,No,No,SPRING,2016
+CS 5400,Principles of Programming Language,3.16,394,No,No,SPRING,2016
+CS 5650,High Performance Computing,3.47,394,No,No,FALL,2016
+CS 5001,Intensive Foundations of CS,3.46,395,No,No,FALL,2016
+CS 5002,Discrete and Data Structures,3.6,395,No,No,SPRING,2016
+CS 5004,Object-Oriented Design,3.79,395,No,No,SPRING,2016
+CS 5006,Algorithms,3.59,395,No,No,SPRING,2016
+CS 5007,Computer Systems,3.84,395,No,No,FALL,2016
+CS 6140,Machine Learning,3.77,395,No,No,FALL,2016
+CS 6810,Distributed Algorithms,3.61,395,No,No,FALL,2016
+CS 6800,Application of Information Theory,3.53,395,No,No,SPRING,2016
+CS 5010,Programming Design Paradigm,3.07,395,No,No,SPRING,2016
+CS 5001,Intensive Foundations of CS,3.67,396,No,No,FALL,2015
+CS 5002,Discrete and Data Structures,3.4,396,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.55,396,No,No,SPRING,2015
+CS 5006,Algorithms,3.26,396,No,No,FALL,2015
+CS 5007,Computer Systems,3.19,396,No,No,SPRING,2015
+CS 5610,Web Development,3.48,396,No,No,FALL,2015
+CS 6110,Knowledge-Based Systems,3.63,396,No,No,SPRING,2015
+CS 8674,Master’s Project,3.43,396,No,No,FALL,2015
+CS 6412,Semantics of Programming Language,3.6,396,No,No,FALL,2015
+CS 7470,Seminar in Programming Languages,3.55,396,No,No,FALL,2015
+CS 6220,Data Mining Techniques,3.24,396,No,No,SPRING,2015
+CS 5001,Intensive Foundations of CS,3.7,397,No,No,FALL,2017
+CS 5002,Discrete and Data Structures,3.52,397,No,No,SPRING,2017
+CS 5004,Object-Oriented Design,3.54,397,No,No,FALL,2017
+CS 5006,Algorithms,3.61,397,No,No,SPRING,2017
+CS 5007,Computer Systems,3.45,397,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.31,398,No,No,SPRING,2017
+CS 5002,Discrete and Data Structures,3.5,398,No,No,FALL,2017
+CS 5004,Object-Oriented Design,3.33,398,No,No,FALL,2017
+CS 5006,Algorithms,3.51,398,No,No,SPRING,2017
+CS 5007,Computer Systems,3.56,398,No,No,SPRING,2017
+CS 5001,Intensive Foundations of CS,3.31,399,No,No,SPRING,2015
+CS 5002,Discrete and Data Structures,3.44,399,No,No,SPRING,2015
+CS 5004,Object-Oriented Design,3.69,399,No,No,FALL,2015
+CS 5006,Algorithms,3.4,399,No,No,FALL,2015
+CS 5007,Computer Systems,3.64,399,No,No,SPRING,2015
+CS 6800,Application of Information Theory,3.41,399,No,No,FALL,2015
+CS 5010,Programming Design Paradigm,3.62,399,No,No,FALL,2015
+CS 6240,Large-Scale Parallel Data Processing,3.75,399,No,No,FALL,2015
+CS 6535,Engineering Reliable Software,3.19,399,No,No,FALL,2015
+CS 6740,Network Security,3.46,399,No,No,FALL,2015
+CS 8982,Readings,3.55,399,No,No,FALL,2015
