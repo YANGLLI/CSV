@@ -21,11 +21,12 @@ public class StudentsPublicDao {
     return session;
   }
 
-  public StudentsPublicDao() {
-    // it will check the hibernate.cfg.xml file and load it
-    // next it goes to all table files in the hibernate file and loads them
-    this.factory = new Configuration()
-            .configure("/hibernate.public.cfg.xml").buildSessionFactory();
+  public StudentsPublicDao(boolean test) {
+    if (test) {
+      this.factory = PublicTestSessionFactory.getFactory();
+    } else {
+      this.factory = PublicSessionFactory.getFactory();
+    }
   }
 
   public StudentsPublic createStudent(StudentsPublic student) {

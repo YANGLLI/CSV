@@ -20,10 +20,16 @@ public class LoadStudents implements LoadFromCsv {
   private StudentsPublicDao studentsPublicDao;
   private PrivaciesDao privaciesDao;
 
-  public LoadStudents() {
-    studentsDao = new StudentsDao();
-    privaciesDao = new PrivaciesDao();
-    studentsPublicDao = new StudentsPublicDao();
+  public LoadStudents(boolean test) {
+    if (test) {
+      studentsDao = new StudentsDao(true);
+      privaciesDao = new PrivaciesDao(true);
+      studentsPublicDao = new StudentsPublicDao(true);
+    } else {
+      studentsDao = new StudentsDao(false);
+      privaciesDao = new PrivaciesDao(false);
+      studentsPublicDao = new StudentsPublicDao(false);
+    }
   }
 
   @Override
@@ -40,7 +46,7 @@ public class LoadStudents implements LoadFromCsv {
         String lastName = csvReader.get("LastName").trim();
         Gender gender = Gender.valueOf(csvReader.get("Gender").trim());
         String visa = csvReader.get("VisaType").trim();
-        boolean scholarship = csvReader.get("Scholarship").trim().equals("Yes")?true:false;
+        boolean scholarship = csvReader.get("Scholarship").trim().equals("Yes") ? true : false;
         String phone = csvReader.get("LocalPhone").trim();
         String address = csvReader.get("LocalAddress").trim();
         String state = csvReader.get("State").trim();
@@ -84,9 +90,9 @@ public class LoadStudents implements LoadFromCsv {
       e.printStackTrace();
     } finally {
       csvReader.close();
-      studentsDao.getFactory().close();
-      privaciesDao.getFactory().close();
-      studentsPublicDao.getFactory().close();
+//      studentsDao.getFactory().close();
+//      privaciesDao.getFactory().close();
+//      studentsPublicDao.getFactory().close();
     }
   }
 }

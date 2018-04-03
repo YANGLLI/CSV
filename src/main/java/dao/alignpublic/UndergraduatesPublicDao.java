@@ -20,11 +20,12 @@ public class UndergraduatesPublicDao {
     return session;
   }
 
-  public UndergraduatesPublicDao() {
-    // it will check the hibernate.cfg.xml file and load it
-    // next it goes to all table files in the hibernate file and loads them
-    this.factory = new Configuration()
-            .configure("/hibernate.public.cfg.xml").buildSessionFactory();
+  public UndergraduatesPublicDao(boolean test) {
+    if (test) {
+      this.factory = PublicTestSessionFactory.getFactory();
+    } else {
+      this.factory = PublicSessionFactory.getFactory();
+    }
   }
 
   public UndergraduatesPublic createUndergraduate(UndergraduatesPublic undergraduate) {

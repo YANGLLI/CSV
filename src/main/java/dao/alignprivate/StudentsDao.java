@@ -4,7 +4,6 @@ import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
-import org.hibernate.cfg.Configuration;
 import model.alignprivate.Students;
 
 import java.util.List;
@@ -21,13 +20,12 @@ public class StudentsDao {
     return session;
   }
 
-  /**
-   * Default Constructor.
-   */
-  public StudentsDao() {
-    // it will check the hibernate.cfg.xml file and load it
-    // next it goes to all table files in the hibernate file and loads them
-    factory = new Configuration().configure().buildSessionFactory();
+  public StudentsDao(boolean test) {
+    if (test) {
+      this.factory = StudentTestSessionFactory.getFactory();
+    } else {
+      this.factory = StudentSessionFactory.getFactory();
+    }
   }
 
   /**

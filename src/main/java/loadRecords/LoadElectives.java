@@ -19,10 +19,16 @@ public class LoadElectives implements LoadFromCsv {
   private StudentsDao studentsDao;
   private CoursesDao coursesDao;
 
-  public LoadElectives() {
-    electivesDao = new ElectivesDao();
-    studentsDao = new StudentsDao();
-    coursesDao = new CoursesDao();
+  public LoadElectives(boolean test) {
+    if (test) {
+      electivesDao = new ElectivesDao(true);
+      coursesDao = new CoursesDao(true);
+      studentsDao = new StudentsDao(true);
+    } else {
+      electivesDao = new ElectivesDao(false);
+      studentsDao = new StudentsDao(false);
+      coursesDao = new CoursesDao(false);
+    }
   }
 
   @Override
@@ -58,9 +64,9 @@ public class LoadElectives implements LoadFromCsv {
       e.printStackTrace();
     } finally {
       csvReader.close();
-      electivesDao.getFactory().close();
-      studentsDao.getFactory().close();
-      coursesDao.getFactory().close();
+//      electivesDao.getFactory().close();
+//      studentsDao.getFactory().close();
+//      coursesDao.getFactory().close();
     }
   }
 }

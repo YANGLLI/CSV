@@ -22,15 +22,14 @@ public class ElectivesDao {
     return session;
   }
 
-  /**
-   * Default Constructor.
-   */
-  public ElectivesDao() {
-    // it will check the hibernate.cfg.xml file and load it
-    // next it goes to all table files in the hibernate file and loads them
-    factory = new Configuration()
-            .configure().buildSessionFactory();
+  public ElectivesDao(boolean test) {
+    if (test) {
+      this.factory = StudentTestSessionFactory.getFactory();
+    } else {
+      this.factory = StudentSessionFactory.getFactory();
+    }
   }
+
 
   /**
    * This is the function to add an Elective for a given student into database.

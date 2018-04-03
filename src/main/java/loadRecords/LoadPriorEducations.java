@@ -22,10 +22,16 @@ public class LoadPriorEducations implements LoadFromCsv {
   private UndergraduatesPublicDao undergraduatesPublicDao;
   private StudentsDao studentsDao;
 
-  public LoadPriorEducations() {
-    priorEducationsDao = new PriorEducationsDao();
-    studentsDao = new StudentsDao();
-    undergraduatesPublicDao = new UndergraduatesPublicDao();
+  public LoadPriorEducations(boolean test) {
+    if (test) {
+      priorEducationsDao = new PriorEducationsDao(true);
+      studentsDao = new StudentsDao(true);
+      undergraduatesPublicDao = new UndergraduatesPublicDao(true);
+    } else {
+      priorEducationsDao = new PriorEducationsDao(false);
+      studentsDao = new StudentsDao(false);
+      undergraduatesPublicDao = new UndergraduatesPublicDao(false);
+    }
   }
 
   @Override
@@ -72,9 +78,9 @@ public class LoadPriorEducations implements LoadFromCsv {
       e.printStackTrace();
     } finally {
       csvReader.close();
-      priorEducationsDao.getFactory().close();
-      undergraduatesPublicDao.getFactory().close();
-      studentsDao.getFactory().close();
+//      priorEducationsDao.getFactory().close();
+//      undergraduatesPublicDao.getFactory().close();
+//      studentsDao.getFactory().close();
     }
   }
 }

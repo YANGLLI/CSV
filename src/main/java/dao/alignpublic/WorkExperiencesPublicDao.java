@@ -7,8 +7,6 @@ import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
-import java.util.List;
-
 public class WorkExperiencesPublicDao {
   private SessionFactory factory;
   private Session session;
@@ -21,11 +19,12 @@ public class WorkExperiencesPublicDao {
     return session;
   }
 
-  public WorkExperiencesPublicDao() {
-    // it will check the hibernate.cfg.xml file and load it
-    // next it goes to all table files in the hibernate file and loads them
-    this.factory = new Configuration()
-            .configure("/hibernate.public.cfg.xml").buildSessionFactory();
+  public WorkExperiencesPublicDao(boolean test) {
+    if (test) {
+      this.factory = PublicTestSessionFactory.getFactory();
+    } else {
+      this.factory = PublicSessionFactory.getFactory();
+    }
   }
 
   public WorkExperiencesPublic createWorkExperience(WorkExperiencesPublic workExperience) {

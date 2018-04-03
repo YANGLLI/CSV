@@ -14,8 +14,12 @@ public class LoadCourses implements LoadFromCsv {
   private CsvReader csvReader;
   private CoursesDao coursesDao;
 
-  public LoadCourses() {
-    coursesDao = new CoursesDao();
+  public LoadCourses(boolean test) {
+    if (test) {
+      coursesDao = new CoursesDao(true);
+    } else {
+      coursesDao = new CoursesDao(false);
+    }
   }
 
   @Override
@@ -43,7 +47,7 @@ public class LoadCourses implements LoadFromCsv {
       e.printStackTrace();
     } finally {
       csvReader.close();
-      coursesDao.getFactory().close();
+//      coursesDao.getFactory().close();
     }
   }
 }

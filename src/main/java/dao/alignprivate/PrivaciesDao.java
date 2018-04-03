@@ -21,9 +21,12 @@ public class PrivaciesDao {
     return session;
   }
 
-  public PrivaciesDao() {
-    factory = new Configuration()
-            .configure().buildSessionFactory();
+  public PrivaciesDao(boolean test) {
+    if (test) {
+      this.factory = StudentTestSessionFactory.getFactory();
+    } else {
+      this.factory = StudentSessionFactory.getFactory();
+    }
   }
 
   /**

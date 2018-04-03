@@ -22,10 +22,16 @@ public class LoadWorkExperiences implements LoadFromCsv {
   private WorkExperiencesPublicDao workExperiencesPublicDao;
   private StudentsDao studentsDao;
 
-  public LoadWorkExperiences() {
-    workExperiencesDao = new WorkExperiencesDao();
-    studentsDao = new StudentsDao();
-    workExperiencesPublicDao = new WorkExperiencesPublicDao();
+  public LoadWorkExperiences(boolean test) {
+    if (test) {
+      workExperiencesDao = new WorkExperiencesDao(true);
+      studentsDao = new StudentsDao(true);
+      workExperiencesPublicDao = new WorkExperiencesPublicDao(true);
+    } else {
+      workExperiencesDao = new WorkExperiencesDao(false);
+      studentsDao = new StudentsDao(false);
+      workExperiencesPublicDao = new WorkExperiencesPublicDao(false);
+    }
   }
 
   @Override
@@ -74,9 +80,9 @@ public class LoadWorkExperiences implements LoadFromCsv {
       e.printStackTrace();
     } finally {
       csvReader.close();
-      workExperiencesDao.getFactory().close();
-      workExperiencesPublicDao.getFactory().close();
-      studentsDao.getFactory().close();
+//      workExperiencesDao.getFactory().close();
+//      workExperiencesPublicDao.getFactory().close();
+//      studentsDao.getFactory().close();
     }
   }
 }

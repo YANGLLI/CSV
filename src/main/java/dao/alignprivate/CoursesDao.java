@@ -21,13 +21,12 @@ public class CoursesDao {
     return session;
   }
 
-  /**
-   * Default constructor.
-   * it will check the Hibernate.cfg.xml file and load it
-   * next it goes to all table files in the hibernate file and loads them.
-   */
-  public CoursesDao() {
-    factory = new Configuration().configure().buildSessionFactory();
+  public CoursesDao(boolean test) {
+    if (test) {
+      this.factory = StudentTestSessionFactory.getFactory();
+    } else {
+      this.factory = StudentSessionFactory.getFactory();
+    }
   }
 
   /**
