@@ -1,3 +1,5 @@
+import dao.alignadmin.AdminSessionFactory;
+import dao.alignadmin.AdminTestSessionFactory;
 import dao.alignprivate.StudentSessionFactory;
 import dao.alignprivate.StudentTestSessionFactory;
 import dao.alignpublic.PublicSessionFactory;
@@ -37,9 +39,11 @@ public class MainScript {
     if (test) {
       StudentTestSessionFactory.getFactory().close();
       PublicTestSessionFactory.getFactory().close();
+      AdminTestSessionFactory.getFactory().close();
     } else {
       StudentSessionFactory.getFactory().close();
       PublicSessionFactory.getFactory().close();
+      AdminSessionFactory.getFactory().close();
     }
   }
 

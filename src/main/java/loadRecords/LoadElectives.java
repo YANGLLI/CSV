@@ -1,11 +1,13 @@
 package loadRecords;
 
 import com.csvreader.CsvReader;
+import dao.alignadmin.ElectivesAdminDao;
 import dao.alignprivate.CoursesDao;
 import dao.alignprivate.ElectivesDao;
 import dao.alignprivate.StudentsDao;
 import enums.Term;
 import loadRecords.LoadFromCsv;
+import model.alignadmin.ElectivesAdmin;
 import model.alignprivate.Electives;
 
 import java.io.IOException;
@@ -18,16 +20,19 @@ public class LoadElectives implements LoadFromCsv {
   private ElectivesDao electivesDao;
   private StudentsDao studentsDao;
   private CoursesDao coursesDao;
+  private ElectivesAdminDao electivesAdminDao;
 
   public LoadElectives(boolean test) {
     if (test) {
       electivesDao = new ElectivesDao(true);
       coursesDao = new CoursesDao(true);
       studentsDao = new StudentsDao(true);
+      electivesAdminDao = new ElectivesAdminDao(true);
     } else {
       electivesDao = new ElectivesDao(false);
       studentsDao = new StudentsDao(false);
       coursesDao = new CoursesDao(false);
+      electivesAdminDao = new ElectivesAdminDao(false);
     }
   }
 
@@ -43,6 +48,9 @@ public class LoadElectives implements LoadFromCsv {
         String courseName = csvReader.get("CourseName").trim();
         Term term = Term.valueOf(csvReader.get("Term").trim());
         int year = Integer.valueOf(csvReader.get("Year").trim());
+        String gpa = csvReader.get("GPA").trim();
+        boolean retake = csvReader.get("Retake").trim().equals("Yes")? true:false;
+        boolean plagiarism = csvReader.get("Plagiarism").trim().equals("Yes")? true:false;
 
         Electives elective = new Electives(neuId, courseId, courseName, term, year);
         Electives existElective = electivesDao.getElective(neuId, courseId, term, year);
@@ -57,6 +65,8 @@ public class LoadElectives implements LoadFromCsv {
           LOGGER.info("Update elective " + elective);
         } else {
           electivesDao.addElective(elective);
+          ElectivesAdmin electivesAdmin = new ElectivesAdmin(neuId, courseId, courseName, term, year, retake, gpa, plagiarism);
+          electivesAdminDao.addElective(electivesAdmin);
           LOGGER.info("Add elective " + elective);
         }
       }
