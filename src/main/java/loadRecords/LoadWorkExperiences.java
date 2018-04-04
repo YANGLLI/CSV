@@ -49,8 +49,8 @@ public class LoadWorkExperiences implements LoadFromCsv {
         Date endDate = dateFormat.parse(csvReader.get("EndDate").trim());
         String title = csvReader.get("Title").trim();
         String description = csvReader.get("Description").trim();
-        boolean currentJob = csvReader.get("CurrentJob").trim().equals("Yes") ? true : false;
-        boolean coop = csvReader.get("Coop").trim().equals("Yes") ? true : false;
+        boolean currentJob = csvReader.get("CurrentJob").trim().equals("Yes");
+        boolean coop = csvReader.get("Coop").trim().equals("Yes");
 
         WorkExperiences experience = new WorkExperiences(neuId, companyName, startDate, endDate, currentJob, coop, title, description);
         WorkExperiences existExperience = workExperiencesDao.getWorkExperience(neuId, companyName, startDate);

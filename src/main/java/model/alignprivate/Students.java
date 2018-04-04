@@ -37,7 +37,7 @@ public class Students {
   private String summary;
 
   public Students(String neuId, String email, String firstName, String middleName, String lastName, Gender gender, String race,
-                  String visa, String phoneNum, String address, String state, String city, String zip,
+                  boolean scholarship, String visa, String phoneNum, String address, String state, String city, String zip,
                   Term entryTerm, int entryYear, Term expectedLastTerm, int expectedLastYear,
                   EnrollmentStatus status, Campus campus, DegreeCandidacy degree, Blob photo, boolean visible) {
     this.neuId = neuId;
@@ -47,7 +47,7 @@ public class Students {
     this.lastName = lastName;
     this.gender = gender;
     this.race = race;
-    this.scholarship = false;
+    this.scholarship = scholarship;
     this.visa = visa;
     this.phoneNum = phoneNum;
     this.address = address;

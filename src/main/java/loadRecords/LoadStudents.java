@@ -46,7 +46,7 @@ public class LoadStudents implements LoadFromCsv {
         String lastName = csvReader.get("LastName").trim();
         Gender gender = Gender.valueOf(csvReader.get("Gender").trim());
         String visa = csvReader.get("VisaType").trim();
-        boolean scholarship = csvReader.get("Scholarship").trim().equals("Yes") ? true : false;
+        boolean scholarship = csvReader.get("Scholarship").trim().equals("Yes");
         String phone = csvReader.get("LocalPhone").trim();
         String address = csvReader.get("LocalAddress").trim();
         String state = csvReader.get("State").trim();
@@ -61,7 +61,7 @@ public class LoadStudents implements LoadFromCsv {
         DegreeCandidacy degree = DegreeCandidacy.valueOf(csvReader.get("Degree").trim());
         String race = csvReader.get("Race").trim();
 
-        Students student = new Students(neuId, email, firstName, middleName, lastName, gender, race,
+        Students student = new Students(neuId, email, firstName, middleName, lastName, gender, race, scholarship,
                 visa, phone, address, state, city, zip, entryTerm, entryYear, graduateTerm, graduateYear,
                 status, campus, degree, null, false);
 

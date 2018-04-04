@@ -13,16 +13,16 @@
         </property>
 
         <property name="hibernate.connection.url">
-            jdbc:mariadb://localhost:3307/AlignPublic
+            jdbc:mariadb://localhost:3306/AlignPublic
         </property>
 
         <property name="hibernate.connection.username">
             root
         </property>
 
-        <property name="hibernate.connection.password">
-            Turkey#786
-        </property>
+        <!--<property name="hibernate.connection.password">-->
+            <!--Turkey#786-->
+        <!--</property>-->
 
         <property name="hibernate.c3p0.min_size">5</property>
         <property name="hibernate.c3p0.max_size">20</property>
