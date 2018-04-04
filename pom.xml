@@ -31,7 +31,14 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>5.2.11.Final</version>
+      <version>5.2.12.Final</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-c3p0 -->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-c3p0</artifactId>
+      <version>5.2.12.Final</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
@@ -49,97 +56,6 @@
     </dependency>
 
   </dependencies>
-
-  <profiles>
-    <profile>
-      <id>dev_env_config</id>
-      <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
-      <properties>
-        <test.ip>localhost</test.ip>
-        <database.ip>
-          localhost
-        </database.ip>
-        <test.port>3306</test.port>
-        <admin.port>3307</admin.port>
-        <public.port>3307</public.port>
-        <private.port>3307</private.port>
-        <test.username>
-          root
-        </test.username>
-        <!--<test.password>-->
-        <!--Turkey#786-->
-        <!--</test.password>-->
-        <database.username>
-          root
-        </database.username>
-        <database.password>
-          Turkey#786
-        </database.password>
-      </properties>
-    </profile>
-
-    <profile>
-      <id>dev_env_config</id>
-      <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
-      <properties>
-        <test.ip>localhost</test.ip>
-        <database.ip>
-          localhost
-        </database.ip>
-        <test.port>3306</test.port>
-        <admin.port>3307</admin.port>
-        <public.port>3307</public.port>
-        <private.port>3307</private.port>
-        <test.username>
-          root
-        </test.username>
-        <!--<test.password>-->
-        <!--Turkey#786-->
-        <!--</test.password>-->
-        <database.username>
-          root
-        </database.username>
-        <database.password>
-          Turkey#786
-        </database.password>
-      </properties>
-    </profile>
-
-    <profile>
-      <id>prod_env_config</id>
-      <activation>
-        <property>
-          <name>env</name>
-          <value>prod</value>
-        </property>
-      </activation>
-      <properties>
-        <test.ip>test_db</test.ip>
-        <database.ip>
-          asd3.ccs.neu.edu
-        </database.ip>
-        <test.port>3306</test.port>
-        <admin.port>3307</admin.port>
-        <public.port>3309</public.port>
-        <private.port>3308</private.port>
-        <test.username>
-          root
-        </test.username>
-        <test.password>
-        </test.password>
-        <database.username>
-          root
-        </database.username>
-        <database.password>
-          123456
-        </database.password>
-      </properties>
-    </profile>
-  </profiles>
 
   <build>
     <finalName>csv</finalName>

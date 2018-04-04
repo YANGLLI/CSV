@@ -15,9 +15,11 @@
 			<generator class="assigned" />
 		</id>
 
-		<properties name="uq_Students_Email" unique="true">
-			<property name="email" column="Email" type="string" />
-		</properties>
+		<!--<properties name="uq_Students_Email" unique="true">-->
+			<!--<property name="email" column="Email" type="string" />-->
+		<!--</properties>-->
+
+		<property name="email" column="Email" type="string" />
 
 		<property name="publicId" column="PublicId" type="int" />
 		<property name="firstName" column="FirstName" type="string" />

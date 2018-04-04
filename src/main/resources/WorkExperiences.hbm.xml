@@ -13,11 +13,15 @@
             <generator class="native"/>
         </id>
 
-        <properties name="uq_WorkExperiences_WorkExperience" unique="true">
-            <property name = "neuId" column="NeuId" type="string" />
-            <property name = "companyName" column="CompanyName" type="string" />
-            <property name = "startDate" column="StartDate" type="date" />
-        </properties>
+        <!--<properties name="uq_WorkExperiences_WorkExperience" unique="true">-->
+            <!--<property name = "neuId" column="NeuId" type="string" />-->
+            <!--<property name = "companyName" column="CompanyName" type="string" />-->
+            <!--<property name = "startDate" column="StartDate" type="date" />-->
+        <!--</properties>-->
+
+        <property name = "neuId" column="NeuId" type="string" />
+        <property name = "companyName" column="CompanyName" type="string" />
+        <property name = "startDate" column="StartDate" type="date" />
 
         <property name = "endDate" column="EndDate" type="date" />
 

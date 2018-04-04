@@ -13,20 +13,28 @@
         </property>
 
         <property name="hibernate.connection.url">
-            jdbc:mariadb://${database.ip}:${public.port}/AlignPublic
+            jdbc:mariadb://asd3.ccs.neu.edu:3309/AlignPublic
         </property>
 
         <property name="hibernate.connection.username">
-            ${database.username}
+            root
         </property>
 
         <property name="hibernate.connection.password">
-            ${database.password}
+            123456
         </property>
+
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.max_size">20</property>
+        <property name="hibernate.c3p0.timeout">300</property>
+        <property name="hibernate.c3p0.max_statements">50</property>
+        <property name="hibernate.c3p0.idle_test_period">3000</property>
 
         <!-- List of XML mapping files -->
         <mapping resource="WorkExperiencesPublic.hbm.xml" />
         <mapping resource="UndergraduatesPublic.hbm.xml" />
         <mapping resource="StudentsPublic.hbm.xml" />
+        <mapping resource="SingleValueAggregatedData.hbm.xml" />
+        <mapping resource="MultipleValueAggregatedData.hbm.xml" />
     </session-factory>
 </hibernate-configuration>

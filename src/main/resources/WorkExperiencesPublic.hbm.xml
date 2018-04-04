@@ -13,10 +13,13 @@
             <generator class="native"/>
         </id>
 
-        <properties name="uq_WorkExperiences_WorkExperience" unique="true">
-            <property name = "publicId" column="PublicId" type="int" />
-            <property name = "coop" column="Coop" type="string" />
-        </properties>
+        <!--<properties name="uq_WorkExperiences_WorkExperience" unique="true">-->
+            <!--<property name = "publicId" column="PublicId" type="int" />-->
+            <!--<property name = "coop" column="Coop" type="string" />-->
+        <!--</properties>-->
+
+        <property name = "publicId" column="PublicId" type="int" />
+        <property name = "coop" column="Coop" type="string" />
 
     </class>
 </hibernate-mapping>

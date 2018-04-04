@@ -13,11 +13,15 @@
             <generator class="native"/>
         </id>
 
-        <properties name="uq_Undergraduates_Undergraduate" unique="true">
-            <property name = "publicId" column="PublicId" type="int" />
-            <property name = "undergradDegree" column="UndergradDegree" type="string" />
-            <property name = "undergradSchool" column="UndergradSchool" type="string" />
-        </properties>
+        <!--<properties name="uq_Undergraduates_Undergraduate" unique="true">-->
+            <!--<property name = "publicId" column="PublicId" type="int" />-->
+            <!--<property name = "undergradDegree" column="UndergradDegree" type="string" />-->
+            <!--<property name = "undergradSchool" column="UndergradSchool" type="string" />-->
+        <!--</properties>-->
+
+        <property name = "publicId" column="PublicId" type="int" />
+        <property name = "undergradDegree" column="UndergradDegree" type="string" />
+        <property name = "undergradSchool" column="UndergradSchool" type="string" />
 
     </class>
 </hibernate-mapping>

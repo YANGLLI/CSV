@@ -1,13 +1,16 @@
 package dao.alignprivate;
 
+import dao.alignpublic.MultipleValueAggregatedDataDao;
 import enums.DegreeCandidacy;
 import model.alignprivate.PriorEducations;
+import model.alignpublic.MultipleValueAggregatedData;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
+import javax.persistence.TypedQuery;
 import java.util.List;
 
 public class PriorEducationsDao {
@@ -108,5 +111,54 @@ public class PriorEducationsDao {
     }
 
     return priorEducations;
+  }
+
+  //=========================
+  // AGGREGATED DATA SCRIPT
+  //=========================
+
+  // THIS IS A SCRIPT FOR MACHINE LEARNING / PUBLIC FACING
+  // What bachelors majors do Align students have?
+  public List<MultipleValueAggregatedData> getStudentBachelorMajors() {
+    String hql = "SELECT NEW model.alignpublic.MultipleValueAggregatedData ( " +
+            "pe.majorName, cast(Count(*) as integer) ) " +
+            "FROM PriorEducations pe LEFT OUTER JOIN Students s ON pe.neuId = s.neuId " +
+            "WHERE pe.degreeCandidacy = 'BACHELORS' " +
+            "AND (s.enrollmentStatus = 'FULL_TIME' OR s.enrollmentStatus = 'PART_TIME') " +
+            "GROUP BY pe.majorName " +
+            "ORDER BY Count(*) DESC ";
+    try {
+      session = factory.openSession();
+      TypedQuery<MultipleValueAggregatedData> query = session.createQuery(hql, MultipleValueAggregatedData.class);
+      List<MultipleValueAggregatedData> list = query.getResultList();
+      for (MultipleValueAggregatedData data : list) {
+        data.setAnalyticTerm(MultipleValueAggregatedDataDao.LIST_OF_BACHELOR_DEGREES);
+      }
+      return list;
+    } finally {
+      session.close();
+    }
+  }
+
+  // THIS IS FOR PUBLIC FACING SCRIPT
+  // Degree Breakdown?
+  public List<MultipleValueAggregatedData> getDegreeList() {
+    String hql = "SELECT NEW model.alignpublic.MultipleValueAggregatedData ( " +
+            "cast(pe.degreeCandidacy as string ), cast(Count(*) as integer) ) " +
+            "FROM PriorEducations pe LEFT OUTER JOIN Students s ON pe.neuId = s.neuId " +
+            "WHERE s.enrollmentStatus = 'FULL_TIME' OR s.enrollmentStatus = 'PART_TIME'" +
+            "GROUP BY pe.degreeCandidacy " +
+            "ORDER BY Count(*) DESC ";
+    try {
+      session = factory.openSession();
+      TypedQuery<MultipleValueAggregatedData> query = session.createQuery(hql, MultipleValueAggregatedData.class);
+      List<MultipleValueAggregatedData> list = query.getResultList();
+      for (MultipleValueAggregatedData data : list) {
+        data.setAnalyticTerm(MultipleValueAggregatedDataDao.LIST_OF_DEGREES);
+      }
+      return list;
+    } finally {
+      session.close();
+    }
   }
 }

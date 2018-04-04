@@ -13,11 +13,15 @@
             <generator class="native"/>
         </id>
 
-        <properties name="uq_PriorEducations_PriorEducation" unique="true">
-            <property name = "neuId" column="NeuId" type="string" />
-            <property name="institutionName" column="InstitutionName" type="string"/>
-            <property name="majorName" column="MajorName" type="string"/>
-        </properties>
+        <!--<properties name="uq_PriorEducations_PriorEducation" unique="true">-->
+            <!--<property name = "neuId" column="NeuId" type="string" />-->
+            <!--<property name="institutionName" column="InstitutionName" type="string"/>-->
+            <!--<property name="majorName" column="MajorName" type="string"/>-->
+        <!--</properties>-->
+
+        <property name = "neuId" column="NeuId" type="string" />
+        <property name="institutionName" column="InstitutionName" type="string"/>
+        <property name="majorName" column="MajorName" type="string"/>
 
         <property name="graduationDate" column="GraduationDate" type="date"/>
 

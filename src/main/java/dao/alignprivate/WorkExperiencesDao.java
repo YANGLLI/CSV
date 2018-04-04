@@ -1,5 +1,7 @@
 package dao.alignprivate;
 
+import dao.alignpublic.MultipleValueAggregatedDataDao;
+import model.alignpublic.MultipleValueAggregatedData;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -7,6 +9,7 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import model.alignprivate.WorkExperiences;
 
+import javax.persistence.TypedQuery;
 import java.util.Date;
 import java.util.List;
 
@@ -107,4 +110,44 @@ public class WorkExperiencesDao {
 
     return experience;
   }
+
+  //========================
+  // AGGREGATED DATA SCRIPTS
+  //========================
+
+  // THIS IS THE SCRIPT FOR MACHINE LEARNING
+  // How many Align students get jobs?
+  public int getTotalStudentsGotJob() {
+    try {
+      session = factory.openSession();
+      org.hibernate.query.Query query = session.createQuery(
+              "SELECT COUNT(DISTINCT we.neuId) FROM WorkExperiences we WHERE we.coop = false ");
+      return ((Long) query.list().get(0)).intValue();
+    } finally {
+      session.close();
+    }
+  }
+
+  // THIS IS A SCRIPT FOR MACHINE LEARNING / PUBLIC FACING
+  // Who are the largest Align student employers?
+  public List<MultipleValueAggregatedData> getStudentEmployers() {
+    String hql = "SELECT NEW model.alignpublic.MultipleValueAggregatedData ( " +
+            "we.companyName, cast(Count(*) as integer) ) " +
+            "FROM WorkExperiences we " +
+            "WHERE we.coop = false " +
+            "GROUP BY we.companyName " +
+            "ORDER BY Count(*) DESC ";
+    try {
+      session = factory.openSession();
+      TypedQuery<MultipleValueAggregatedData> query = session.createQuery(hql, MultipleValueAggregatedData.class);
+      List<MultipleValueAggregatedData> list = query.getResultList();
+      for (MultipleValueAggregatedData data : list) {
+        data.setAnalyticTerm(MultipleValueAggregatedDataDao.LIST_OF_EMPLOYERS);
+      }
+      return list;
+    } finally {
+      session.close();
+    }
+  }
+
 }
