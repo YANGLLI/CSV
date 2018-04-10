@@ -59,9 +59,9 @@ public class LoadStudents implements LoadFromCsv {
         Term graduateTerm = Term.valueOf(csvReader.get("ExpectedGraduateTerm").trim());
         int graduateYear = Integer.parseInt(csvReader.get("ExpectedGraduateYear").trim());
         DegreeCandidacy degree = DegreeCandidacy.valueOf(csvReader.get("Degree").trim());
-        String race = csvReader.get("Race").trim();
+//        String race = csvReader.get("Race").trim();
 
-        Students student = new Students(neuId, email, firstName, middleName, lastName, gender, race, scholarship,
+        Students student = new Students(neuId, email, firstName, middleName, lastName, gender, scholarship,
                 visa, phone, address, state, city, zip, entryTerm, entryYear, graduateTerm, graduateYear,
                 status, campus, degree, null, false);
 

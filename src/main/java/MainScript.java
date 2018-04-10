@@ -76,6 +76,6 @@ public class MainScript {
     String workExperienceFile = "samples/WorkExperiences.csv";
     String priorEducationFile = "samples/PriorEducations.csv";
 
-    loadAll(studentFile, courseFile, electiveFile, workExperienceFile, priorEducationFile, false);
+    loadAll(studentFile, courseFile, electiveFile, workExperienceFile, priorEducationFile, true);
   }
 }

@@ -52,7 +52,7 @@ public class AggregatedDataLoader {
     extractAndLoadListOfEmployers();
     extractAndLoadListOfBachelorMajors();
     extractAndLoadListOfDegrees();
-    extractAndLoadListOfRaces();
+//    extractAndLoadListOfRaces();
     extractAndLoadListOfStates();
   }
 
@@ -170,10 +170,10 @@ public class AggregatedDataLoader {
     multipleValueAggregatedDataDao.saveOrUpdateList(listOfDegrees);
   }
 
-  private void extractAndLoadListOfRaces() {
-    List<MultipleValueAggregatedData> listOfRaces = studentsDao.getRaceList();
-    multipleValueAggregatedDataDao.saveOrUpdateList(listOfRaces);
-  }
+//  private void extractAndLoadListOfRaces() {
+//    List<MultipleValueAggregatedData> listOfRaces = studentsDao.getRaceList();
+//    multipleValueAggregatedDataDao.saveOrUpdateList(listOfRaces);
+//  }
 
   private void extractAndLoadListOfStates() {
     List<MultipleValueAggregatedData> listOfStates = studentsDao.getStateList();
