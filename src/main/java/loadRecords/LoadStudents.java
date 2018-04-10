@@ -69,6 +69,12 @@ public class LoadStudents implements LoadFromCsv {
           int publicId = studentsDao.getStudentPublicId(neuId);
           student.setPublicId(publicId);
           studentsDao.updateStudentRecord(student);
+          // new
+          if (studentsPublicDao.findStudentByPublicId(publicId) == null) {
+            StudentsPublic studentsPublic = new StudentsPublic(publicId, graduateYear, true);
+            studentsPublicDao.createStudent(studentsPublic);
+          }
+          //
           LOGGER.info("Update student " + student);
         } else {
           studentsDao.addStudent(student);

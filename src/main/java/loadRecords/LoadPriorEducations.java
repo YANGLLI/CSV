@@ -64,7 +64,8 @@ public class LoadPriorEducations implements LoadFromCsv {
             int publicId = studentsDao.getStudentPublicId(neuId);
             UndergraduatesPublic undergraduatesPublic = new UndergraduatesPublic();
             undergraduatesPublic.setPublicId(publicId);
-            undergraduatesPublic.setUndergradDegree(degree.toString());
+//            undergraduatesPublic.setUndergradDegree(degree.toString());
+            undergraduatesPublic.setUndergradDegree(major);
             undergraduatesPublic.setUndergradSchool(institutionName);
 
             undergraduatesPublicDao.createUndergraduate(undergraduatesPublic);

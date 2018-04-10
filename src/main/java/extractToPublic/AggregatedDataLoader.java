@@ -29,8 +29,8 @@ public class AggregatedDataLoader {
       studentsDao = new StudentsDao(false);
       workExperiencesDao = new WorkExperiencesDao(false);
       priorEducationsDao = new PriorEducationsDao(false);
-      singleValueAggregatedDataDao = new SingleValueAggregatedDataDao(false);
-      multipleValueAggregatedDataDao = new MultipleValueAggregatedDataDao(false);
+      singleValueAggregatedDataDao = new SingleValueAggregatedDataDao();
+      multipleValueAggregatedDataDao = new MultipleValueAggregatedDataDao();
     }
   }
 

@@ -70,11 +70,11 @@ public class MainScript {
    *   hibernate mappings.
    */
   public static void main(String[] args) {
-    String studentFile = "/Users/yang/Courses/ASD/Backend/CSV/samples/Students.csv";
-    String courseFile = "/Users/yang/Courses/ASD/Backend/CSV/samples/Courses.csv";
-    String electiveFile = "/Users/yang/Courses/ASD/Backend/CSV/samples/Electives.csv";
-    String workExperienceFile = "/Users/yang/Courses/ASD/Backend/CSV/samples/WorkExperiences.csv";
-    String priorEducationFile = "/Users/yang/Courses/ASD/Backend/CSV/samples/PriorEducations.csv";
+    String studentFile = "samples/Students.csv";
+    String courseFile = "samples/Courses.csv";
+    String electiveFile = "samples/Electives.csv";
+    String workExperienceFile = "samples/WorkExperiences.csv";
+    String priorEducationFile = "samples/PriorEducations.csv";
 
     loadAll(studentFile, courseFile, electiveFile, workExperienceFile, priorEducationFile, false);
   }
