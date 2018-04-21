@@ -13,7 +13,7 @@
         </property>
 
         <property name="hibernate.connection.url">
-            jdbc:mariadb://localhost:3307/AlignAdmin
+            jdbc:mariadb://localhost:3306/AlignAdmin
         </property>
 
         <property name="hibernate.connection.username">
@@ -21,7 +21,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            Turkey#786
+            <!--Turkey#786-->
         </property>
 
         <property name="hibernate.c3p0.min_size">5</property>

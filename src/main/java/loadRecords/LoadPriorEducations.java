@@ -34,6 +34,13 @@ public class LoadPriorEducations implements LoadFromCsv {
     }
   }
 
+  /**
+   * Load PriorEducation table.
+   * If prior education is already exists, it will perform a update.
+   * If prior education is new, it will insert a new record.
+   *
+   * @param filePath
+   */
   @Override
   public void loadDatabase(String filePath) {
     try {

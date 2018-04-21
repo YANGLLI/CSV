@@ -1,218 +1,277 @@
 CompanyName,Coop,CurrentJob,Description,EndDate,NeuId,StartDate,Title
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,000,01/01/2016,Software Engineer
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,001,05/01/2017,Software Engineer Intern
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,002,05/01/2017,Software Engineer Intern
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,005,05/01/2017,Software Engineer Intern
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,006,01/01/2016,Software Engineer
-Concur,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,007,05/01/2017,Software Engineer Intern
-Google,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,009,01/01/2016,Software Engineer Intern
-Providence,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,009,09/01/2016,Software Engineer Intern
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,010,01/01/2016,Software Engineer
-Concur,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,011,05/01/2017,Software Engineer Intern
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,013,05/01/2017,Software Engineer Intern
-Providence,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,014,01/01/2016,Software Engineer Intern
-Google,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,014,09/01/2016,Software Engineer Intern
-ARL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,015,01/01/2016,Software Engineer
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,016,01/01/2016,Software Engineer
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,017,05/01/2017,Software Engineer Intern
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,019,01/01/2016,Software Engineer
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,020,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,021,01/01/2016,Software Engineer
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,023,05/01/2017,Software Engineer Intern
-Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,024,05/01/2017,Software Engineer Intern
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,030,01/01/2016,Software Engineer
-Facebook,No,No,Worked as Software Engineer for 1 year.,12/01/2016,033,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,034,01/01/2016,Software Engineer
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,035,01/01/2016,Software Engineer
-SAP,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,036,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,038,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,039,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,041,01/01/2016,Software Engineer
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,043,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,045,01/01/2016,Software Engineer
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,046,01/01/2016,Software Engineer
-SAP,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,047,05/01/2017,Software Engineer Intern
-Microsoft,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,048,05/01/2017,Software Engineer Intern
-Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,050,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,052,01/01/2016,Software Engineer
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,053,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,055,01/01/2016,Software Engineer Intern
-Zillow,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,055,09/01/2016,Software Engineer Intern
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,057,01/01/2016,Software Engineer
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,058,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,059,01/01/2016,Software Engineer
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,060,01/01/2016,Software Engineer
-Concur,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,061,01/01/2016,Software Engineer Intern
-Allen Institute,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,061,09/01/2016,Software Engineer Intern
-Zillow,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,062,05/01/2017,Software Engineer Intern
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,063,05/01/2017,Software Engineer Intern
-Amazon,No,No,Worked as Software Engineer for 1 year.,12/01/2016,064,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,065,01/01/2016,Software Engineer
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,067,01/01/2016,Software Engineer
-Zillow,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,068,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,069,05/01/2017,Software Engineer Intern
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,070,01/01/2016,Software Engineer
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,072,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,073,01/01/2016,Software Engineer
-Zillow,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,075,05/01/2017,Software Engineer Intern
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,076,01/01/2016,Software Engineer
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,078,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,079,01/01/2016,Software Engineer
-SalesForce,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,080,01/01/2016,Software Engineer Intern
-ARL,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,080,09/01/2016,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,083,01/01/2016,Software Engineer
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,084,05/01/2017,Software Engineer Intern
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,088,01/01/2016,Software Engineer
-Zillow,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,089,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,090,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,091,01/01/2016,Software Engineer
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,093,01/01/2016,Software Engineer
-Zillow,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,095,05/01/2017,Software Engineer Intern
-Concur,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,097,01/01/2016,Software Engineer Intern
-Microsoft,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,097,09/01/2016,Software Engineer Intern
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,098,01/01/2016,Software Engineer
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,101,01/01/2016,Software Engineer
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,102,05/01/2017,Software Engineer Intern
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,103,05/01/2017,Software Engineer Intern
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,104,01/01/2016,Software Engineer
-PNNL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,105,05/01/2017,Software Engineer Intern
-Microsoft,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,109,05/01/2017,Software Engineer Intern
-PNNL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,111,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,112,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,113,01/01/2016,Software Engineer Intern
-Zillow,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,113,09/01/2016,Software Engineer Intern
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,114,01/01/2016,Software Engineer
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,117,01/01/2016,Software Engineer
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,119,05/01/2017,Software Engineer Intern
-Facebook,No,No,Worked as Software Engineer for 1 year.,12/01/2016,120,01/01/2016,Software Engineer
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,122,05/01/2017,Software Engineer Intern
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,124,05/01/2017,Software Engineer Intern
-SAP,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,125,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,127,01/01/2016,Software Engineer
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,131,01/01/2016,Software Engineer
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,133,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,136,01/01/2016,Software Engineer
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,137,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,138,01/01/2016,Software Engineer
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,141,01/01/2016,Software Engineer
-Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,142,05/01/2017,Software Engineer Intern
-Concur,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,151,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,152,01/01/2016,Software Engineer
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,154,01/01/2016,Software Engineer
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,155,05/01/2017,Software Engineer Intern
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,156,01/01/2016,Software Engineer
-ARL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,159,01/01/2016,Software Engineer
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,160,05/01/2017,Software Engineer Intern
-ARL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,161,01/01/2016,Software Engineer
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,165,05/01/2017,Software Engineer Intern
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,166,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,171,01/01/2016,Software Engineer
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,172,01/01/2016,Software Engineer
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,173,05/01/2017,Software Engineer Intern
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,174,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,176,05/01/2017,Software Engineer Intern
-ARL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,177,01/01/2016,Software Engineer
-SAP,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,178,05/01/2017,Software Engineer Intern
-Amazon,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,181,05/01/2017,Software Engineer Intern
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,182,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,184,05/01/2017,Software Engineer Intern
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,185,05/01/2017,Software Engineer Intern
-Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,187,05/01/2017,Software Engineer Intern
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,190,01/01/2016,Software Engineer
-Amazon,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,194,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,196,05/01/2017,Software Engineer Intern
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,197,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,198,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,199,01/01/2016,Software Engineer
-Microsoft,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,200,05/01/2017,Software Engineer Intern
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,204,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,206,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,208,01/01/2016,Software Engineer
-Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,209,05/01/2017,Software Engineer Intern
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,210,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,212,01/01/2016,Software Engineer
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,216,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,219,05/01/2017,Software Engineer Intern
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,221,05/01/2017,Software Engineer Intern
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,223,01/01/2016,Software Engineer
-PNNL,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,226,01/01/2016,Software Engineer Intern
-ARL,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,226,09/01/2016,Software Engineer Intern
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,227,01/01/2016,Software Engineer
-Amazon,No,No,Worked as Software Engineer for 1 year.,12/01/2016,229,01/01/2016,Software Engineer
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,231,05/01/2017,Software Engineer Intern
-Concur,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,234,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,238,05/01/2017,Software Engineer Intern
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,239,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,241,05/01/2017,Software Engineer Intern
-PNNL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,242,05/01/2017,Software Engineer Intern
-Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,244,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,246,05/01/2017,Software Engineer Intern
-Microsoft,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,247,05/01/2017,Software Engineer Intern
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,250,01/01/2016,Software Engineer
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,257,05/01/2017,Software Engineer Intern
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,258,05/01/2017,Software Engineer Intern
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,260,01/01/2016,Software Engineer
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,263,01/01/2016,Software Engineer
-PNNL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,264,05/01/2017,Software Engineer Intern
-PNNL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,265,01/01/2016,Software Engineer
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,268,01/01/2016,Software Engineer
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,270,05/01/2017,Software Engineer Intern
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,272,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,274,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,276,01/01/2016,Software Engineer
-WayFair,No,No,Worked as Software Engineer for 1 year.,12/01/2016,281,01/01/2016,Software Engineer
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,282,01/01/2016,Software Engineer
-Facebook,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,284,01/01/2016,Software Engineer Intern
-PNNL,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,284,09/01/2016,Software Engineer Intern
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,285,05/01/2017,Software Engineer Intern
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,286,01/01/2016,Software Engineer
-Amazon,No,No,Worked as Software Engineer for 1 year.,12/01/2016,289,01/01/2016,Software Engineer
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,290,05/01/2017,Software Engineer Intern
-Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,293,05/01/2017,Software Engineer Intern
-Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,294,05/01/2017,Software Engineer Intern
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,297,01/01/2016,Software Engineer
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,299,01/01/2016,Software Engineer
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,302,05/01/2017,Software Engineer Intern
-Amazon,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,303,05/01/2017,Software Engineer Intern
-Expedia,No,No,Worked as Software Engineer for 1 year.,12/01/2016,305,01/01/2016,Software Engineer
-Nordstorm,No,No,Worked as Software Engineer for 1 year.,12/01/2016,309,01/01/2016,Software Engineer
-Google,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,310,05/01/2017,Software Engineer Intern
-SalesForce,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,314,05/01/2017,Software Engineer Intern
-WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,316,05/01/2017,Software Engineer Intern
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,320,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,321,01/01/2016,Software Engineer
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,322,05/01/2017,Software Engineer Intern
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,323,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,324,01/01/2016,Software Engineer
-Amazon,No,No,Worked as Software Engineer for 1 year.,12/01/2016,325,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,327,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,328,01/01/2016,Software Engineer
-Microsoft,No,No,Worked as Software Engineer for 1 year.,12/01/2016,332,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,335,01/01/2016,Software Engineer
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,338,01/01/2016,Software Engineer
-Concur,No,No,Worked as Software Engineer for 1 year.,12/01/2016,339,01/01/2016,Software Engineer
-SAP,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,340,05/01/2017,Software Engineer Intern
-ARL,No,No,Worked as Software Engineer for 1 year.,12/01/2016,342,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,343,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,347,01/01/2016,Software Engineer
-SalesForce,No,No,Worked as Software Engineer for 1 year.,12/01/2016,351,01/01/2016,Software Engineer
-Google,No,No,Worked as Software Engineer for 1 year.,12/01/2016,352,01/01/2016,Software Engineer
-PNNL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,354,05/01/2017,Software Engineer Intern
-Facebook,No,No,Worked as Software Engineer for 1 year.,12/01/2016,358,01/01/2016,Software Engineer
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,360,01/01/2016,Software Engineer
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,367,05/01/2017,Software Engineer Intern
-Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,369,05/01/2017,Software Engineer Intern
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,372,01/01/2016,Software Engineer
-WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,373,05/01/2017,Software Engineer Intern
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,375,05/01/2017,Software Engineer Intern
-Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,376,05/01/2017,Software Engineer Intern
-Allen Institute,No,No,Worked as Software Engineer for 1 year.,12/01/2016,377,01/01/2016,Software Engineer
-SAP,No,No,Worked as Software Engineer for 1 year.,12/01/2016,378,01/01/2016,Software Engineer
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,379,01/01/2016,Software Engineer
-ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,383,05/01/2017,Software Engineer Intern
-Facebook,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,384,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,387,01/01/2016,Software Engineer
-Microsoft,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,394,05/01/2017,Software Engineer Intern
-Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,08/01/2017,395,05/01/2017,Software Engineer Intern
-Providence,No,No,Worked as Software Engineer for 1 year.,12/01/2016,396,01/01/2016,Software Engineer
-Zillow,No,No,Worked as Software Engineer for 1 year.,12/01/2016,399,01/01/2016,Software Engineer
+SAP,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,001,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,001,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,002,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,002,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,005,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,005,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,007,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,007,01/01/2016,Software Engineer Intern
+SAP,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,014,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,014,01/01/2017,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,015,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,015,01/01/2016,Software Engineer Intern
+Google,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,021,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,021,01/01/2017,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,025,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,025,01/01/2017,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,026,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,026,01/01/2017,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,027,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,027,01/01/2016,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,031,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,031,01/01/2017,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,035,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,035,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,040,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,040,01/01/2016,Software Engineer Intern
+Google,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,044,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,044,01/01/2017,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,045,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,045,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,047,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,047,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,048,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,048,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,049,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,049,01/01/2016,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,050,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,050,01/01/2017,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,051,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,051,01/01/2017,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,054,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,054,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,056,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,056,01/01/2016,Software Engineer Intern
+SAP,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,058,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,058,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,066,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,066,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,067,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,067,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,068,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,068,01/01/2016,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,071,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,071,01/01/2017,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,082,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,082,01/01/2016,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,086,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,086,01/01/2016,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,088,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,088,01/01/2016,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,092,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,092,01/01/2017,Software Engineer Intern
+Facebook,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,094,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,094,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,096,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,096,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,099,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,099,01/01/2016,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,101,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,101,01/01/2016,Software Engineer Intern
+Facebook,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,104,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,104,01/01/2016,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,107,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,107,01/01/2017,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,108,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,108,01/01/2017,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,116,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,116,01/01/2016,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,125,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,125,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,127,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,127,01/01/2017,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,135,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,135,01/01/2016,Software Engineer Intern
+SAP,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,136,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,136,01/01/2017,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,138,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,138,01/01/2016,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,139,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,139,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,141,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,141,01/01/2017,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,142,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,142,01/01/2017,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,146,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,146,01/01/2016,Software Engineer Intern
+SalesForce,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,147,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,147,01/01/2017,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,149,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,149,01/01/2017,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,150,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,150,01/01/2016,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,152,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,152,01/01/2017,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,154,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,154,01/01/2017,Software Engineer Intern
+SAP,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,158,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,158,01/01/2017,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,159,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,159,01/01/2017,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,161,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,161,01/01/2016,Software Engineer Intern
+Facebook,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,162,01/01/2016,Software Engineer Intern
+Expedia,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,162,09/01/2016,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,164,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,164,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,165,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,165,01/01/2017,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,172,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,172,01/01/2016,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,175,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,175,01/01/2016,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,181,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,181,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,182,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,182,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,183,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,183,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,189,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,189,01/01/2017,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,195,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,195,01/01/2017,Software Engineer Intern
+Google,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,200,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,200,01/01/2017,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,204,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,204,01/01/2016,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,206,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,206,01/01/2016,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,208,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,208,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,209,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,209,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,210,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,210,01/01/2016,Software Engineer Intern
+SalesForce,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,211,01/01/2016,Software Engineer Intern
+Allen Institute,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,211,09/01/2016,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,214,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,214,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,217,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,217,01/01/2017,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,220,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,220,01/01/2016,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,225,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,225,01/01/2016,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,226,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,226,01/01/2017,Software Engineer Intern
+SalesForce,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,228,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,228,01/01/2017,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,233,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,233,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,236,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,236,01/01/2016,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,238,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,238,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,240,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,240,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,241,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,241,01/01/2016,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,245,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,245,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,249,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,249,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,251,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,251,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,254,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,254,01/01/2017,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,256,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,256,01/01/2017,Software Engineer Intern
+SAP,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,258,01/01/2016,Software Engineer Intern
+Nordstorm,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,258,09/01/2016,Software Engineer Intern
+Google,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,259,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,259,01/01/2017,Software Engineer Intern
+Amazon,Yes,No,Worked as Software Engineer Intern for 3 months.,04/01/2016,260,01/01/2016,Software Engineer Intern
+Nordstorm,Yes,No,Worked as Software Engineer Intern for 3 months.,12/01/2016,260,09/01/2016,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,263,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,263,01/01/2016,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,268,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,268,01/01/2016,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,271,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,271,01/01/2016,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,272,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,272,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,277,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,277,01/01/2017,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,281,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,281,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,284,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,284,01/01/2016,Software Engineer Intern
+Concur,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,285,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,285,01/01/2017,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,287,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,287,01/01/2016,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,297,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,297,01/01/2017,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,299,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,299,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,301,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,301,01/01/2016,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,304,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,304,01/01/2016,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,308,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,308,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,310,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,310,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,311,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,311,01/01/2016,Software Engineer Intern
+Facebook,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,313,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,313,01/01/2016,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,314,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,314,01/01/2017,Software Engineer Intern
+SAP,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,318,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,318,01/01/2016,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,322,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,322,01/01/2017,Software Engineer Intern
+SalesForce,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,323,05/01/2017,Software Engineer Intern
+ARL,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,323,01/01/2017,Software Engineer Intern
+Amazon,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,326,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,326,01/01/2017,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,327,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,327,01/01/2016,Software Engineer Intern
+Microsoft,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,330,05/01/2017,Software Engineer Intern
+WayFair,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,330,01/01/2017,Software Engineer Intern
+Facebook,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,331,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,331,01/01/2016,Software Engineer Intern
+PNNL,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,332,05/01/2017,Software Engineer Intern
+Expedia,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,332,01/01/2017,Software Engineer Intern
+Microsoft,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,333,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,333,01/01/2016,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,334,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,334,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,349,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,349,01/01/2016,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,353,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,353,01/01/2016,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,357,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,357,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,358,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,358,01/01/2016,Software Engineer Intern
+Amazon,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,360,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,360,01/01/2016,Software Engineer Intern
+Zillow,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,362,01/01/2017,Software Engineer
+Providence,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,362,01/01/2016,Software Engineer Intern
+Google,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,363,01/01/2017,Software Engineer
+Nordstorm,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,363,01/01/2016,Software Engineer Intern
+Facebook,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,367,01/01/2017,Software Engineer
+ARL,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,367,01/01/2016,Software Engineer Intern
+Concur,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,369,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,369,01/01/2016,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,370,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,370,01/01/2017,Software Engineer Intern
+SalesForce,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,374,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,374,01/01/2017,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,377,05/01/2017,Software Engineer Intern
+Allen Institute,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,377,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,380,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,380,01/01/2016,Software Engineer Intern
+Zillow,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,384,05/01/2017,Software Engineer Intern
+Providence,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,384,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,387,01/01/2017,Software Engineer
+WayFair,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,387,01/01/2016,Software Engineer Intern
+SalesForce,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,393,01/01/2017,Software Engineer
+Expedia,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,393,01/01/2016,Software Engineer Intern
+Facebook,Yes,Yes,Worked ad Software Engineer Intern for 3 months.,08/01/2017,395,05/01/2017,Software Engineer Intern
+Nordstorm,Yes,No,Worked ad Software Engineer Intern for 3 months.,04/01/2017,395,01/01/2017,Software Engineer Intern
+PNNL,No,Yes,Worked as Software Engineer for 1 year.,12/01/2017,399,01/01/2017,Software Engineer
+Allen Institute,Yes,No,Worked as Software Engineer for 1 year.,12/01/2016,399,01/01/2016,Software Engineer Intern

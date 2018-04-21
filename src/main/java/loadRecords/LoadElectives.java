@@ -36,6 +36,13 @@ public class LoadElectives implements LoadFromCsv {
     }
   }
 
+  /**
+   * Load Electives table.
+   * If elective is already exists, it will perform a update.
+   * If elective is new, it will insert a new record.
+   *
+   * @param filePath
+   */
   @Override
   public void loadDatabase(String filePath) {
     try {

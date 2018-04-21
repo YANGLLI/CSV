@@ -34,6 +34,13 @@ public class LoadWorkExperiences implements LoadFromCsv {
     }
   }
 
+  /**
+   * Load WorkExperiences table.
+   * If work experience is already exists, it will perform a update.
+   * If work experience is new, it will insert a new record.
+   *
+   * @param filePath
+   */
   @Override
   public void loadDatabase(String filePath) {
     try {

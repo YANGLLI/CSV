@@ -22,6 +22,13 @@ public class LoadCourses implements LoadFromCsv {
     }
   }
 
+  /**
+   * Load Courses table.
+   * If course is already exists, it will perform a update.
+   * If course is new, it will insert a new record.
+   *
+   * @param filePath
+   */
   @Override
   public void loadDatabase(String filePath) {
     try {

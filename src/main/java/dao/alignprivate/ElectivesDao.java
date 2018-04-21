@@ -55,6 +55,12 @@ public class ElectivesDao {
     return elective;
   }
 
+  /**
+   * Update an elective.
+   *
+   * @param elective
+   * @return true if update successfully.
+   */
   public boolean updateElectives(Electives elective) {
     Transaction tx = null;
     try {

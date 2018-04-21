@@ -80,6 +80,11 @@ public class StudentsDao {
     return true;
   }
 
+  /**
+   * Get student public id by neu id.
+   * @param neuId
+   * @return
+   */
   public int getStudentPublicId(String neuId) {
     try {
       session = factory.openSession();

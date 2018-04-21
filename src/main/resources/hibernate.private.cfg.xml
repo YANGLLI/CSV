@@ -37,5 +37,6 @@
         <mapping resource="Electives.hbm.xml" />
         <mapping resource="Privacies.hbm.xml" />
         <mapping resource="PriorEducations.hbm.xml" />
+        <mapping resource="Photos.hbm.xml" />
     </session-factory>
 </hibernate-configuration>
