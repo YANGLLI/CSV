@@ -9,8 +9,7 @@
 #### 1. The jar file resides in folder out > artifacts > CSV_jar > CSV.jar
 #### 2. To load database from csv files, run the jar with file path: java -jar CSV.jar [StudentFilePath] [CourseFilePath] [ElectiveFilePath] [WorkExperienceFilePath] [PriorEducationFilePath]
 
-## If there is any change in database schema, dev has to change models, hibernate mappings, csv file, load functions correspondingly, and rebuild the jar.
-
-## Detail load functions are implemented in loadRecords. Hibernate mappings and configurations are defined in resources.
-
-## CSV samples are created in samples folder. A Jupyter Notebook can be found in the same folder which was used to generate sample files.
+## Note:
+#### 1.If there is any change in database schema, dev has to change models, hibernate mappings, csv file, load functions correspondingly, and rebuild the jar.
+#### 2.Detail load functions are implemented in loadRecords. Hibernate mappings and configurations are defined in resources.
+#### 3.CSV samples are created in samples folder. A Jupyter Notebook can be found in the same folder which was used to generate sample files.
