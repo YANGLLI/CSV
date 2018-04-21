@@ -68,9 +68,6 @@ public class MainScript {
     String workExperienceFile = args[3];
     String priorEducationFile = args[4];
     boolean test = false;
-    if (args.length == 6) {
-      test = Boolean.getBoolean(args[5]);
-    }
 
 //    String studentFile = "samples/Students.csv";
 //    String courseFile = "samples/Courses.csv";
